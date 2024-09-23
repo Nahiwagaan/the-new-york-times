@@ -1,0 +1,2231 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2024-09-22T17:40:05-04:00",
+    "num_results": 36,
+    "results": [
+      {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Netanyahu and Hezbollah Trade Fresh Threats",
+        "abstract": "The Israeli leader vowed to take “whatever action is necessary” to diminish the threat posed by Hezbollah. A senior official with the militant group warned that an overnight barrage of missiles against Israel was “just the beginning.”",
+        "url": "https://www.nytimes.com/live/2024/09/22/world/gaza-israel-hamas-hezbollah",
+        "uri": "nyt://promo/b232079c-207e-5b7c-9439-980d7d33ab15",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2024-09-22T18:01:48-04:00",
+        "created_date": "2024-09-22T03:40:06-04:00",
+        "published_date": "2024-09-22T03:40:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-reax-zvqf/22mideast-crisis-reax-zvqf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mourners gathered for the funerals of those killed in the airstrike of a residential building in Beirut.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-reax-zvqf/22mideast-crisis-reax-zvqf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mourners gathered for the funerals of those killed in the airstrike of a residential building in Beirut.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-reax-zvqf/22mideast-crisis-reax-zvqf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mourners gathered for the funerals of those killed in the airstrike of a residential building in Beirut.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A French Fair as Workers’ Paradise, Feting Cuisine, Music and Communism",
+        "abstract": "The Fête de l’Humanité, a blend of Burning Man, Woodstock and a political convention, attracts the masses with bands, lectures and food, but here K.F.C. is C.F.K.: Communist Fried Kitchen.",
+        "url": "https://www.nytimes.com/2024/09/22/world/europe/france-humanity-festival-communism.html",
+        "uri": "nyt://article/61df5ff1-699c-55a7-ba08-bb4eb1b9db02",
+        "byline": "By Catherine Porter",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T09:24:02-04:00",
+        "created_date": "2024-09-22T00:01:16-04:00",
+        "published_date": "2024-09-22T00:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "France Dispatch",
+        "des_facet": [
+          "Communism (Theory and Philosophy)",
+          "Festivals",
+          "Music"
+        ],
+        "org_facet": [
+          "French Communist Party"
+        ],
+        "per_facet": [
+          "Davis, Angela Y",
+          "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+          "France"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/00france-festival-01-jmpw/00france-festival-01-jmpw-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Fête de l’Humanité, a popular festival on the outskirts of Paris, celebrates left-wing politics in general, and French Communism in particular.",
+            "copyright": "Dmitry Kostyukov for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/00france-festival-01-jmpw/00france-festival-01-jmpw-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Fête de l’Humanité, a popular festival on the outskirts of Paris, celebrates left-wing politics in general, and French Communism in particular.",
+            "copyright": "Dmitry Kostyukov for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/00france-festival-01-jmpw/00france-festival-01-jmpw-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Fête de l’Humanité, a popular festival on the outskirts of Paris, celebrates left-wing politics in general, and French Communism in particular.",
+            "copyright": "Dmitry Kostyukov for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.N. Meets Amid a Backdrop of Growing Chaos and Violence",
+        "abstract": "Beginning Tuesday, world leaders will discuss three wars, climate change, rising sea levels and proposals to expand representation on the Security Council.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/un-meeting-war-climate.html",
+        "uri": "nyt://article/6115348c-8c09-5693-9c59-f38ec9b2ac35",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T20:24:00-04:00",
+        "created_date": "2024-09-22T05:02:35-04:00",
+        "published_date": "2024-09-22T05:02:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "International Relations",
+          "Israel-Gaza War (2023- )",
+          "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+          "General Assembly (UN)",
+          "Security Council (UN)",
+          "United Nations"
+        ],
+        "per_facet": [
+          "Guterres, Antonio",
+          "Pezeshkian, Masoud"
+        ],
+        "geo_facet": [
+          "Africa",
+          "Far East, South and Southeast Asia and Pacific Areas",
+          "Gaza Strip",
+          "South America",
+          "Sudan",
+          "Ukraine"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22unga-meeting01-photo-qhtz/22unga-meeting01-photo-qhtz-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The United Nations headquarters in New York. By most accounts, the world has descended even deeper into chaos and violence since last year’s meeting of the General Assembly.",
+            "copyright": "Justin Lane/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22unga-meeting01-photo-qhtz/22unga-meeting01-photo-qhtz-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The United Nations headquarters in New York. By most accounts, the world has descended even deeper into chaos and violence since last year’s meeting of the General Assembly.",
+            "copyright": "Justin Lane/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22unga-meeting01-photo-qhtz/22unga-meeting01-photo-qhtz-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The United Nations headquarters in New York. By most accounts, the world has descended even deeper into chaos and violence since last year’s meeting of the General Assembly.",
+            "copyright": "Justin Lane/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "For Mideast Foes, Diplomacy Takes a Back Seat to Military Force",
+        "abstract": "After years of failed deals and tit-for-tat violence, neither the Israelis nor the Palestinians believe their adversaries will ever negotiate in good faith.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/mideast-diplomacy-hezbollah-israel.html",
+        "uri": "nyt://article/e77963ef-e74d-53ce-b065-189cdb3f22ea",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T12:07:03-04:00",
+        "created_date": "2024-09-22T05:02:13-04:00",
+        "published_date": "2024-09-22T05:02:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "International Relations",
+          "Palestinians",
+          "Israel-Gaza War (2023- )",
+          "Defense and Military Forces"
+        ],
+        "org_facet": [
+          "Hamas",
+          "Hezbollah",
+          "Houthis"
+        ],
+        "per_facet": [
+          "Abbas, Mahmoud",
+          "Netanyahu, Benjamin",
+          "Olmert, Ehud"
+        ],
+        "geo_facet": [
+          "Gaza Strip",
+          "Iran",
+          "Lebanon"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21israel-diplo-01-mhvt/21israel-diplo-01-mhvt-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The site of an Israeli airstrike in the southern Lebanese village of Khiam on Thursday. Recent attacks have fueled concerns of a broader regional war.",
+            "copyright": "Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21israel-diplo-01-mhvt/21israel-diplo-01-mhvt-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The site of an Israeli airstrike in the southern Lebanese village of Khiam on Thursday. Recent attacks have fueled concerns of a broader regional war.",
+            "copyright": "Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21israel-diplo-01-mhvt/21israel-diplo-01-mhvt-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The site of an Israeli airstrike in the southern Lebanese village of Khiam on Thursday. Recent attacks have fueled concerns of a broader regional war.",
+            "copyright": "Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The German Chancellor’s Party Ekes Out a Win Over the Far Right",
+        "abstract": "The narrow win by Olaf Scholz’s party came in a state election, the third in a series that was seen as a reflection of the national mood and a snapshot of the government’s popularity.",
+        "url": "https://www.nytimes.com/2024/09/22/world/europe/germany-election-results-brandenburg-scholz.html",
+        "uri": "nyt://article/823b7ad1-3ac8-59c1-91f4-32f4ce19bc05",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T17:36:40-04:00",
+        "created_date": "2024-09-22T17:36:40-04:00",
+        "published_date": "2024-09-22T17:36:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Politics and Government",
+          "Elections",
+          "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [
+          "Social Democratic Party (Germany)",
+          "AfD"
+        ],
+        "per_facet": [
+          "Scholz, Olaf (1958- )"
+        ],
+        "geo_facet": [
+          "Brandenburg (Germany)",
+          "Germany",
+          "Saxony (Germany)",
+          "Thuringia (Germany)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-state-election-tglp/22germany-state-election-tglp-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1364,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, center, the Social Democrat governor of the state of Brandenburg, in Potsdam, Germany, on Sunday.",
+            "copyright": "Markus Schreiber/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-state-election-tglp/22germany-state-election-tglp-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, center, the Social Democrat governor of the state of Brandenburg, in Potsdam, Germany, on Sunday.",
+            "copyright": "Markus Schreiber/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-state-election-tglp/22germany-state-election-tglp-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, center, the Social Democrat governor of the state of Brandenburg, in Potsdam, Germany, on Sunday.",
+            "copyright": "Markus Schreiber/Associated Press"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Leftist Leader Elected President as Sri Lanka Rejects the Old Order",
+        "abstract": "Anura Kumara Dissanayake’s strong showing reveals voter weariness with leadership that has led to a national economic crisis and crushing hardship for many people.",
+        "url": "https://www.nytimes.com/2024/09/21/world/asia/sri-lanka-election-results.html",
+        "uri": "nyt://article/2cd5c0af-6246-5f9d-b3f5-9fbea95c1f33",
+        "byline": "By Mujib Mashal and Pamodi Waravita",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T12:21:42-04:00",
+        "created_date": "2024-09-21T23:09:09-04:00",
+        "published_date": "2024-09-21T23:09:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Elections",
+          "Politics and Government"
+        ],
+        "org_facet": [
+          "Janatha Vimukthi Peramuna"
+        ],
+        "per_facet": [
+          "Dissanayake, Anura Kumara",
+          "Ranil Wickremesinghe"
+        ],
+        "geo_facet": [
+          "Sri Lanka"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22srilanka-election-tfph/22srilanka-election-tfph-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anura Kumara Dissanayake, center, leaving a polling station after casting his vote in the presidential election in Colombo, Sri Lanka, on Saturday.",
+            "copyright": "Chamila Karunarathne/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22srilanka-election-tfph/22srilanka-election-tfph-threeByTwoSmallAt2X-v3.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anura Kumara Dissanayake, center, leaving a polling station after casting his vote in the presidential election in Colombo, Sri Lanka, on Saturday.",
+            "copyright": "Chamila Karunarathne/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22srilanka-election-tfph/22srilanka-election-tfph-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anura Kumara Dissanayake, center, leaving a polling station after casting his vote in the presidential election in Colombo, Sri Lanka, on Saturday.",
+            "copyright": "Chamila Karunarathne/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "At a Remote Scottish Pub, a Pint Worth Hiking 20 Miles",
+        "abstract": "The Old Forge on the rugged peninsula of Knoydart is a community-owned meeting point for locals and visitors — at least those willing to trek across the wilderness.",
+        "url": "https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html",
+        "uri": "nyt://article/3c4db410-e8fc-501e-be50-9f110158ec8c",
+        "byline": "By Isabella Kwai",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T08:33:22-04:00",
+        "created_date": "2024-09-22T05:01:47-04:00",
+        "published_date": "2024-09-22T05:01:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Hikes and Hiking",
+          "Wilderness Areas",
+          "Bars and Nightclubs"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Great Britain",
+          "Scotland"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Old Forge is known as the remotest pub in mainland Britain.",
+            "copyright": "Andy Buchanan/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Old Forge is known as the remotest pub in mainland Britain.",
+            "copyright": "Andy Buchanan/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Old Forge is known as the remotest pub in mainland Britain.",
+            "copyright": "Andy Buchanan/Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Watch For in a Key German State Election",
+        "abstract": "The far right and far left are poised to make significant gains in state voting on Sunday, possibly affecting the stability of the national government in Berlin.",
+        "url": "https://www.nytimes.com/2024/09/22/world/europe/germany-election-brandenburg.html",
+        "uri": "nyt://article/82d05c3b-3528-5580-852d-6421b4d1ea46",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T00:01:15-04:00",
+        "created_date": "2024-09-22T00:01:15-04:00",
+        "published_date": "2024-09-22T00:01:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Right-Wing Extremism and Alt-Right",
+          "Elections"
+        ],
+        "org_facet": [
+          "Alternative for Germany",
+          "Christian Democratic Union (Germany)",
+          "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+          "Scholz, Olaf (1958- )",
+          "Wagenknecht, Sahra (1969- )"
+        ],
+        "geo_facet": [
+          "Brandenburg (Germany)",
+          "Germany"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-election-explainer01-photo-jblt/22germany-election-explainer01-photo-jblt-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, the governor of the eastern German state of Brandenburg, is one of the most popular members of Chancellor Olaf Scholz’s party, but they have been facing headwinds.",
+            "copyright": "Fabrizio Bensch/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-election-explainer01-photo-jblt/22germany-election-explainer01-photo-jblt-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, the governor of the eastern German state of Brandenburg, is one of the most popular members of Chancellor Olaf Scholz’s party, but they have been facing headwinds.",
+            "copyright": "Fabrizio Bensch/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22germany-election-explainer01-photo-jblt/22germany-election-explainer01-photo-jblt-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dietmar Woidke, the governor of the eastern German state of Brandenburg, is one of the most popular members of Chancellor Olaf Scholz’s party, but they have been facing headwinds.",
+            "copyright": "Fabrizio Bensch/Reuters"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Congo Releases More Than 700 Inmates After a Deadly Stampede",
+        "abstract": "At least 129 people died when inmates tried to escape from Makala Prison, where conditions are abysmal and overcrowding is a major problem.",
+        "url": "https://www.nytimes.com/2024/09/22/world/africa/congo-prison-release.html",
+        "uri": "nyt://article/6f3499bf-fcf1-57ae-bf8f-dec938470336",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T06:17:55-04:00",
+        "created_date": "2024-09-22T06:17:55-04:00",
+        "published_date": "2024-09-22T06:17:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Prisons and Prisoners",
+          "Prison Escapes",
+          "Sex Crimes",
+          "Stampedes",
+          "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Kinshasa (Democratic Republic of Congo)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22congo-prison-bqvz/22congo-prison-bqvz-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1364,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Inmates waiting to be released from Makala Prison in Kinshasa, Democratic Republic of Congo, on Saturday.",
+            "copyright": "Chris Milosi/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22congo-prison-bqvz/22congo-prison-bqvz-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Inmates waiting to be released from Makala Prison in Kinshasa, Democratic Republic of Congo, on Saturday.",
+            "copyright": "Chris Milosi/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22congo-prison-bqvz/22congo-prison-bqvz-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Inmates waiting to be released from Makala Prison in Kinshasa, Democratic Republic of Congo, on Saturday.",
+            "copyright": "Chris Milosi/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Explosion at an Iranian Mine Kills Dozens, State Media Says",
+        "abstract": "A methane leak set off the explosion, the country’s official media said, and a rescue effort was underway for those believed to be trapped in the mine.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/iran-explosion-coal-mine-methane.html",
+        "uri": "nyt://article/f236e824-ba93-544c-9e1d-976295126293",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T13:18:14-04:00",
+        "created_date": "2024-09-22T06:02:08-04:00",
+        "published_date": "2024-09-22T06:02:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Deaths (Fatalities)",
+          "Accidents and Safety",
+          "Mines and Mining",
+          "Methane",
+          "Coal"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Iran",
+          "Tabas, Iran"
+        ],
+        "multimedia": null,
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Heavy Rain in Japan Causes Deadly Flooding and Landslides",
+        "abstract": "One person is dead and seven others are missing in Noto Peninsula, Japanese news media reported. The region is still recovering from a catastrophic earthquake.",
+        "url": "https://www.nytimes.com/2024/09/22/world/asia/japan-rain-flooding-landslide.html",
+        "uri": "nyt://article/963098ea-7df2-5d87-b9e2-083cfd5faa56",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T10:14:10-04:00",
+        "created_date": "2024-09-22T01:41:05-04:00",
+        "published_date": "2024-09-22T01:41:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Landslides and Mudslides",
+          "Deaths (Fatalities)",
+          "Rain",
+          "Floods",
+          "Disasters and Emergencies"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Japan"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22xp-japan-wbhl/22xp-japan-wbhl-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Residents survey damage after flooding due to heavy rains in Suzu, Ishikawa prefecture, on Saturday.",
+            "copyright": "Jiji Press/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22xp-japan-wbhl/22xp-japan-wbhl-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Residents survey damage after flooding due to heavy rains in Suzu, Ishikawa prefecture, on Saturday.",
+            "copyright": "Jiji Press/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22xp-japan-wbhl/22xp-japan-wbhl-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Residents survey damage after flooding due to heavy rains in Suzu, Ishikawa prefecture, on Saturday.",
+            "copyright": "Jiji Press/Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "africa",
+        "title": "How a U.S. Ally Uses Aid as a Cover in War",
+        "abstract": "The United Arab Emirates is expanding a covert campaign to back a winner in Sudan’s civil war. Waving the banner of the Red Crescent, it is also smuggling weapons and deploying drones.",
+        "url": "https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html",
+        "uri": "nyt://article/7bc0f53e-3bab-5923-80a3-0d46cc92bdad",
+        "byline": "By Declan Walsh and Christoph Koettl",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T08:59:42-04:00",
+        "created_date": "2024-09-21T06:54:22-04:00",
+        "published_date": "2024-09-21T06:54:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "War and Armed Conflicts",
+          "Defense and Military Forces",
+          "Foreign Aid",
+          "Arms Trade",
+          "Humanitarian Aid",
+          "Drones (Pilotless Planes)",
+          "vis-video"
+        ],
+        "org_facet": [
+          "Rapid Support Forces (Sudan)",
+          "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Sudan",
+          "United Arab Emirates",
+          "Darfur (Sudan)",
+          "Chad"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/2024-09-20-amdjarass-top-index/2024-09-20-amdjarass-top-index-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1333,
+            "width": 2000,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/2024-09-20-amdjarass-top-index/2024-09-20-amdjarass-top-index-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/2024-09-20-amdjarass-top-index/2024-09-20-amdjarass-top-index-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Albania Is Planning a New Muslim State Inside Its Capital",
+        "abstract": "Prime Minister Edi Rama says he wants to give members of the Bektashi, a Shiite Sufi order, their own Vatican-style enclave as a way of promoting religious tolerance.",
+        "url": "https://www.nytimes.com/2024/09/21/world/europe/albania-tirana-muslim-state-bektashi.html",
+        "uri": "nyt://article/10fad6f0-3d46-58ea-993f-e72f0a7b493b",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T10:40:33-04:00",
+        "created_date": "2024-09-21T05:03:29-04:00",
+        "published_date": "2024-09-21T05:03:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Politics and Government",
+          "International Relations",
+          "Muslims and Islam",
+          "Sufism (Religion)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Rama, Edi",
+          "Brahimaj, Edmond (Baba Mondi)"
+        ],
+        "geo_facet": [
+          "Albania",
+          "Tirana (Albania)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21albania-islam-01-kbpf/21albania-islam-01-kbpf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1362,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The compound in Tirana, the Albanian capital, that would become the Sovereign State of the Bektashi Order.",
+            "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21albania-islam-01-kbpf/21albania-islam-01-kbpf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The compound in Tirana, the Albanian capital, that would become the Sovereign State of the Bektashi Order.",
+            "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21albania-islam-01-kbpf/21albania-islam-01-kbpf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The compound in Tirana, the Albanian capital, that would become the Sovereign State of the Bektashi Order.",
+            "copyright": "Hilary Swift for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Leader of Kenya, Donor to Haiti Police Force, Makes First Visit",
+        "abstract": "The trip by President William Ruto of Kenya came against a bleak backdrop in Haiti, where gangs operate with impunity and the Kenyan officers remain largely out of sight.",
+        "url": "https://www.nytimes.com/2024/09/21/world/americas/kenya-haiti-ruto.html",
+        "uri": "nyt://article/19c7927d-b645-5e5f-9faf-29fd7d83b95c",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T06:52:16-04:00",
+        "created_date": "2024-09-21T15:39:23-04:00",
+        "published_date": "2024-09-21T15:39:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Gangs"
+        ],
+        "org_facet": [
+          "United Nations"
+        ],
+        "per_facet": [
+          "Ruto, William"
+        ],
+        "geo_facet": [
+          "Haiti",
+          "Kenya"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21haiti-kenya-sub-photo-qtcg/21haiti-kenya-sub-photo-qtcg-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1411,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President William Ruto of Kenya, center, with police officers from his country in Port-au-Prince, Haiti, on Saturday.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21haiti-kenya-sub-photo-qtcg/21haiti-kenya-sub-photo-qtcg-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President William Ruto of Kenya, center, with police officers from his country in Port-au-Prince, Haiti, on Saturday.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21haiti-kenya-sub-photo-qtcg/21haiti-kenya-sub-photo-qtcg-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President William Ruto of Kenya, center, with police officers from his country in Port-au-Prince, Haiti, on Saturday.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel and Hezbollah Threaten to Hit Harder, Raising Fears of All-Out War",
+        "abstract": "A leader of the Iranian-backed militia said its latest barrage was “just the beginning,” and an Israeli military official said, “Our strikes will intensify.”",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/israel-hezbollah-conflict.html",
+        "uri": "nyt://article/7fdc6f97-1bc3-560e-986e-b4bbff99a5dd",
+        "byline": "By Adam Rasgon, Euan Ward, Hwaida Saad and Ken Belson",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T18:43:03-04:00",
+        "created_date": "2024-09-22T17:37:55-04:00",
+        "published_date": "2024-09-22T17:37:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Iran-Israel Proxy Conflict",
+          "Israel-Gaza War (2023- )",
+          "Palestinians"
+        ],
+        "org_facet": [
+          "Hezbollah"
+        ],
+        "per_facet": [
+          "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+          "Israel",
+          "Lebanon"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-ledeall-ltmq/22mideast-ledeall-ltmq-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kiryat Bialik, a town north of Haifa in Israel, after a Hezbollah strike on Sunday.",
+            "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-ledeall-ltmq/22mideast-ledeall-ltmq-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kiryat Bialik, a town north of Haifa in Israel, after a Hezbollah strike on Sunday.",
+            "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-ledeall-ltmq/22mideast-ledeall-ltmq-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kiryat Bialik, a town north of Haifa in Israel, after a Hezbollah strike on Sunday.",
+            "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "In a Hezbollah-Dominated Area of Beirut, a Mix of Defiance and Unease",
+        "abstract": "Many residents of Dahiya were grappling with uncertainty over what comes next.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/beirut-funeral-ibrahim-aqeel-hezbollah.html",
+        "uri": "nyt://article/b13698f2-3faf-504a-aaca-e25b01056723",
+        "byline": "By Christina Goldbaum and Hwaida Saad",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T17:08:54-04:00",
+        "created_date": "2024-09-22T13:00:59-04:00",
+        "published_date": "2024-09-22T13:00:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Funerals and Memorials",
+          "Beirut, Lebanon, Explosions (2020)"
+        ],
+        "org_facet": [
+          "Hezbollah"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Beirut (Lebanon)",
+          "Lebanon",
+          "Israel"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-beirut-scene-bcqp/22mideast-crisis-beirut-scene-bcqp-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A funeral procession for two Hezbollah commanders moving through Beirut on Sunday.",
+            "copyright": "Bilal Hussein/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-beirut-scene-bcqp/22mideast-crisis-beirut-scene-bcqp-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A funeral procession for two Hezbollah commanders moving through Beirut on Sunday.",
+            "copyright": "Bilal Hussein/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-beirut-scene-bcqp/22mideast-crisis-beirut-scene-bcqp-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A funeral procession for two Hezbollah commanders moving through Beirut on Sunday.",
+            "copyright": "Bilal Hussein/Associated Press"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "magazine",
+        "subsection": "",
+        "title": "The Heavy Toll of Desertion From the Russian Army",
+        "abstract": "Here is what we can learn about the Russian military and its soldiers from the story of ‘Ivan’ and ‘Anna’ in The New York Times Magazine.",
+        "url": "https://www.nytimes.com/2024/09/22/magazine/desertion-russian-army-ukraine-war.html",
+        "uri": "nyt://article/55d24bbe-c81e-58e6-9b94-bbf5ee6abf00",
+        "byline": "By Sarah A. Topol",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T11:59:10-04:00",
+        "created_date": "2024-09-22T11:59:10-04:00",
+        "published_date": "2024-09-22T11:59:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Desertion (Military)",
+          "Russian Invasion of Ukraine (2022)",
+          "Defense and Military Forces",
+          "Corruption (Institutional)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Putin, Vladimir V",
+          "Shoigu, Sergei K"
+        ],
+        "geo_facet": [
+          "Russia"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/magazine/22mag-Deserter-03/22mag-Deserter-03-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 1638,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Elinor Carucci for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/magazine/22mag-Deserter-03/22mag-Deserter-03-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Elinor Carucci for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/magazine/22mag-Deserter-03/22mag-Deserter-03-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Elinor Carucci for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Videos Show Hezbollah Missile Hit Residential Area in Northern Israel",
+        "abstract": "An overnight barrage included around 150 rockets, cruise missiles and drones, Israel’s military said. Air defenses intercepted most, but the town of Kiryat Bialik suffered a direct hit.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/hezbollah-kiryat-bialik-israel-videos.html",
+        "uri": "nyt://article/7ba43562-ced0-5d29-a646-7a6d62bf81c6",
+        "byline": "By Sanjana Varghese and Malachy Browne",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T09:15:01-04:00",
+        "created_date": "2024-09-22T09:15:01-04:00",
+        "published_date": "2024-09-22T09:15:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+          "New York Times",
+          "Hezbollah"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Haifa (Israel)",
+          "Israel"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/world/22vi-hezbollah/22vi-hezbollah-superJumbo.png",
+            "format": "Super Jumbo",
+            "height": 1358,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A dashcam video captures the moment a missile fired by Hezbollah struck near Haifa in Israel.",
+            "copyright": "The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/world/22vi-hezbollah/22vi-hezbollah-threeByTwoSmallAt2X.png",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A dashcam video captures the moment a missile fired by Hezbollah struck near Haifa in Israel.",
+            "copyright": "The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/world/22vi-hezbollah/22vi-hezbollah-thumbLarge.png",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A dashcam video captures the moment a missile fired by Hezbollah struck near Haifa in Israel.",
+            "copyright": "The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel’s Military Closes Al Jazeera’s Office in the West Bank",
+        "abstract": "The Israeli authorities have been putting pressure on the local operations of the network, saying its coverage threatens national security.",
+        "url": "https://www.nytimes.com/2024/09/22/world/middleeast/al-jazeera-west-bank-raid.html",
+        "uri": "nyt://article/d71b50a6-a512-551e-a44c-3a653c0ec903",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T12:50:24-04:00",
+        "created_date": "2024-09-22T04:55:46-04:00",
+        "published_date": "2024-09-22T04:55:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "News and News Media",
+          "Defense and Military Forces"
+        ],
+        "org_facet": [
+          "Al Jazeera"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Israel",
+          "West Bank"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-al-jazeera/22mideast-crisis-Ramallah-bwft-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An Israeli military vehicle outside the building that houses the Al Jazeera office in Ramallah, in the Israeli-occupied West Bank, on Sunday.",
+            "copyright": "Mohamad Torokman/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-al-jazeera/22mideast-crisis-Ramallah-bwft-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An Israeli military vehicle outside the building that houses the Al Jazeera office in Ramallah, in the Israeli-occupied West Bank, on Sunday.",
+            "copyright": "Mohamad Torokman/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-al-jazeera/22mideast-crisis-al-jazeera-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An Israeli military vehicle outside the building that houses the Al Jazeera office in Ramallah, in the Israeli-occupied West Bank, on Sunday.",
+            "copyright": "Mohamad Torokman/Reuters"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "For Americans Haunted by Beirut Bombings, a Killing Resurfaces Decades of Pain",
+        "abstract": "The death of a Hezbollah leader wanted for his role in the 1983 attacks drew a range of reactions from survivors and victims’ families but brought little resolution.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/1983-beirut-bombings-us-marine-base.html",
+        "uri": "nyt://article/1620a8f6-881c-57b8-bd7c-7a0d401ea7cf",
+        "byline": "By Kate Selig",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T00:48:59-04:00",
+        "created_date": "2024-09-21T18:29:59-04:00",
+        "published_date": "2024-09-21T18:29:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Terrorism",
+          "United States Defense and Military Forces"
+        ],
+        "org_facet": [
+          "United States Marine Corps"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Daytona Beach (Fla)",
+          "Daytona Beach Shores (Fla)",
+          "Florida",
+          "Israel",
+          "Rhode Island"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-aqeel-us-families/21mideast-crisis-aqeel-us-families-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The attack on the U.S. Marine barracks in Beirut, Lebanon, killed more than 300 people, mostly service members.",
+            "copyright": "Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-aqeel-us-families/21mideast-crisis-aqeel-us-families-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The attack on the U.S. Marine barracks in Beirut, Lebanon, killed more than 300 people, mostly service members.",
+            "copyright": "Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-aqeel-us-families/21mideast-crisis-aqeel-us-families-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The attack on the U.S. Marine barracks in Beirut, Lebanon, killed more than 300 people, mostly service members.",
+            "copyright": "Associated Press"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Attacks in Lebanon Mark a Sharp Strategic Shift",
+        "abstract": "The events of this week seem to indicate that Israel’s leaders have decided they can no longer live with the threat of Hezbollah on their northern border, analysts say.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/israel-lebanon-hezbollah-beirut.html",
+        "uri": "nyt://article/46272af3-0928-53b5-80b2-20e9a2bf6f0b",
+        "byline": "By Erika Solomon, Hwaida Saad, Ben Hubbard and Michael Schwirtz",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T23:30:47-04:00",
+        "created_date": "2024-09-21T17:28:30-04:00",
+        "published_date": "2024-09-21T17:28:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Israel-Gaza War (2023- )",
+          "Iran-Israel Proxy Conflict",
+          "Defense and Military Forces"
+        ],
+        "org_facet": [
+          "Hezbollah",
+          "Security Council (UN)"
+        ],
+        "per_facet": [
+          "Gallant, Yoav"
+        ],
+        "geo_facet": [
+          "Beirut (Lebanon)",
+          "Israel",
+          "Lebanon"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-ledeall01-photo-cqpf/21mideast-crisis-ledeall01-photo-cqpf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at the site of an Israeli airstrike in Beirut, Lebanon. Hezbollah has been left in deep disarray by attacks in the past week.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-ledeall01-photo-cqpf/21mideast-crisis-ledeall01-photo-cqpf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at the site of an Israeli airstrike in Beirut, Lebanon. Hezbollah has been left in deep disarray by attacks in the past week.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-ledeall01-photo-cqpf/21mideast-crisis-ledeall01-photo-cqpf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at the site of an Israeli airstrike in Beirut, Lebanon. Hezbollah has been left in deep disarray by attacks in the past week.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "A Week of Chaos Pushes Lebanon’s Doctors to the Limit",
+        "abstract": "Exploding wireless devices maimed thousands. An Israeli airstrike on Friday flattened two buildings. Many doctors, exhausted, wonder how the country will cope if violence continues.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/lebanon-doctors-hezbollah-airstrike-medical.html",
+        "uri": "nyt://article/4998ceff-4ece-5818-be2d-5c5529e37d08",
+        "byline": "By Euan Ward",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T00:48:59-04:00",
+        "created_date": "2024-09-21T17:18:24-04:00",
+        "published_date": "2024-09-21T17:18:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Iran-Israel Proxy Conflict",
+          "Bombs and Explosives",
+          "Medicine and Health",
+          "Wireless Communications",
+          "Eyes and Eyesight"
+        ],
+        "org_facet": [
+          "Hezbollah"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Lebanon"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-lebanon-doctors-glpj/21mideast-crisis-lebanon-doctors-glpj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“I am hoping that it was all just a bad dream,” Dr. Dania El-Hallak said.",
+            "copyright": "Emilie Madi/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-lebanon-doctors-glpj/21mideast-crisis-lebanon-doctors-glpj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“I am hoping that it was all just a bad dream,” Dr. Dania El-Hallak said.",
+            "copyright": "Emilie Madi/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-lebanon-doctors-glpj/21mideast-crisis-lebanon-doctors-glpj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“I am hoping that it was all just a bad dream,” Dr. Dania El-Hallak said.",
+            "copyright": "Emilie Madi/Reuters"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Macron Appoints Cabinet as He Seeks to Move France Out of Political Impasse",
+        "abstract": "The government still faces two challenges in the coming weeks: the risk of a no-confidence vote and a tight budget deadline.",
+        "url": "https://www.nytimes.com/2024/09/21/world/europe/macron-france-cabinet.html",
+        "uri": "nyt://article/9573a172-5db5-51df-b641-65fb6fd29dc9",
+        "byline": "By Roger Cohen and Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T11:16:38-04:00",
+        "created_date": "2024-09-21T14:46:16-04:00",
+        "published_date": "2024-09-21T14:46:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Politics and Government",
+          "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+          "Republicans, The (France)",
+          "National Rally (France)",
+          "New Popular Front (French Political Party)"
+        ],
+        "per_facet": [
+          "Macron, Emmanuel (1977- )",
+          "Barnier, Michel"
+        ],
+        "geo_facet": [
+          "France"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00france-cabinet-tqgl/00france-cabinet-tqgl-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Emmanuel Macron of France hopes to move the country past a several-month-long political impasse.",
+            "copyright": "Pool photo by Laurent Cipriani"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00france-cabinet-tqgl/00france-cabinet-tqgl-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Emmanuel Macron of France hopes to move the country past a several-month-long political impasse.",
+            "copyright": "Pool photo by Laurent Cipriani"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00france-cabinet-tqgl/00france-cabinet-tqgl-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Emmanuel Macron of France hopes to move the country past a several-month-long political impasse.",
+            "copyright": "Pool photo by Laurent Cipriani"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "asia",
+        "title": "U.S. Soldier Pleads Guilty to Desertion After Fleeing Into North Korea",
+        "abstract": "Pvt. Travis King on Friday pleaded guilty before a military judge to desertion, among other charges, after he made an unauthorized crossing into North Korea in 2023.",
+        "url": "https://www.nytimes.com/2024/09/21/world/asia/travis-king-army-north-korea-guilty.html",
+        "uri": "nyt://article/21200618-07e4-581a-bbd9-69fc363cb34c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T17:22:03-04:00",
+        "created_date": "2024-09-21T13:40:44-04:00",
+        "published_date": "2024-09-21T13:40:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Desertion (Military)",
+          "United States Defense and Military Forces",
+          "United States International Relations"
+        ],
+        "org_facet": [
+          "United States Army"
+        ],
+        "per_facet": [
+          "King, Travis T"
+        ],
+        "geo_facet": [
+          "North Korea"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21xp-king-wgmv/21xp-king-wgmv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1360,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "U.S. Army Pvt. Travis King shown during a news broadcast in Seoul in 2023.",
+            "copyright": "Ahn Young-Joon/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21xp-king-wgmv/21xp-king-wgmv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "U.S. Army Pvt. Travis King shown during a news broadcast in Seoul in 2023.",
+            "copyright": "Ahn Young-Joon/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21xp-king-wgmv/21xp-king-wgmv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "U.S. Army Pvt. Travis King shown during a news broadcast in Seoul in 2023.",
+            "copyright": "Ahn Young-Joon/Associated Press"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Strike on Former School Kills 22, Gazan Health Officials Say",
+        "abstract": "Gaza’s ministry of health said most of those killed in the strike on the Zeitoun School in Gaza City were women and children.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/israel-shelter-strike-gaza.html",
+        "uri": "nyt://article/959f999d-4ba0-56e0-832b-11a61f6d4077",
+        "byline": "By Erika Solomon and Rawan Sheikh Ahmad",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T14:36:09-04:00",
+        "created_date": "2024-09-21T11:39:28-04:00",
+        "published_date": "2024-09-21T11:39:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Israel-Gaza War (2023- )",
+          "Palestinians",
+          "Deaths (Fatalities)",
+          "Civilian Casualties"
+        ],
+        "org_facet": [
+          "United Nations Relief and Works Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Gaza Strip",
+          "Israel"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-gaza-school-kwbj/21mideast-crisis-gaza-school-kwbj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Gaza’s rescue services said the Saturday strike on Gaza’s Zeitoun School killed mostly women and children.",
+            "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-gaza-school-kwbj/21mideast-crisis-gaza-school-kwbj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Gaza’s rescue services said the Saturday strike on Gaza’s Zeitoun School killed mostly women and children.",
+            "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-gaza-school-kwbj/21mideast-crisis-gaza-school-kwbj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Gaza’s rescue services said the Saturday strike on Gaza’s Zeitoun School killed mostly women and children.",
+            "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Elon Musk’s X Backs Down in Brazil",
+        "abstract": "In an abrupt reversal, the social network’s lawyers said it was complying with court orders that it had previously defied. Brazil’s Supreme Court could allow the site to return next week.",
+        "url": "https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html",
+        "uri": "nyt://article/a3b53364-d66d-5b49-bbff-c691b660ccac",
+        "byline": "By Jack Nicas and Ana Ionova",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T16:18:42-04:00",
+        "created_date": "2024-09-21T11:15:23-04:00",
+        "published_date": "2024-09-21T11:15:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Social Media",
+          "Regulation and Deregulation of Industry",
+          "Censorship",
+          "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [
+          "X (Formerly Twitter)",
+          "Supreme Federal Court (Brazil)"
+        ],
+        "per_facet": [
+          "Musk, Elon",
+          "Moraes, Alexandre de (1968- )"
+        ],
+        "geo_facet": [
+          "Brazil"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.",
+            "copyright": "Dado Galdieri for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.",
+            "copyright": "Dado Galdieri for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.",
+            "copyright": "Dado Galdieri for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Who Was Ahmed Wahbi, a Hezbollah Commander Killed in Israel’s Airstrike in Beirut?",
+        "abstract": "The senior Hezbollah leader trained the group’s elite fighting unit and led its support for Hamas after the Oct. 7 attacks, the Lebanese militia said.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/who-is-ahmed-wahbi-hezbollah-commander.html",
+        "uri": "nyt://article/114c4e34-d0d5-5037-a3cb-d4b14aec58cd",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T05:48:37-04:00",
+        "created_date": "2024-09-21T11:02:30-04:00",
+        "published_date": "2024-09-21T11:02:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Defense and Military Forces"
+        ],
+        "org_facet": [
+          "Hezbollah",
+          "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Lebanon"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-wahbi-bio-hbpg/21mideast-crisis-wahbi-bio-hbpg-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Fighters wearing the insignia of the Hezbollah’s Radwan force during a training exercise in southern Lebanon in May 2023.",
+            "copyright": "Wael Hamzeh/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-wahbi-bio-hbpg/21mideast-crisis-wahbi-bio-hbpg-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Fighters wearing the insignia of the Hezbollah’s Radwan force during a training exercise in southern Lebanon in May 2023.",
+            "copyright": "Wael Hamzeh/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-wahbi-bio-hbpg/21mideast-crisis-wahbi-bio-hbpg-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Fighters wearing the insignia of the Hezbollah’s Radwan force during a training exercise in southern Lebanon in May 2023.",
+            "copyright": "Wael Hamzeh/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "For Families of Those Missing After Israeli Strike in Beirut, an Agonizing Wait",
+        "abstract": "With the death toll rising and rescuers still searching for people beneath the rubble, families were keeping a desperate watch over the site of an Israeli strike in Lebanon.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html",
+        "uri": "nyt://article/3ccf6e6d-6cca-518a-8589-6b9dd60d44ff",
+        "byline": "By Hwaida Saad and Erika Solomon",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T21:11:33-04:00",
+        "created_date": "2024-09-21T10:20:05-04:00",
+        "published_date": "2024-09-21T10:20:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Deaths (Fatalities)",
+          "International Relations",
+          "Defense and Military Forces",
+          "Iran-Israel Proxy Conflict",
+          "Rescues"
+        ],
+        "org_facet": [
+          "Hezbollah"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Beirut (Lebanon)",
+          "Israel"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-beirut-aftermath-cvbf/21mideast-crisis-beirut-aftermath-cvbf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at a suburban Beirut residential building that was destroyed in an Israeli airstrike a day earlier.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-beirut-aftermath-cvbf/21mideast-crisis-beirut-aftermath-cvbf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at a suburban Beirut residential building that was destroyed in an Israeli airstrike a day earlier.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-beirut-aftermath-cvbf/21mideast-crisis-beirut-aftermath-cvbf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue workers on Saturday at a suburban Beirut residential building that was destroyed in an Israeli airstrike a day earlier.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Hits 2 More Russian Munition Depots, Aiming to Disrupt War Effort",
+        "abstract": "Strikes on weapons arsenals are crucial to weaken Moscow’s overwhelming superiority in battlefield firepower, analysts said.",
+        "url": "https://www.nytimes.com/2024/09/21/world/europe/ukraine-russia-war-ammunition-depots.html",
+        "uri": "nyt://article/b3759f21-bd6c-580c-a019-5e2565f34241",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T23:31:54-04:00",
+        "created_date": "2024-09-21T09:07:20-04:00",
+        "published_date": "2024-09-21T09:07:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Defense and Military Forces",
+          "Drones (Pilotless Planes)",
+          "Missiles and Missile Defense Systems",
+          "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21ukraine-attack-01-khjq/21ukraine-attack-01-khjq-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1367,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ukrainian troops during weapons training this month in the eastern Donetsk region.",
+            "copyright": "Nicole Tung for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21ukraine-attack-01-khjq/21ukraine-attack-01-khjq-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ukrainian troops during weapons training this month in the eastern Donetsk region.",
+            "copyright": "Nicole Tung for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21ukraine-attack-01-khjq/21ukraine-attack-01-khjq-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ukrainian troops during weapons training this month in the eastern Donetsk region.",
+            "copyright": "Nicole Tung for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Shoulder Season",
+        "abstract": "It’s still summer today, but fall arrives tomorrow. Take a minute to pause on the threshold.",
+        "url": "https://www.nytimes.com/2024/09/21/briefing/shoulder-season.html",
+        "uri": "nyt://article/9f6f145b-628f-57ab-a052-510d82f20a82",
+        "byline": "By Melissa Kirsch",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T06:12:44-04:00",
+        "created_date": "2024-09-21T06:12:44-04:00",
+        "published_date": "2024-09-21T06:12:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "internal-storyline-no",
+          "Halloween",
+          "Seasons and Months",
+          "Weather",
+          "Books and Literature",
+          "Movies",
+          "Television"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21themorning-nl/21themorning-nl-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "María Jesús Contreras"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21themorning-nl/21themorning-nl-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "María Jesús Contreras"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21themorning-nl/21themorning-nl-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "María Jesús Contreras"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canadian Doctors Group Apologizes for Health Harms to Indigenous People",
+        "abstract": "Indigenous patients faced abuse, experimental treatments and other harms in Canada’s health system, which still has disparities.",
+        "url": "https://www.nytimes.com/2024/09/21/world/canada/indigenous-health-medical-apology.html",
+        "uri": "nyt://article/30ecf60c-5411-5907-af4d-6e4f0cb8534c",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T06:00:06-04:00",
+        "created_date": "2024-09-21T06:00:06-04:00",
+        "published_date": "2024-09-21T06:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Indigenous People",
+          "Race and Ethnicity",
+          "Apologies"
+        ],
+        "org_facet": [
+          "Canadian Medical Assn"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Canada"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21canadaletter--echaquan-wpjb/21canadaletter--echaquan-wpjb-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The former home of Joyce Echaquan, an Indigenous woman who was mocked and neglected by staff members in a Quebec hospital while she died.",
+            "copyright": "Hubert Hayaud for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21canadaletter--echaquan-wpjb/21canadaletter--echaquan-wpjb-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The former home of Joyce Echaquan, an Indigenous woman who was mocked and neglected by staff members in a Quebec hospital while she died.",
+            "copyright": "Hubert Hayaud for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21canadaletter--echaquan-wpjb/21canadaletter--echaquan-wpjb-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The former home of Joyce Echaquan, an Indigenous woman who was mocked and neglected by staff members in a Quebec hospital while she died.",
+            "copyright": "Hubert Hayaud for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Attacks on Hezbollah Alter Balance of Power in Long-Running Fight",
+        "abstract": "A focus on mutual deterrence had kept intermittent clashes along the Lebanon-Israel border from spiraling into a major war. That changed this past week.",
+        "url": "https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html",
+        "uri": "nyt://article/13ee8382-7b92-5109-be0c-8082e02bbdff",
+        "byline": "By Ben Hubbard",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T09:20:00-04:00",
+        "created_date": "2024-09-21T05:52:38-04:00",
+        "published_date": "2024-09-21T05:52:38-04:00",
+        "material_type_facet": "",
+        "kicker": "News ANALYSIS",
+        "des_facet": [
+          "Iran-Israel Proxy Conflict",
+          "Israel-Gaza War (2023- )",
+          "International Relations",
+          "Bombs and Explosives",
+          "Assassinations and Attempted Assassinations"
+        ],
+        "org_facet": [
+          "Hezbollah"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Israel",
+          "Lebanon",
+          "Middle East"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/21Hezbollah-assess-top/20mideast-crisis-assess-vlkp-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Hezbollah supporters mourning the deaths of two people after a second wave of explosions followed this week’s pager attack.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/21Hezbollah-assess-top/20mideast-crisis-assess-vlkp-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Hezbollah supporters mourning the deaths of two people after a second wave of explosions followed this week’s pager attack.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/21Hezbollah-assess-top/20mideast-crisis-assess-vlkp-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Hezbollah supporters mourning the deaths of two people after a second wave of explosions followed this week’s pager attack.",
+            "copyright": "Diego Ibarra Sanchez for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Car Parts, Fiberglass and a Dream: How a Teacher Built a Hovercraft",
+        "abstract": "Robert Tymofichuk, a teacher in Alberta, Canada, spent nearly 2,000 hours building an operational hovercraft from salvaged car parts and with no blueprint.",
+        "url": "https://www.nytimes.com/2024/09/21/technology/diy-hovercraft-alberta-canada.html",
+        "uri": "nyt://article/2f3ed7ac-6d90-5aed-9e1e-79e8fdbdfd0c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T17:32:35-04:00",
+        "created_date": "2024-09-21T05:40:15-04:00",
+        "published_date": "2024-09-21T05:40:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Boats and Boating",
+          "Engineering and Engineers",
+          "Salvage"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Robert Tymofichuk"
+        ],
+        "geo_facet": [
+          "Alberta (Canada)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00xp-hovercraft-TOP-01-tzpb/00xp-hovercraft-TOP-01-tzpb-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "It took Robert Tymofichuk, a teacher and assistant principal, a year to build a working hovercraft out of salvaged parts, including a 1997 Jeep Grand Cherokee.",
+            "copyright": "Amber Bracken for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00xp-hovercraft-TOP-01-tzpb/00xp-hovercraft-TOP-01-tzpb-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "It took Robert Tymofichuk, a teacher and assistant principal, a year to build a working hovercraft out of salvaged parts, including a 1997 Jeep Grand Cherokee.",
+            "copyright": "Amber Bracken for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00xp-hovercraft-TOP-01-tzpb/00xp-hovercraft-TOP-01-tzpb-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "It took Robert Tymofichuk, a teacher and assistant principal, a year to build a working hovercraft out of salvaged parts, including a 1997 Jeep Grand Cherokee.",
+            "copyright": "Amber Bracken for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How the Kremlin Finds Ways to Spread Its Messages",
+        "abstract": "Social media companies may try to ban RT, the Russian state media broadcaster. But the network has proved in the past to be a wily adversary when confronted with efforts to silence it.",
+        "url": "https://www.nytimes.com/2024/09/21/world/europe/russia-rt-social-media.html",
+        "uri": "nyt://article/62f5538e-ed12-5f60-b3b3-3fc52cc00783",
+        "byline": "By Neil MacFarquhar",
+        "item_type": "Article",
+        "updated_date": "2024-09-22T11:02:49-04:00",
+        "created_date": "2024-09-21T05:03:29-04:00",
+        "published_date": "2024-09-21T05:03:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Social Media",
+          "News and News Media",
+          "Television",
+          "Propaganda",
+          "Rumors and Misinformation",
+          "International Relations",
+          "Computers and the Internet"
+        ],
+        "org_facet": [
+          "RT (TV Network)",
+          "Meta Platforms Inc",
+          "Facebook Inc",
+          "WhatsApp Inc",
+          "YouTube.com"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Russia"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/world/21russia-rt/21russia-rt-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A control room for the Russian state media broadcaster RT, in Moscow, in 2018.",
+            "copyright": "Yuri Kadobnov/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/world/21russia-rt/21russia-rt-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A control room for the Russian state media broadcaster RT, in Moscow, in 2018.",
+            "copyright": "Yuri Kadobnov/Agence France-Presse — Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/21/world/21russia-rt/21russia-rt-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A control room for the Russian state media broadcaster RT, in Moscow, in 2018.",
+            "copyright": "Yuri Kadobnov/Agence France-Presse — Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "climate",
+        "subsection": "",
+        "title": "What We Know (and Don’t Know) About ‘Forever Chemicals’ in Food",
+        "abstract": "There’s a growing understanding of the health threats of PFAS chemicals in what we eat and drink.",
+        "url": "https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html",
+        "uri": "nyt://article/fd80dde1-7e9b-5e05-bef5-7521a979e32e",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T07:11:16-04:00",
+        "created_date": "2024-09-21T05:02:03-04:00",
+        "published_date": "2024-09-21T05:02:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "PFAS (Per- and Polyfluoroalkyl Substances)",
+          "Hazardous and Toxic Substances",
+          "Pollution",
+          "Agriculture and Farming",
+          "Food",
+          "Sewers and Sewage",
+          "Fertilizer",
+          "Environment",
+          "Medicine and Health",
+          "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "PFAS-contaminated beef from a farm in Maine. ",
+            "copyright": "Greta Rybus for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "PFAS-contaminated beef from a farm in Maine. ",
+            "copyright": "Greta Rybus for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "PFAS-contaminated beef from a farm in Maine. ",
+            "copyright": "Greta Rybus for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "climate",
+        "subsection": "",
+        "title": "Her Children Were Sick. Was It ‘Forever Chemicals’ on the Family Farm?",
+        "abstract": "Pastures were fertilized with toxic sewage decades ago. Nobody knew, until the cows’ milk was tested.",
+        "url": "https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html",
+        "uri": "nyt://article/17940183-1288-527a-8109-ee74c7a11bd3",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2024-09-21T09:09:56-04:00",
+        "created_date": "2024-09-21T05:00:29-04:00",
+        "published_date": "2024-09-21T05:00:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "PFAS (Per- and Polyfluoroalkyl Substances)",
+          "Agriculture and Farming",
+          "Beef",
+          "Dairy Products",
+          "Livestock",
+          "Food Contamination and Poisoning",
+          "Hazardous and Toxic Substances",
+          "Sewers and Sewage",
+          "Fertilizer",
+          "Children and Childhood",
+          "Medicine and Health",
+          "Environment",
+          "Water Pollution"
+        ],
+        "org_facet": [
+          "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "New Hampshire",
+          "Maine"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Greta Rybus for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Greta Rybus for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Greta Rybus for The New York Times"
+          }
+        ],
+        "short_url": ""
+      }
+    ]
+  }

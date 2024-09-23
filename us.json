@@ -1,0 +1,1513 @@
+
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "U.S. News",
+  "last_updated": "2024-06-27T14:23:45-04:00",
+  "num_results": 24,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Abused in Public Housing, Victims Often Face a Long Wait to Move",
+      "abstract": "A 2013 provision to federal law was intended to ensure that domestic violence victims living in subsidized housing could move quickly to safer homes. But they often wait in fear.",
+      "url": "https://www.nytimes.com/2024/09/18/us/domestic-violence-victims-affordable-housing.html",
+      "uri": "nyt://article/2ee3f83c-8ff1-5a28-ba3c-ef834cbadd6b",
+      "byline": "By Sara Ruberg",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:40:13-04:00",
+      "created_date": "2024-09-18T05:40:13-04:00",
+      "published_date": "2024-09-18T05:40:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Public and Subsidized Housing",
+        "Domestic Violence",
+        "Affordable Housing",
+        "Violence Against Women Act (1994)",
+        "Section 8 (Housing)",
+        "Stalking (Crime)",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Government Accountability Office",
+        "Housing Authority (NYC)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "Massachusetts",
+        "Chicago (Ill)",
+        "Kentucky"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/08/29/multimedia/00xp-emergencytransfer-02-wfhq/00xp-emergencytransfer-02-wfhq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/08/29/multimedia/00xp-emergencytransfer-02-wfhq/00xp-emergencytransfer-02-wfhq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kholood Eid for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/08/29/multimedia/00xp-emergencytransfer-02-wfhq/00xp-emergencytransfer-02-wfhq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kholood Eid for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Far From Ohio, Haitian Americans Feel the Sting of Threats in Springfield",
+      "abstract": "They charged Donald J. Trump and JD Vance, who spread baseless rumors that Haitians in an Ohio city were eating pets, with imperiling their community for political gain.",
+      "url": "https://www.nytimes.com/2024/09/18/us/haitian-americans-springfield-ohio-reaction.html",
+      "uri": "nyt://article/c58df5d8-75e3-5843-a8f8-b916850ef45f",
+      "byline": "By Miriam Jordan",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:05:56-04:00",
+      "created_date": "2024-09-18T05:05:56-04:00",
+      "published_date": "2024-09-18T05:05:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Haitian-Americans",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Springfield (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Tries to Close Off a Chief Line of Attack: That He’s a Danger to Democracy",
+      "abstract": "Donald Trump has tried to link Democrats’ charge that he poses a “threat to democracy” to threats on his life. Meanwhile, he has heightened his own attacks on his rivals.",
+      "url": "https://www.nytimes.com/2024/09/18/us/politics/trump-democrats-rhetoric.html",
+      "uri": "nyt://article/74cecb13-3205-5492-b1c5-7e22946a172c",
+      "byline": "By Lisa Lerer",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:04:59-04:00",
+      "created_date": "2024-09-18T05:04:59-04:00",
+      "published_date": "2024-09-18T05:04:59-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Democracy (Theory and Philosophy)",
+        "Assassinations and Attempted Assassinations",
+        "Threats and Threatening Messages"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "A Fed Rate Cut Would Cap a Winning Streak for Biden and Harris on Prices",
+      "abstract": "Improved data on borrowing costs and price growth has buoyed consumers, but it might be coming too late to significantly affect the presidential race",
+      "url": "https://www.nytimes.com/2024/09/18/us/politics/fed-rate-cut-biden-harris.html",
+      "uri": "nyt://article/8b133a4a-b36f-50c6-8d35-ccdbeebdfebf",
+      "byline": "By Jim Tankersley",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:04:47-04:00",
+      "created_date": "2024-09-18T05:04:47-04:00",
+      "published_date": "2024-09-18T05:04:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Presidential Election of 2024",
+        "Prices (Fares, Fees and Rates)",
+        "Interest Rates",
+        "Mortgages",
+        "Inflation (Economics)"
+      ],
+      "org_facet": [
+        "Federal Reserve System",
+        "White House Council of Economic Advisers"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Makes Big Promises, With Little Detail, for Michigan’s Auto Industry",
+      "abstract": "At his first campaign event since the apparent assassination attempt on Sunday, Donald J. Trump used dire language to insist that if he loses in November it would crush auto jobs.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-michigan-town-hall-tariffs.html",
+      "uri": "nyt://article/375e75dd-3311-5b9d-8534-dda525a06281",
+      "byline": "By Michael Gold",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:50:54-04:00",
+      "created_date": "2024-09-17T21:51:56-04:00",
+      "published_date": "2024-09-17T21:51:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Automobiles",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "Flint (Mich)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-trump-townhall-1-bpzf/17election-live-trump-townhall-1-bpzf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At his town-hall event on Tuesday night in Flint, Mich., former President Donald J. Trump repeatedly vowed that his tariffs would revitalize the auto industry in Michigan, a crucial battleground state.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-trump-townhall-1-bpzf/17election-live-trump-townhall-1-bpzf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At his town-hall event on Tuesday night in Flint, Mich., former President Donald J. Trump repeatedly vowed that his tariffs would revitalize the auto industry in Michigan, a crucial battleground state.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-trump-townhall-1-bpzf/17election-live-trump-townhall-1-bpzf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At his town-hall event on Tuesday night in Flint, Mich., former President Donald J. Trump repeatedly vowed that his tariffs would revitalize the auto industry in Michigan, a crucial battleground state.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Musk Super PAC Switches Field Plan Again in Arizona and Nevada",
+      "abstract": "The pro-Trump group America PAC, which was founded by the billionaire Elon Musk, has cut ties with a canvassing firm in two battleground states, just seven weeks before Election Day.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/elon-musk-donald-trump-super-pac.html",
+      "uri": "nyt://article/6ec2b25e-7fb3-56e8-926a-87e3bfb50b4e",
+      "byline": "By Theodore Schleifer",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:50:54-04:00",
+      "created_date": "2024-09-17T19:58:58-04:00",
+      "published_date": "2024-09-17T19:58:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Political Action Committees"
+      ],
+      "org_facet": [
+        "America PAC",
+        "September Group Incorporated"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Arizona",
+        "Nevada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-musk-canvassing-top-mctz/17election-live-musk-canvassing-top-mctz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk has been intimately involved in America PAC’s operation, with plans to donate as much as $180 million to back the Trump effort.",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-musk-canvassing-top-mctz/17election-live-musk-canvassing-top-mctz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk has been intimately involved in America PAC’s operation, with plans to donate as much as $180 million to back the Trump effort.",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-musk-canvassing-top-mctz/17election-live-musk-canvassing-top-mctz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk has been intimately involved in America PAC’s operation, with plans to donate as much as $180 million to back the Trump effort.",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Secret Service Scrambled After Trump’s Short Notice on Golf Outing",
+      "abstract": "The agency did not sweep the area where a gunman lay in wait for the former president at his club in Florida.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/secret-service-trump.html",
+      "uri": "nyt://article/4fb9ffa4-f821-5509-8dc7-ebd979da4ee7",
+      "byline": "By Kate Kelly, Eileen Sullivan and Luke Broadwater",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:16:50-04:00",
+      "created_date": "2024-09-17T19:50:45-04:00",
+      "published_date": "2024-09-17T19:50:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Secret Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Rowe, Ronald L Jr",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "Florida",
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17dc-secretservice-cjpf/17dc-secretservice-cjpf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers blocking the roads at Trump International Golf Club in West Palm Beach, Fla., on Monday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17dc-secretservice-cjpf/17dc-secretservice-cjpf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers blocking the roads at Trump International Golf Club in West Palm Beach, Fla., on Monday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17dc-secretservice-cjpf/17dc-secretservice-cjpf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers blocking the roads at Trump International Golf Club in West Palm Beach, Fla., on Monday.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Why the Story of the Golf Course Shooting Will Be Told Twice",
+      "abstract": "Florida’s governor says a state investigation is needed because federal agencies can’t be trusted.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-assassination-attempt-investigation.html",
+      "uri": "nyt://article/3865ac78-0014-5149-8710-d229448a07f5",
+      "byline": "By Jess Bidgood",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T18:45:45-04:00",
+      "created_date": "2024-09-17T18:45:45-04:00",
+      "published_date": "2024-09-17T18:45:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Elections",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17-pol-on-politics-newsletter-tpkz/17-pol-on-politics-newsletter-tpkz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2047,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Ron DeSantis of Florida, right, listens as Florida Attorney General Ashley Moody speaks during a news conference on Tuesday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17-pol-on-politics-newsletter-tpkz/17-pol-on-politics-newsletter-tpkz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Ron DeSantis of Florida, right, listens as Florida Attorney General Ashley Moody speaks during a news conference on Tuesday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17-pol-on-politics-newsletter-tpkz/17-pol-on-politics-newsletter-tpkz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Ron DeSantis of Florida, right, listens as Florida Attorney General Ashley Moody speaks during a news conference on Tuesday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Ohio Woman Says She Regrets Sharing False Rumor About Haitians on Facebook",
+      "abstract": "The woman has since deleted the post claiming that one of her Haitian neighbors might have taken a neighbor’s cat. But it took on a life of its own.",
+      "url": "https://www.nytimes.com/2024/09/17/us/springfield-haitians-pets-facebook-rumor.html",
+      "uri": "nyt://article/a2e8b102-5cdd-5351-bce0-d7791a860b9c",
+      "byline": "By Kevin Williams",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:10:05-04:00",
+      "created_date": "2024-09-17T18:35:29-04:00",
+      "published_date": "2024-09-17T18:35:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Haitian-Americans",
+        "internal-storyline-no"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Springfield (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-post-cvpf/17nat-springfield-post-cvpf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Springfield, Ohio, in August.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-post-cvpf/17nat-springfield-post-cvpf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Springfield, Ohio, in August.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-post-cvpf/17nat-springfield-post-cvpf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Downtown Springfield, Ohio, in August.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Sheriff Posts Video of 11-Year-Old Charged in Fake School Shooting Threat",
+      "abstract": "Sheriff Mike Chitwood of Volusia County, Fla., said he was exasperated by children making dozens of fake school shooting threats. He has promised to name and post mug shots of every offender.",
+      "url": "https://www.nytimes.com/2024/09/17/us/florida-false-school-shootings-mugshots.html",
+      "uri": "nyt://article/be98493a-0807-58a5-bee9-779ee4e14c6a",
+      "byline": "By Annie Correal",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T21:00:34-04:00",
+      "created_date": "2024-09-17T17:50:43-04:00",
+      "published_date": "2024-09-17T17:50:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "School Shootings and Armed Attacks",
+        "Threats and Threatening Messages",
+        "Sheriffs",
+        "Police",
+        "Social Media",
+        "Mug Shots"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17xp-kidmugshots-vpjg/17xp-kidmugshots-vpjg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Volusia County Sheriff Mike Chitwood said that an avalanche of false school shooting threats had overwhelmed investigators.",
+          "copyright": "Zack Wittman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17xp-kidmugshots-vpjg/17xp-kidmugshots-vpjg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Volusia County Sheriff Mike Chitwood said that an avalanche of false school shooting threats had overwhelmed investigators.",
+          "copyright": "Zack Wittman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17xp-kidmugshots-vpjg/17xp-kidmugshots-vpjg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Volusia County Sheriff Mike Chitwood said that an avalanche of false school shooting threats had overwhelmed investigators.",
+          "copyright": "Zack Wittman for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "For Presidents, Golf Is a Refuge. For the Secret Service, It Can Be a Headache.",
+      "abstract": "Sitting and former presidents must be mindful of when and where they play. Ronald Reagan largely gave up the game after a man took hostages while he was at Augusta.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-ronald-reagan-golf-secret-service.html",
+      "uri": "nyt://article/66f42d5b-b7a6-54cc-aca5-483c13855345",
+      "byline": "By Alan Blinder",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T19:08:18-04:00",
+      "created_date": "2024-09-17T17:07:35-04:00",
+      "published_date": "2024-09-17T17:07:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Golf",
+        "Assassinations and Attempted Assassinations",
+        "Presidential Election of 2024",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-golf-1-cwbm/17nat-golf-1-cwbm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1323,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump teed off during the pro-am round of the LIV Golf Bedminster tournament at Trump National Bedminster in 2023.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-golf-1-cwbm/17nat-golf-1-cwbm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump teed off during the pro-am round of the LIV Golf Bedminster tournament at Trump National Bedminster in 2023.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-golf-1-cwbm/17nat-golf-1-cwbm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump teed off during the pro-am round of the LIV Golf Bedminster tournament at Trump National Bedminster in 2023.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Yale, Princeton and Duke Are Questioned Over Decline in Asian Students",
+      "abstract": "The legal group that won a Supreme Court case that ended race-based college admissions suggested it might sue schools where the percentage of Asian students fell.",
+      "url": "https://www.nytimes.com/2024/09/17/us/yale-princeton-duke-asian-students-affirmative-action.html",
+      "uri": "nyt://article/737cc090-d805-560d-9856-758f1b4046ce",
+      "byline": "By Anemona Hartocollis",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T17:07:35-04:00",
+      "created_date": "2024-09-17T17:07:35-04:00",
+      "published_date": "2024-09-17T17:07:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Colleges and Universities",
+        "Asian-Americans",
+        "Race and Ethnicity",
+        "Admissions Standards",
+        "Suits and Litigation (Civil)",
+        "Affirmative Action"
+      ],
+      "org_facet": [
+        "Princeton University",
+        "Students for Fair Admissions",
+        "Yale University",
+        "Duke University"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-yale-phqj/17nat-yale-phqj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Yale University campus. The group Students for Fair Admissions sent letters to Yale, Princeton and Duke on Tuesday.",
+          "copyright": "Christopher Capozziello for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-yale-phqj/17nat-yale-phqj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Yale University campus. The group Students for Fair Admissions sent letters to Yale, Princeton and Duke on Tuesday.",
+          "copyright": "Christopher Capozziello for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-yale-phqj/17nat-yale-phqj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Yale University campus. The group Students for Fair Admissions sent letters to Yale, Princeton and Duke on Tuesday.",
+          "copyright": "Christopher Capozziello for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Senate Republicans Block I.V.F. Protection Bill a Second Time, Breaking With Trump",
+      "abstract": "Democrats brought up the measure again to highlight Republican opposition to abortion rights and make the case to voters that the G.O.P. stance threatens access to reproductive health care.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/ivf-bill-senate-vote.html",
+      "uri": "nyt://article/69d4f4ac-8e42-51e5-83c9-d294ca8bbed0",
+      "byline": "By Annie Karni",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:14:21-04:00",
+      "created_date": "2024-09-17T16:10:49-04:00",
+      "published_date": "2024-09-17T16:10:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Law and Legislation",
+        "United States Politics and Government",
+        "In Vitro Fertilization",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Duckworth, L Tammy",
+        "Murray, Patty",
+        "Schumer, Charles E",
+        "Collins, Susan M",
+        "Cornyn, John"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-IVF-kjcb/17DC-IVF-kjcb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Chuck Schumer, the majority leader, with other Senate Democrats ahead of a vote on the Right to I.V.F. Act on Tuesday. ",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-IVF-kjcb/17DC-IVF-kjcb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Chuck Schumer, the majority leader, with other Senate Democrats ahead of a vote on the Right to I.V.F. Act on Tuesday. ",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-IVF-kjcb/17DC-IVF-kjcb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Chuck Schumer, the majority leader, with other Senate Democrats ahead of a vote on the Right to I.V.F. Act on Tuesday. ",
+          "copyright": "Tom Brenner for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Ex-Officer Testifies Against His Former Colleagues in Tyre Nichols’s Death",
+      "abstract": "A former Memphis officer said he had been angry about a lack of arrests even before he began a pursuit that led to a fatal beating.",
+      "url": "https://www.nytimes.com/2024/09/17/us/tyre-nichols-emmitt-martin-memphis-police.html",
+      "uri": "nyt://article/6c2f015b-2232-5cb8-9f4b-d4144ec257dc",
+      "byline": "By Emily Cochrane",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T19:06:21-04:00",
+      "created_date": "2024-09-17T16:02:36-04:00",
+      "published_date": "2024-09-17T16:02:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Martin, Emmitt III (Memphis, Tenn, Police Officer)",
+        "Bean, Tadarrius (Memphis, Tenn, Police Officer)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/nat-memphis-1-kpwb/nat-memphis-1-kpwb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmitt Martin III, a former Memphis police officer who started pursuing Tyre Nichols, outside federal court in Memphis in April.",
+          "copyright": "Patrick Lantrip/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/nat-memphis-1-kpwb/nat-memphis-1-kpwb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmitt Martin III, a former Memphis police officer who started pursuing Tyre Nichols, outside federal court in Memphis in April.",
+          "copyright": "Patrick Lantrip/Daily Memphian, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/nat-memphis-1-kpwb/nat-memphis-1-kpwb-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emmitt Martin III, a former Memphis police officer who started pursuing Tyre Nichols, outside federal court in Memphis in April.",
+          "copyright": "Patrick Lantrip/Daily Memphian, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "‘Show Me Your Hands!’: Officer Recalls 2002 Standoff With Trump Suspect",
+      "abstract": "Ryan W. Routh, who was arrested following an apparent attempted assassination of former President Donald J. Trump, was convicted on an explosives charge after the standoff in North Carolina.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-assassination-suspect-routh-police.html",
+      "uri": "nyt://article/af9c5537-0657-555d-87e2-e88e4b2ed232",
+      "byline": "By Eduardo Medina",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T16:28:48-04:00",
+      "created_date": "2024-09-17T16:02:02-04:00",
+      "published_date": "2024-09-17T16:02:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Greensboro (NC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-nc-conviction-hglq/17trumpshooting-live-nc-conviction-hglq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Fulk, a retired police officer in Greensboro, N.C., arrested Ryan W. Routh in 2002.",
+          "copyright": "Cornell Watson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-nc-conviction-hglq/17trumpshooting-live-nc-conviction-hglq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Fulk, a retired police officer in Greensboro, N.C., arrested Ryan W. Routh in 2002.",
+          "copyright": "Cornell Watson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-nc-conviction-hglq/17trumpshooting-live-nc-conviction-hglq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Fulk, a retired police officer in Greensboro, N.C., arrested Ryan W. Routh in 2002.",
+          "copyright": "Cornell Watson for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Suggests Restoring the State and Local Tax Break He Once Limited",
+      "abstract": "Former President Donald J. Trump’s 2017 tax law capped the state and local tax deduction at $10,000. He said on Tuesday that he would lift that limit.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-tax-break.html",
+      "uri": "nyt://article/0564a262-3589-5de0-a142-2821d9d3e29d",
+      "byline": "By Andrew Duehren",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T18:17:35-04:00",
+      "created_date": "2024-09-17T16:01:02-04:00",
+      "published_date": "2024-09-17T16:01:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tax Credits, Deductions and Exemptions",
+        "Presidential Election of 2024",
+        "Tax Cuts and Jobs Act (2017)"
+      ],
+      "org_facet": [
+        "Penn Wharton Budget Model"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Long Island (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-salt-lqhg/17election-live-salt-lqhg-superJumbo-v3.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump at a campaign event in Tucson, Ariz., last week.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-salt-lqhg/17election-live-salt-lqhg-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump at a campaign event in Tucson, Ariz., last week.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17election-live-salt-lqhg/17election-live-salt-lqhg-thumbLarge-v3.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump at a campaign event in Tucson, Ariz., last week.",
+          "copyright": "Adriana Zehbrauskas for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Administration Extends Review Period for Nippon Takeover of U.S. Steel",
+      "abstract": "U.S. Steel’s chief, David Burritt, expressed confidence on Tuesday that the sale of the American manufacturer to a Japanese owner would close “on its merits” despite bipartisan backlash.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/us-steel-nippon-steel-deal.html",
+      "uri": "nyt://article/29f81826-da95-5124-91d8-15d8760328b2",
+      "byline": "By Alan Rappeport",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:31:02-04:00",
+      "created_date": "2024-09-17T15:53:29-04:00",
+      "published_date": "2024-09-17T15:53:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mergers, Acquisitions and Divestitures",
+        "Steel and Iron",
+        "United States Economy",
+        "Presidential Election of 2024",
+        "Protectionism (Trade)",
+        "International Trade and World Market",
+        "Labor and Jobs",
+        "Foreign Investments"
+      ],
+      "org_facet": [
+        "Nippon Steel Corporation",
+        "United States Steel Corporation"
+      ],
+      "per_facet": [
+        "Burritt, David",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-USSTEEL-01-bgqf/DC-USSTEEL-01-bgqf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Burritt, chief executive of U.S. Steel, has warned that the company could lay off workers and relocate its headquarters outside Pennsylvania if the deal were blocked.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-USSTEEL-01-bgqf/DC-USSTEEL-01-bgqf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Burritt, chief executive of U.S. Steel, has warned that the company could lay off workers and relocate its headquarters outside Pennsylvania if the deal were blocked.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-USSTEEL-01-bgqf/DC-USSTEEL-01-bgqf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Burritt, chief executive of U.S. Steel, has warned that the company could lay off workers and relocate its headquarters outside Pennsylvania if the deal were blocked.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Harris Condemns Trump’s ‘Hateful’ Claims About Springfield, Ohio",
+      "abstract": "“This is exhausting, and it’s harmful,” Kamala Harris said during an interview. “And it’s hateful, and grounded in some age-old stuff that we should not have the tolerance for.”",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/harris-trump-haitian-migrants-pets.html",
+      "uri": "nyt://article/a54cc6a9-076e-5529-be5b-b038e6962e7f",
+      "byline": "By Erica L. Green and Nicholas Nehamas",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T17:55:01-04:00",
+      "created_date": "2024-09-17T15:27:55-04:00",
+      "published_date": "2024-09-17T15:27:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "National Assn of Black Journalists"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-harris-nabj-alt-jfbt/17pol-harris-nabj-alt-jfbt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris spoke on Tuesday in Philadelphia with three members of the National Association of Black Journalists. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-harris-nabj-alt-jfbt/17pol-harris-nabj-alt-jfbt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris spoke on Tuesday in Philadelphia with three members of the National Association of Black Journalists. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-harris-nabj-alt-jfbt/17pol-harris-nabj-alt-jfbt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris spoke on Tuesday in Philadelphia with three members of the National Association of Black Journalists. ",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Technology That Helped Catch Trump Suspect Is Proliferating",
+      "abstract": "Use of license plate readers, which helped the authorities swiftly track down the man they said appeared to planning to shoot former President Donald Trump, is spreading across the country.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-assassination-suspect-technology.html",
+      "uri": "nyt://article/4a6c5ea1-814a-5d72-a387-189ea80e3af7",
+      "byline": "By Shaila Dewan",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T15:18:57-04:00",
+      "created_date": "2024-09-17T15:18:57-04:00",
+      "published_date": "2024-09-17T15:18:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Registration and License Plates",
+        "Fugitives",
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "Palm Beach (Fla)",
+        "Martin County (Fla)",
+        "Interstate 95"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-license-plate-readers-zjcf/17trumpshooting-live-license-plate-readers-zjcf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1440,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An automated license plate reader mounted on a pole in San Francisco in June.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-license-plate-readers-zjcf/17trumpshooting-live-license-plate-readers-zjcf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An automated license plate reader mounted on a pole in San Francisco in June.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-license-plate-readers-zjcf/17trumpshooting-live-license-plate-readers-zjcf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An automated license plate reader mounted on a pole in San Francisco in June.",
+          "copyright": "Justin Sullivan/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Rutgers President Announces Resignation After a Year Rocked by Protests",
+      "abstract": "Jonathan Holloway was Rutgers’ first Black president. He helped the university grow but also faced criticism and questioning in Congress over pro-Palestinian encampments on campus.",
+      "url": "https://www.nytimes.com/2024/09/17/us/rutgers-president-resignation-jonathan-holloway.html",
+      "uri": "nyt://article/186f56b3-65cd-5207-b835-6a8214e739e7",
+      "byline": "By Sharon Otterman",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T20:57:17-04:00",
+      "created_date": "2024-09-17T15:10:22-04:00",
+      "published_date": "2024-09-17T15:10:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pro-Palestinian Campus Protests (2023- )",
+        "Colleges and Universities",
+        "Black People"
+      ],
+      "org_facet": [
+        "Rutgers, The State University of New Jersey"
+      ],
+      "per_facet": [
+        "Holloway, Jonathan S (1967- )"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-rutgers-1-pgwl/17nat-rutgers-1-pgwl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jonathan Holloway, president of Rutgers University, second from left, testified during a House committee hearing in Washington in May.",
+          "copyright": "Shuran Huang for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-rutgers-1-pgwl/17nat-rutgers-1-pgwl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jonathan Holloway, president of Rutgers University, second from left, testified during a House committee hearing in Washington in May.",
+          "copyright": "Shuran Huang for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-rutgers-1-pgwl/17nat-rutgers-1-pgwl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jonathan Holloway, president of Rutgers University, second from left, testified during a House committee hearing in Washington in May.",
+          "copyright": "Shuran Huang for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Secret Service Told Trump It Needs to Bolster Security if He Keeps Golfing",
+      "abstract": "The agency’s acting director, Ronald L. Rowe Jr., met with Donald J. Trump on Monday in the aftermath of the apparent assassination attempt on Sunday.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/trump-secret-service-golf.html",
+      "uri": "nyt://article/289bfaea-49b5-5b46-969e-59b47952eedc",
+      "byline": "By Jonathan Swan, Maggie Haberman and Kate Kelly",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:02:39-04:00",
+      "created_date": "2024-09-17T14:17:14-04:00",
+      "published_date": "2024-09-17T14:17:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Secret Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/17pol-trump-usss/nat-trump-shooting-WWK-tmwq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The entrance to the Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/17pol-trump-usss/nat-trump-shooting-WWK-tmwq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The entrance to the Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/17pol-trump-usss/nat-trump-shooting-WWK-tmwq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The entrance to the Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "For Duckworth, Preserving I.V.F. Access Is Personal",
+      "abstract": "The Democratic senator has long pressed to safeguard the fertility treatment she used to conceive her children, which has now been thrust into the political conversation.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/tammy-duckworth-ivf-bill.html",
+      "uri": "nyt://article/285150cb-fc88-53a9-a006-fbb3b34570e3",
+      "byline": "By Maya C. Miller",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:14:12-04:00",
+      "created_date": "2024-09-17T14:07:27-04:00",
+      "published_date": "2024-09-17T14:07:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Presidential Election of 2024",
+        "In Vitro Fertilization",
+        "Infertility"
+      ],
+      "org_facet": [
+        "United States Army",
+        "Senate",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Duckworth, L Tammy",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-DUCKWORTH-fhcl/17DC-DUCKWORTH-fhcl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Tammy Duckworth, Democrat of Illinois, at the Capitol on Monday. “I didn’t mean to become an advocate,” she said in an interview. “I just wanted to not have anybody else go through what I did.”",
+          "copyright": "Tierney L. Cross for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-DUCKWORTH-fhcl/17DC-DUCKWORTH-fhcl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Tammy Duckworth, Democrat of Illinois, at the Capitol on Monday. “I didn’t mean to become an advocate,” she said in an interview. “I just wanted to not have anybody else go through what I did.”",
+          "copyright": "Tierney L. Cross for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17DC-DUCKWORTH-fhcl/17DC-DUCKWORTH-fhcl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Tammy Duckworth, Democrat of Illinois, at the Capitol on Monday. “I didn’t mean to become an advocate,” she said in an interview. “I just wanted to not have anybody else go through what I did.”",
+          "copyright": "Tierney L. Cross for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Suspect in Trump Golf Course Episode Ran a Business in Hawaii",
+      "abstract": "In the town of Kaaawa, he constructed tiny homes at cut-rate prices and neighbors described him as a handyman who was often eager to help.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/routh-trump-hawaii.html",
+      "uri": "nyt://article/446f8953-27ef-577d-abd7-c56009cae857",
+      "byline": "By Yan Zhuang and Jill Cowan",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T16:06:54-04:00",
+      "created_date": "2024-09-17T13:49:37-04:00",
+      "published_date": "2024-09-17T13:49:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tiny Homes and Micro-Housing"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Routh, Ryan W."
+      ],
+      "geo_facet": [
+        "Hawaii"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-hawaii-years-gvhb/17trumpshooting-live-hawaii-years-gvhb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Kaaawa, Hawaii, listed as the address of Ryan W. Routh, the suspect in a possible assassination attempt on Donald J. Trump.",
+          "copyright": "Marco Garcia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-hawaii-years-gvhb/17trumpshooting-live-hawaii-years-gvhb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Kaaawa, Hawaii, listed as the address of Ryan W. Routh, the suspect in a possible assassination attempt on Donald J. Trump.",
+          "copyright": "Marco Garcia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trumpshooting-live-hawaii-years-gvhb/17trumpshooting-live-hawaii-years-gvhb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A home in Kaaawa, Hawaii, listed as the address of Ryan W. Routh, the suspect in a possible assassination attempt on Donald J. Trump.",
+          "copyright": "Marco Garcia for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "elections",
+      "title": "Presidential Campaigns and Allies Plan $500 Million in TV and Radio Ads",
+      "abstract": "Groups backing Vice President Kamala Harris have reserved $332 million worth of airtime. Just about $194 million in ads will come from groups backing former President Donald J. Trump.",
+      "url": "https://www.nytimes.com/2024/09/17/us/elections/presidential-campaign-advertising-spending.html",
+      "uri": "nyt://article/193d3b8e-4499-5801-99b5-e62462997b1c",
+      "byline": "By Theodore Schleifer",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:12:40-04:00",
+      "created_date": "2024-09-17T11:56:11-04:00",
+      "published_date": "2024-09-17T11:56:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Advertising and Marketing",
+        "Campaign Finance"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/2024-09-16-ad-spending-index/2024-09-16-ad-spending-index-superJumbo-v6.png",
+          "format": "Super Jumbo",
+          "height": 1333,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/2024-09-16-ad-spending-index/2024-09-16-ad-spending-index-threeByTwoSmallAt2X-v7.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/2024-09-16-ad-spending-index/2024-09-16-ad-spending-index-thumbLarge-v6.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}

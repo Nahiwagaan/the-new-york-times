@@ -1,0 +1,1518 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "Science",
+  "last_updated": "2024-09-13T17:13:45-04:00",
+  "num_results": 26,
+  "results": [
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "These Apes Dance Like Someone Is Watching",
+      "abstract": "Gibbons move with rhythm and intention. Dare we say style?",
+      "url": "https://www.nytimes.com/2024/09/14/science/gibbons-dancing-apes.html",
+      "uri": "nyt://article/6f880112-ed72-52dc-ad95-f8cf954fd200",
+      "byline": "By Elizabeth Preston",
+      "item_type": "Article",
+      "updated_date": "2024-09-14T05:03:55-04:00",
+      "created_date": "2024-09-14T05:03:55-04:00",
+      "published_date": "2024-09-14T05:03:55-04:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "your-feed-science",
+        "Animal Behavior",
+        "Monkeys and Apes",
+        "Dancing",
+        "Research"
+      ],
+      "org_facet": [
+        "Primates (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/14/autossell/14tb-dancing-ape-1/14tb-dancing-ape-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1620,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Camille Coye, Kai Caspar, and Pritty Patel-Grosz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/14/autossell/14tb-dancing-ape-1/14tb-dancing-ape-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Camille Coye, Kai Caspar, and Pritty Patel-Grosz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/14/autossell/14tb-dancing-ape-1/14tb-dancing-ape-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Camille Coye, Kai Caspar, and Pritty Patel-Grosz"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Three Medical Practices That Older Patients Should Question",
+      "abstract": "Some treatments and procedures become routine despite lacking strong evidence to show that they’re beneficial. Recent studies have called a few  into question.",
+      "url": "https://www.nytimes.com/2024/09/14/health/medical-practices-treatments-patients.html",
+      "uri": "nyt://article/7ffaf746-b1dc-5933-b7b9-7df611261925",
+      "byline": "By Paula Span",
+      "item_type": "Article",
+      "updated_date": "2024-09-14T05:03:00-04:00",
+      "created_date": "2024-09-14T05:03:00-04:00",
+      "published_date": "2024-09-14T05:03:00-04:00",
+      "material_type_facet": "",
+      "kicker": "the new old age",
+      "des_facet": [
+        "Research",
+        "Elderly",
+        "Dementia",
+        "Heart",
+        "Surgery and Surgeons",
+        "Spine (Body Part)",
+        "Pain"
+      ],
+      "org_facet": [
+        "Feinstein Institutes for Medical Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1355,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John P. Dessereau"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John P. Dessereau"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John P. Dessereau"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Missouri Bird Flu Case Raises Prospect of Human Transmission",
+      "abstract": "A close contact of someone with bird flu became ill on the same day, the C.D.C. reported. But the second person was not tested, and the cause of the illness is unknown.",
+      "url": "https://www.nytimes.com/2024/09/13/health/bird-flu-missouri.html",
+      "uri": "nyt://article/25108b3d-beb7-5727-99ce-29cdfc17f384",
+      "byline": "By Apoorva Mandavilli and Emily Anthes",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T19:27:35-04:00",
+      "created_date": "2024-09-13T19:08:34-04:00",
+      "published_date": "2024-09-13T19:08:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Avian Influenza",
+        "Disease Rates",
+        "Cattle",
+        "Birds",
+        "Viruses",
+        "Influenza",
+        "Livestock Diseases"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Missouri"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+          "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+          "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+          "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "W.H.O. Authorizes Mpox Vaccine, Clearing Way for Use in Africa",
+      "abstract": "The decision is a crucial step in getting shots to the Democratic Republic of Congo, the center of the outbreak.",
+      "url": "https://www.nytimes.com/2024/09/13/health/mpox-vaccine-world-health-organization.html",
+      "uri": "nyt://article/255c6277-c3eb-5432-a2db-ae1e035a7180",
+      "byline": "By Stephanie Nolen",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T21:49:12-04:00",
+      "created_date": "2024-09-13T19:05:03-04:00",
+      "published_date": "2024-09-13T19:05:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Monkeypox",
+        "Epidemics",
+        "Government Contracts and Procurement",
+        "Developing Countries",
+        "Medicine and Health"
+      ],
+      "org_facet": [
+        "Gavi, the Vaccine Alliance",
+        "Bavarian Nordic AS"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "Africa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+          "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+          "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+          "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Boar’s Head Shuts Down Virginia Plant Tied to Listeria Deaths",
+      "abstract": "The company said that the site would close indefinitely and that it would permanently stop making liverwurst. Union officials said the plant’s 500 workers would be given severance and offered relocation.",
+      "url": "https://www.nytimes.com/2024/09/13/health/boars-head-shutdown-listeria-deaths.html",
+      "uri": "nyt://article/1fb8ff3c-3da5-5ccb-8f9d-23f22ba411cf",
+      "byline": "By Christina Jewett and Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T21:12:10-04:00",
+      "created_date": "2024-09-13T12:38:06-04:00",
+      "published_date": "2024-09-13T12:38:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Deaths (Fatalities)",
+        "Food Contamination and Poisoning",
+        "Labor and Jobs",
+        "Listeria Monocytogenes",
+        "Meatpacking Plants and Slaughterhouses"
+      ],
+      "org_facet": [
+        "Boar's Head Brand",
+        "Agriculture Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+          "copyright": "Steve Helber/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+          "copyright": "Steve Helber/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+          "copyright": "Steve Helber/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "The Big City Is Vibrant. Birds There Might Be Getting Less So.",
+      "abstract": "Recent studies show that certain feather pigments can help neutralize toxic pollution. It means darker, duller birds could have a survival advantage.",
+      "url": "https://www.nytimes.com/2024/09/13/climate/dirty-birds-color-climate-pollution.html",
+      "uri": "nyt://article/31f5999d-28fe-583a-8f2e-da9b6a919973",
+      "byline": "By Marta Zaraska",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T21:54:27-04:00",
+      "created_date": "2024-09-13T09:37:34-04:00",
+      "published_date": "2024-09-13T09:37:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Birds",
+        "Feathers",
+        "Anatomy and Physiology",
+        "Urban Areas",
+        "Pollution",
+        "Lead",
+        "Hazardous and Toxic Substances",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+          "copyright": "Caroline Isaksson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+          "copyright": "Caroline Isaksson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+          "copyright": "Caroline Isaksson"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "This Chatbot Pulls People Away From Conspiracy Theories",
+      "abstract": "In a new study, many people doubted or abandoned false beliefs after a short conversation with the DebunkBot.",
+      "url": "https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html",
+      "uri": "nyt://article/f35b415d-f726-5895-9192-66a60999a799",
+      "byline": "By Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T12:00:29-04:00",
+      "created_date": "2024-09-12T14:30:55-04:00",
+      "published_date": "2024-09-12T14:30:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Rumors and Misinformation",
+        "Conspiracy Theories",
+        "Research",
+        "Psychology and Psychologists",
+        "internal-storyline-no",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Science (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1355,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+          "copyright": "JSC/NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+          "copyright": "JSC/NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+          "copyright": "JSC/NASA"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Elevated Lead Levels Found in One-Third of Cinnamon Samples",
+      "abstract": "Consumer Reports found lead in a variety of products, at a time when federal regulators are seeking authority from Congress to combat the problem of heavy metals in foods.",
+      "url": "https://www.nytimes.com/2024/09/12/health/lead-cinnamon.html",
+      "uri": "nyt://article/8cbfb859-906d-52a9-8684-7ad8bd536ec4",
+      "byline": "By Christina Jewett",
+      "item_type": "Article",
+      "updated_date": "2024-09-12T13:06:05-04:00",
+      "created_date": "2024-09-12T13:06:05-04:00",
+      "published_date": "2024-09-12T13:06:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Regulation and Deregulation of Industry",
+        "Poisoning and Poisons",
+        "Cinnamon (Spice)",
+        "Food Contamination and Poisoning",
+        "Lead",
+        "Recalls and Bans of Products",
+        "Hazardous and Toxic Substances",
+        "Food",
+        "United States Politics and Government",
+        "Baby Foods"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Consumer Reports",
+        "Food and Drug Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1917,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+          "copyright": "U.S. Food and Drug Administration"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+          "copyright": "U.S. Food and Drug Administration"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+          "copyright": "U.S. Food and Drug Administration"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "New Look at Landslide Potential Shows 44% of U.S. Is at Risk",
+      "abstract": "A new federal database helps users determine the likelihood of their community experiencing a landslide.",
+      "url": "https://www.nytimes.com/2024/09/12/climate/landslide-risk-united-states.html",
+      "uri": "nyt://article/4760770a-841f-5291-b7fe-6baa59f98db4",
+      "byline": "By Austyn Gaffney",
+      "item_type": "Article",
+      "updated_date": "2024-09-12T19:51:07-04:00",
+      "created_date": "2024-09-12T12:01:36-04:00",
+      "published_date": "2024-09-12T12:01:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Landslides and Mudslides",
+        "Rain"
+      ],
+      "org_facet": [
+        "United States Geological Survey"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12cli-landslide-map-glhk/12cli-landslide-map-glhk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A landslide partially buried the Zimovia Highway in Wrangell, Alaska, last November.",
+          "copyright": "Alaska Department of Transportation and Public Facilities, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12cli-landslide-map-glhk/12cli-landslide-map-glhk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A landslide partially buried the Zimovia Highway in Wrangell, Alaska, last November.",
+          "copyright": "Alaska Department of Transportation and Public Facilities, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12cli-landslide-map-glhk/12cli-landslide-map-glhk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A landslide partially buried the Zimovia Highway in Wrangell, Alaska, last November.",
+          "copyright": "Alaska Department of Transportation and Public Facilities, via Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "well",
+      "subsection": "mind",
+      "title": "Adderall in Higher Doses May Raise Psychosis Risk, Study Says",
+      "abstract": "New research suggests that dosage plays a role in a rare side effect of A.D.H.D. stimulants.",
+      "url": "https://www.nytimes.com/2024/09/12/well/mind/adderall-vyvanse-mania-psychosis-study.html",
+      "uri": "nyt://article/4f952b66-68ec-533d-91ca-ae8ec5fde604",
+      "byline": "By Christina Caron",
+      "item_type": "Article",
+      "updated_date": "2024-09-13T16:50:43-04:00",
+      "created_date": "2024-09-12T11:45:15-04:00",
+      "published_date": "2024-09-12T11:45:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Amphetamines",
+        "Adderall (Drug)",
+        "Mental Health and Disorders",
+        "Research",
+        "Drugs (Pharmaceuticals)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/well/WELL-ADDERALL-PSYCHOSIS1/WELL-ADDERALL-PSYCHOSIS1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1438,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "AP Photo/Jenny Kane"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/well/WELL-ADDERALL-PSYCHOSIS1/WELL-ADDERALL-PSYCHOSIS1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "AP Photo/Jenny Kane"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/well/WELL-ADDERALL-PSYCHOSIS1/WELL-ADDERALL-PSYCHOSIS1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "AP Photo/Jenny Kane"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Lloyd Kaufman, Who Saw Answers Behind the ‘Moon Illusion,’ Dies at 97",
+      "abstract": "He advanced the study of a millenniums-old mystery: why the moon appears larger on the horizon than it does high in the night sky.",
+      "url": "https://www.nytimes.com/2024/09/11/science/lloyd-kaufman-dead.html",
+      "uri": "nyt://article/054d958e-e8d9-5521-a1bb-9b59c20ebb26",
+      "byline": "By Alex Traub",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T21:36:35-04:00",
+      "created_date": "2024-09-11T15:23:12-04:00",
+      "published_date": "2024-09-11T15:23:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Moon",
+        "Psychology and Psychologists",
+        "Eyes and Eyesight"
+      ],
+      "org_facet": [
+        "Long Island University",
+        "New York University"
+      ],
+      "per_facet": [
+        "Kaufman, Lloyd",
+        "Rock, Irvin (Dr)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/09Kaufman-02-gtvz-print1/09Kaufman-02-gtvz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1445,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prof. Lloyd Kaufman, left, and Dr. Irvin Rock with optical equipment they created to help explain why the moon appears larger on the horizon than it does when overhead. They were on a terrace at Yeshiva University in Manhattan in 1960.",
+          "copyright": "Carl T. Gossett/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/09Kaufman-02-gtvz-print1/09Kaufman-02-gtvz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prof. Lloyd Kaufman, left, and Dr. Irvin Rock with optical equipment they created to help explain why the moon appears larger on the horizon than it does when overhead. They were on a terrace at Yeshiva University in Manhattan in 1960.",
+          "copyright": "Carl T. Gossett/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/09Kaufman-02-gtvz-print1/09Kaufman-02-gtvz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prof. Lloyd Kaufman, left, and Dr. Irvin Rock with optical equipment they created to help explain why the moon appears larger on the horizon than it does when overhead. They were on a terrace at Yeshiva University in Manhattan in 1960.",
+          "copyright": "Carl T. Gossett/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Dr. Chatbot Will See You Now",
+      "abstract": "Americans are already turning to A.I. for health information in large numbers, new research suggests.",
+      "url": "https://www.nytimes.com/2024/09/11/health/chatbots-health-diagnosis-treatments.html",
+      "uri": "nyt://article/a5b5374b-d21e-5854-9790-3e5dd13b9345",
+      "byline": "By Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-12T10:49:06-04:00",
+      "created_date": "2024-09-11T12:57:12-04:00",
+      "published_date": "2024-09-11T12:57:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Artificial Intelligence",
+        "Research",
+        "Rumors and Misinformation",
+        "ChatGPT",
+        "Search Engines",
+        "Doctors",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [
+        "OpenAI Labs",
+        "Kaiser Family Foundation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11chatbots-mgzl/11chatbots-mgzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About one in six adults use A.I. chatbots for medical advice at least once a month, a recent survey found.",
+          "copyright": "Jackie Molloy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11chatbots-mgzl/11chatbots-mgzl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About one in six adults use A.I. chatbots for medical advice at least once a month, a recent survey found.",
+          "copyright": "Jackie Molloy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11chatbots-mgzl/11chatbots-mgzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About one in six adults use A.I. chatbots for medical advice at least once a month, a recent survey found.",
+          "copyright": "Jackie Molloy for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Climate at the Debate: Trump Ignored the Question and Harris Hedged",
+      "abstract": "Vice President Kamala Harris nodded to the urgency of climate change but also highlighted the country’s record levels of oil and gas production.",
+      "url": "https://www.nytimes.com/2024/09/11/climate/trump-harris-climate-change-debate.html",
+      "uri": "nyt://article/771b3d00-8965-55eb-85bf-142cbb3235c4",
+      "byline": "By Lisa Friedman",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T11:06:46-04:00",
+      "created_date": "2024-09-11T10:58:02-04:00",
+      "published_date": "2024-09-11T10:58:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Alternative and Renewable Energy",
+        "Presidential Election of 2024",
+        "Oil (Petroleum) and Gasoline",
+        "Hydraulic Fracturing",
+        "Natural Gas"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11cli-debate-wjgc/11cli-debate-wjgc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A presidential watch party at Temple University in Philadelphia on Tuesday.",
+          "copyright": "Caroline Gutman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11cli-debate-wjgc/11cli-debate-wjgc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A presidential watch party at Temple University in Philadelphia on Tuesday.",
+          "copyright": "Caroline Gutman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11cli-debate-wjgc/11cli-debate-wjgc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A presidential watch party at Temple University in Philadelphia on Tuesday.",
+          "copyright": "Caroline Gutman for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "The ‘Country Doctor’ Who Upended Our Understanding of Dementia",
+      "abstract": "Francisco Lopera defied rebels, cartels and vampire bats to become a pioneering researcher of Alzheimer’s disease.",
+      "url": "https://www.nytimes.com/2024/09/11/science/lopera-alzheimers-colombia.html",
+      "uri": "nyt://article/b465200d-6d3e-50b5-8d80-75081085dd5c",
+      "byline": "By Jennie Erin Smith",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T10:07:34-04:00",
+      "created_date": "2024-09-11T10:07:34-04:00",
+      "published_date": "2024-09-11T10:07:34-04:00",
+      "material_type_facet": "",
+      "kicker": "An Appraisal",
+      "des_facet": [
+        "Alzheimer's Disease",
+        "Rural Areas",
+        "Clinical Trials",
+        "Dementia",
+        "Genetics and Heredity",
+        "Drugs (Pharmaceuticals)",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [
+        "University of Antioquia"
+      ],
+      "per_facet": [
+        "Lopera, Francisco"
+      ],
+      "geo_facet": [
+        "Colombia",
+        "Medellin (Colombia)",
+        "Latin America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00SCI-LOPERA-01-zfwg/00SCI-LOPERA-01-zfwg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Francisco Lopera, clinical neurologist and neuroscience group coordinator at the University of Antioquia, Colombia, in 2019.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00SCI-LOPERA-01-zfwg/00SCI-LOPERA-01-zfwg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Francisco Lopera, clinical neurologist and neuroscience group coordinator at the University of Antioquia, Colombia, in 2019.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00SCI-LOPERA-01-zfwg/00SCI-LOPERA-01-zfwg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Francisco Lopera, clinical neurologist and neuroscience group coordinator at the University of Antioquia, Colombia, in 2019.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Cholera Deaths Soar Worldwide Despite Being Easily Preventable",
+      "abstract": "Fatalities spiked 71 percent last year, far outpacing the 13 percent rise in cases, the World Health Organization said.",
+      "url": "https://www.nytimes.com/2024/09/11/health/cholera-deaths-cases.html",
+      "uri": "nyt://article/7aab8c9c-06cc-5e01-a33a-7592ddab4137",
+      "byline": "By Stephanie Nolen",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T16:16:02-04:00",
+      "created_date": "2024-09-11T00:01:11-04:00",
+      "published_date": "2024-09-11T00:01:11-04:00",
+      "material_type_facet": "",
+      "kicker": "Global Health",
+      "des_facet": [
+        "Cholera",
+        "Disease Rates",
+        "Deaths (Fatalities)",
+        "Vaccination and Immunization",
+        "Epidemics",
+        "Poverty",
+        "Water Pollution",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09-cholera-deaths-01-zbhk/09-cholera-deaths-01-zbhk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A patient in an isolation tent being treated for cholera last year in Malawi. The spread of the disease there was driven by catastrophic weather events.",
+          "copyright": "Joao Silva/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09-cholera-deaths-01-zbhk/09-cholera-deaths-01-zbhk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A patient in an isolation tent being treated for cholera last year in Malawi. The spread of the disease there was driven by catastrophic weather events.",
+          "copyright": "Joao Silva/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09-cholera-deaths-01-zbhk/09-cholera-deaths-01-zbhk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A patient in an isolation tent being treated for cholera last year in Malawi. The spread of the disease there was driven by catastrophic weather events.",
+          "copyright": "Joao Silva/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Polaris Dawn Astronauts Reach Record High Orbit Above Earth",
+      "abstract": "After launching early on Tuesday, the billionaire Jared Isaacman and his crew traveled to altitudes not visited by any astronaut since the Apollo moon missions of the 1960s and ’70s.",
+      "url": "https://www.nytimes.com/2024/09/10/science/polaris-dawn-spacex-orbit-astronauts.html",
+      "uri": "nyt://article/a1e05819-d19c-5f2e-8131-8f20677023b5",
+      "byline": "By Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2024-09-12T00:00:17-04:00",
+      "created_date": "2024-09-10T21:47:31-04:00",
+      "published_date": "2024-09-10T21:47:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Private Spaceflight",
+        "Space and Astronomy",
+        "Rocket Science and Propulsion",
+        "Records and Achievements"
+      ],
+      "org_facet": [
+        "Space Exploration Technologies Corp"
+      ],
+      "per_facet": [
+        "Isaacman, Jared (1983- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/climate/10polaris-dawn-launch-new/10polaris-dawn-launch-new-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from SpaceX’s Crew Dragon Skywalker spacewalk platform released on Tuesday.",
+          "copyright": "SpaceX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/climate/10polaris-dawn-launch-new/10polaris-dawn-launch-new-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from SpaceX’s Crew Dragon Skywalker spacewalk platform released on Tuesday.",
+          "copyright": "SpaceX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/climate/10polaris-dawn-launch-new/10polaris-dawn-launch-new-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from SpaceX’s Crew Dragon Skywalker spacewalk platform released on Tuesday.",
+          "copyright": "SpaceX"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Francisco Lopera, Pioneer in Alzheimer’s Research, Dies at 73",
+      "abstract": "A neurologist in Colombia, he worked with the world’s largest extended family with Alzheimer’s and helped fuel research to prevent or delay dementia symptoms.",
+      "url": "https://www.nytimes.com/2024/09/10/science/francisco-lopera-restrepo-dead.html",
+      "uri": "nyt://article/48113bc7-1f16-582e-a53b-f00930c44d39",
+      "byline": "By Pam Belluck",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T22:51:45-04:00",
+      "created_date": "2024-09-10T17:08:25-04:00",
+      "published_date": "2024-09-10T17:08:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Alzheimer's Disease",
+        "Brain",
+        "Deaths (Obituaries)",
+        "Doctors",
+        "Genetics and Heredity",
+        "Research"
+      ],
+      "org_facet": [
+        "University of Antioquia"
+      ],
+      "per_facet": [
+        "Lopera, Francisco"
+      ],
+      "geo_facet": [
+        "Colombia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00Lopera-ADV-01-gwpj-print1/00Lopera-ADV-01-gwpj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1344,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Francisco Lopera in 2019. He identified about 6,000 members of a large extended family in Colombia, about 1,200 of whom were born with a genetic mutation that causes Alzheimer’s.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00Lopera-ADV-01-gwpj-print1/00Lopera-ADV-01-gwpj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Francisco Lopera in 2019. He identified about 6,000 members of a large extended family in Colombia, about 1,200 of whom were born with a genetic mutation that causes Alzheimer’s.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00Lopera-ADV-01-gwpj-print1/00Lopera-ADV-01-gwpj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Francisco Lopera in 2019. He identified about 6,000 members of a large extended family in Colombia, about 1,200 of whom were born with a genetic mutation that causes Alzheimer’s.",
+          "copyright": "Federico Rios Escobar for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Those Keurig Coffee Pods? They’re Not So Recyclable, the S.E.C. Says.",
+      "abstract": "The agency said Keurig, in its financial filings, had claimed its pods could be “effectively recycled” but didn’t note that two big recycling companies wouldn’t accept them.",
+      "url": "https://www.nytimes.com/2024/09/10/climate/keurig-coffee-pod-sec-recycle.html",
+      "uri": "nyt://article/7c6e2e10-4dbb-5d52-ba26-f62a28f888d5",
+      "byline": "By Hiroko Tabuchi",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T17:03:34-04:00",
+      "created_date": "2024-09-10T16:01:19-04:00",
+      "published_date": "2024-09-10T16:01:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Recycling of Waste Materials",
+        "Fines (Penalties)",
+        "Advertising and Marketing"
+      ],
+      "org_facet": [
+        "Keurig Dr Pepper Inc",
+        "Securities and Exchange Commission"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10CLI-KEURIG-wtcl/10CLI-KEURIG-wtcl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There has been a long debate over the environmental effects of single-serving coffee and tea pods.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10CLI-KEURIG-wtcl/10CLI-KEURIG-wtcl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There has been a long debate over the environmental effects of single-serving coffee and tea pods.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10CLI-KEURIG-wtcl/10CLI-KEURIG-wtcl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There has been a long debate over the environmental effects of single-serving coffee and tea pods.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "‘Imminent Threat’ Found at Boar’s Head Plant 2 Years Before Fatal Listeria Outbreak",
+      "abstract": "U.S. inspectors listed serious problems in 2022 that could have resulted in strict measures like a pause in production. But the plant continued operating, and some conditions persisted.",
+      "url": "https://www.nytimes.com/2024/09/10/health/boars-head-deli-meat-listeria.html",
+      "uri": "nyt://article/d5769b1a-411b-5203-92e9-a11c9afac24e",
+      "byline": "By Christina Jewett and Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-10T23:40:49-04:00",
+      "created_date": "2024-09-10T12:30:55-04:00",
+      "published_date": "2024-09-10T12:30:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Food Contamination and Poisoning",
+        "Deaths (Fatalities)",
+        "Bacteria",
+        "Food",
+        "Recalls and Bans of Products",
+        "Meatpacking Plants and Slaughterhouses",
+        "Mold",
+        "Meat",
+        "Listeria Monocytogenes"
+      ],
+      "org_facet": [
+        "Agriculture Department",
+        "Boar's Head Brand",
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00boars-inspect-lqfj/00boars-inspect-lqfj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Boar’s Head plant in Jarratt, Va. has been closed indefinitely while the company and federal authorities investigate the cause of the listeria outbreak. ",
+          "copyright": "Steve Helber/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00boars-inspect-lqfj/00boars-inspect-lqfj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Boar’s Head plant in Jarratt, Va. has been closed indefinitely while the company and federal authorities investigate the cause of the listeria outbreak. ",
+          "copyright": "Steve Helber/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00boars-inspect-lqfj/00boars-inspect-lqfj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Boar’s Head plant in Jarratt, Va. has been closed indefinitely while the company and federal authorities investigate the cause of the listeria outbreak. ",
+          "copyright": "Steve Helber/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Doctors Give Black Women Unneeded C-Sections to Fill Operating Rooms, Study Suggests",
+      "abstract": "Healthy Black women with low risk factors were far more likely to get C-sections than white women with similar medical histories, a large new study found.",
+      "url": "https://www.nytimes.com/2024/09/10/health/cesarean-sections-black-women.html",
+      "uri": "nyt://article/421aef02-4cc8-518a-860b-61de8ad4f070",
+      "byline": "By Sarah Kliff",
+      "item_type": "Article",
+      "updated_date": "2024-09-10T22:56:36-04:00",
+      "created_date": "2024-09-10T09:00:07-04:00",
+      "published_date": "2024-09-10T09:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Black People",
+        "Income Inequality",
+        "Pregnancy and Childbirth",
+        "Women and Girls",
+        "Caesarean Section",
+        "Health Insurance and Managed Care",
+        "your-feed-healthcare",
+        "Hospitals",
+        "Surgery and Surgeons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/science/00c-sections/00c-sections-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About 30 percent of babies in the United States are delivered via C-section, about double the proportion deemed appropriate by the World Health Organization.",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/science/00c-sections/00c-sections-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About 30 percent of babies in the United States are delivered via C-section, about double the proportion deemed appropriate by the World Health Organization.",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/science/00c-sections/00c-sections-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "About 30 percent of babies in the United States are delivered via C-section, about double the proportion deemed appropriate by the World Health Organization.",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Polaris Dawn Astronauts Launch on Ambitious Private Mission",
+      "abstract": "The mission is taking people farther from Earth than anyone has traveled since the end of NASA’s Apollo moon missions.",
+      "url": "https://www.nytimes.com/2024/09/10/science/spacex-polaris-dawn-launch-spacewalk.html",
+      "uri": "nyt://article/ae54e2c8-fea6-540b-b9ee-4041d7b586a2",
+      "byline": "By Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2024-09-10T22:57:10-04:00",
+      "created_date": "2024-09-10T00:01:16-04:00",
+      "published_date": "2024-09-10T00:01:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Space and Astronomy",
+        "Private Spaceflight"
+      ],
+      "org_facet": [
+        "Kennedy Space Center",
+        "St Jude Children's Research Hospital",
+        "Space Exploration Technologies Corp"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Isaacman, Jared (1983- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10polaris-dawn/10polaris-dawn-launch-jwpk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The spacecraft for the Polaris Dawn mission lifting off from Kennedy Space Center in Cape Canaveral, Fla., on Tuesday.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10polaris-dawn/10polaris-dawn-launch-jwpk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The spacecraft for the Polaris Dawn mission lifting off from Kennedy Space Center in Cape Canaveral, Fla., on Tuesday.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/10/multimedia/10polaris-dawn/10polaris-dawn-launch-jwpk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The spacecraft for the Polaris Dawn mission lifting off from Kennedy Space Center in Cape Canaveral, Fla., on Tuesday.",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Yale Settles With Patients Who Sued Over Painful Egg Retrievals",
+      "abstract": "Patients received “substantial” payments, their lawyers said, and the clinic agreed to staffing changes.",
+      "url": "https://www.nytimes.com/2024/09/09/health/yale-ivf-egg-retrievals-lawsuit.html",
+      "uri": "nyt://article/b0f8dde5-255d-5219-b758-d9075ca4f932",
+      "byline": "By Sarah Kliff",
+      "item_type": "Article",
+      "updated_date": "2024-09-09T16:34:20-04:00",
+      "created_date": "2024-09-09T16:34:20-04:00",
+      "published_date": "2024-09-09T16:34:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Suits and Litigation (Civil)",
+        "Malpractice",
+        "Fentanyl",
+        "Infertility",
+        "Nursing and Nurses",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Yale University"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09yale-ivf-ghbf/09yale-ivf-ghbf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soryorelis Henry, left, a plaintiff, was one of dozens of women who reached a settlement with Yale University.",
+          "copyright": "Dave Collins/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09yale-ivf-ghbf/09yale-ivf-ghbf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soryorelis Henry, left, a plaintiff, was one of dozens of women who reached a settlement with Yale University.",
+          "copyright": "Dave Collins/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09yale-ivf-ghbf/09yale-ivf-ghbf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soryorelis Henry, left, a plaintiff, was one of dozens of women who reached a settlement with Yale University.",
+          "copyright": "Dave Collins/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "7 Takeaways From the Seemingly Endless Fire Season",
+      "abstract": "While the Line fire burns in Southern California, what can we learn from how a changing climate has affected an expanding fire season?",
+      "url": "https://www.nytimes.com/2024/09/09/climate/climate-changing-fire-season.html",
+      "uri": "nyt://article/3616cef3-8a08-5e96-ad2e-12d315a8fb4c",
+      "byline": "By Austyn Gaffney",
+      "item_type": "Article",
+      "updated_date": "2024-09-11T10:23:27-04:00",
+      "created_date": "2024-09-09T15:44:21-04:00",
+      "published_date": "2024-09-09T15:44:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Wildfires",
+        "Heat and Heat Waves",
+        "Fires and Firefighters",
+        "Air Pollution",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Western States (US)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09cli-fire-takeaways-mzbw/09cli-fire-takeaways-mzbw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some wildfires grow big enough to generate their own weather.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09cli-fire-takeaways-mzbw/09cli-fire-takeaways-mzbw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some wildfires grow big enough to generate their own weather.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/multimedia/09cli-fire-takeaways-mzbw/09cli-fire-takeaways-mzbw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some wildfires grow big enough to generate their own weather.",
+          "copyright": "Philip Cheung for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Teen Girls’ Brains Aged Rapidly During Pandemic, Study Finds",
+      "abstract": "Neuroimaging found girls experienced cortical thinning far faster than boys did during the first year of Covid lockdowns.",
+      "url": "https://www.nytimes.com/2024/09/09/health/teen-brains-pandemic-girls.html",
+      "uri": "nyt://article/4419db02-a919-59c4-a448-5e08d666db0c",
+      "byline": "By Ellen Barry",
+      "item_type": "Article",
+      "updated_date": "2024-09-10T20:33:11-04:00",
+      "created_date": "2024-09-09T15:39:13-04:00",
+      "published_date": "2024-09-09T15:39:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Children and Childhood",
+        "Coronavirus (2019-nCoV)",
+        "Brain",
+        "Research",
+        "Quarantine (Life and Culture)",
+        "Teenagers and Adolescence",
+        "Women and Girls",
+        "Anxiety and Stress",
+        "Depression (Mental)"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "per_facet": [
+        "Neva Corrigan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/science/09brain/09brain-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 908,
+          "width": 1668,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The thinning of the cortex is seen by scientists as the brain rewiring itself as it matures.",
+          "copyright": "Institute for Learning and Brain Sciences, University of Washington"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/science/09brain/09brain-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The thinning of the cortex is seen by scientists as the brain rewiring itself as it matures.",
+          "copyright": "Institute for Learning and Brain Sciences, University of Washington"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/09/science/09brain/09brain-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The thinning of the cortex is seen by scientists as the brain rewiring itself as it matures.",
+          "copyright": "Institute for Learning and Brain Sciences, University of Washington"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}

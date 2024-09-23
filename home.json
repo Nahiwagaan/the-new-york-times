@@ -1,0 +1,1920 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2024-09-18T07:48:35-04:00",
+  "num_results": 30,
+  "results": [
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israel’s Pager Attack Has No Clear Strategic Goal, Analysts Say",
+      "abstract": "By targeting so many pagers at the same time, Israel demonstrated technical prowess. But its long-term intent is unclear.",
+      "url": "https://www.nytimes.com/2024/09/18/world/middleeast/israel-hezbollah-pager-attack.html",
+      "uri": "nyt://article/ef2f8cdd-834a-595f-a90a-dd5162d3818f",
+      "byline": "By Patrick Kingsley",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:55:28-04:00",
+      "created_date": "2024-09-18T05:55:28-04:00",
+      "published_date": "2024-09-18T05:55:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Palestinians",
+        "Israel-Gaza War (2023- )",
+        "International Relations",
+        "Defense and Military Forces",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "Hamas"
+      ],
+      "per_facet": [
+        "Gallant, Yoav",
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Beirut (Lebanon)",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18israel-assess-wfhl/18israel-assess-wfhl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspecting a car in which a pager exploded in Beirut on Tuesday.",
+          "copyright": "Hussein Malla/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18israel-assess-wfhl/18israel-assess-wfhl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspecting a car in which a pager exploded in Beirut on Tuesday.",
+          "copyright": "Hussein Malla/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18israel-assess-wfhl/18israel-assess-wfhl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspecting a car in which a pager exploded in Beirut on Tuesday.",
+          "copyright": "Hussein Malla/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Pager Attacks Embarrass Hezbollah but May Not Deter It, Analysts Say",
+      "abstract": "The armed group’s history suggests that the attacks targeting its pagers will not cause it to change course or seek an accommodation with Israel.",
+      "url": "https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-pager-lebanon.html",
+      "uri": "nyt://article/53a98008-d75c-52a7-a292-b2e6b0b37edd",
+      "byline": "By Ben Hubbard",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:09:41-04:00",
+      "created_date": "2024-09-18T06:27:59-04:00",
+      "published_date": "2024-09-18T06:27:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Wireless Communications"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Iran",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-assess-gvtz/18hezbollah-assess-gvtz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Outside the American University of Beirut Hospital on Tuesday, where many people injured in Tuesday’s attack were taken.",
+          "copyright": "Mohamed Azakir/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-assess-gvtz/18hezbollah-assess-gvtz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Outside the American University of Beirut Hospital on Tuesday, where many people injured in Tuesday’s attack were taken.",
+          "copyright": "Mohamed Azakir/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-assess-gvtz/18hezbollah-assess-gvtz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Outside the American University of Beirut Hospital on Tuesday, where many people injured in Tuesday’s attack were taken.",
+          "copyright": "Mohamed Azakir/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "Hezbollah Blames Israel for Deadly Pager Attack, and Fed Expected to Cut Rates",
+      "abstract": "Plus, gymnast Jordan Chiles’s Olympic medal fight.",
+      "url": "https://www.nytimes.com/2024/09/18/podcasts/lebanon-pagers-fed-rates.html",
+      "uri": "nyt://article/0628f063-dad3-57c1-adde-ff459944ec5b",
+      "byline": "By Tracy Mumford, Ron Lieber, Mike Isaac, Robert Jimison, Ian Stewart and Jessica Metzger",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T06:00:15-04:00",
+      "created_date": "2024-09-18T06:00:15-04:00",
+      "published_date": "2024-09-18T06:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computers and the Internet",
+        "Terrorism",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "Instagram Inc",
+        "Meta Platforms Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18audio-headlines-promo-hblc/18audio-headlines-promo-hblc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ambulance in Beirut carried wounded people to a hospital on Tuesday following the explosion of hundreds of pagers across Lebanon.",
+          "copyright": "Anwar Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18audio-headlines-promo-hblc/18audio-headlines-promo-hblc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ambulance in Beirut carried wounded people to a hospital on Tuesday following the explosion of hundreds of pagers across Lebanon.",
+          "copyright": "Anwar Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18audio-headlines-promo-hblc/18audio-headlines-promo-hblc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An ambulance in Beirut carried wounded people to a hospital on Tuesday following the explosion of hundreds of pagers across Lebanon.",
+          "copyright": "Anwar Amro/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Fed Officials Are Expected to Cut Rates. The Question Is How Much.",
+      "abstract": "Policymakers are expected to lower rates for the first time in four years on Wednesday while releasing fresh economic forecasts.",
+      "url": "https://www.nytimes.com/2024/09/18/business/economy/fed-reserve-interest-rate-cut.html",
+      "uri": "nyt://article/e9b6a734-f58b-538b-960f-16a07f669290",
+      "byline": "By Jeanna Smialek",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:22:00-04:00",
+      "created_date": "2024-09-18T05:04:29-04:00",
+      "published_date": "2024-09-18T05:04:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Interest Rates",
+        "United States Economy"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [
+        "Powell, Jerome H"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-FED-01-ftzw/DC-FEDPOLITICS-01-ftzw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal Reserve Chair Jerome H. Powell in June. Investors are betting the Fed will cut rates either a quarter or half percentage point.",
+          "copyright": "Evelyn Hockstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-FED-01-ftzw/DC-FED-01-ftzw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal Reserve Chair Jerome H. Powell in June. Investors are betting the Fed will cut rates either a quarter or half percentage point.",
+          "copyright": "Evelyn Hockstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-FED-01-ftzw/DC-FED-01-ftzw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal Reserve Chair Jerome H. Powell in June. Investors are betting the Fed will cut rates either a quarter or half percentage point.",
+          "copyright": "Evelyn Hockstein/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Wall Street Has Its Eye on a Big Rate Cut",
+      "abstract": "The S&P 500 is hovering just below record territory, driven by a revived rally as bets have grown that the Federal Reserve will cut interest rates by half a percentage point.",
+      "url": "https://www.nytimes.com/2024/09/18/business/stock-market-fed-rate-cut.html",
+      "uri": "nyt://article/da631e6a-a07b-5789-b060-d4a6a7b17abb",
+      "byline": "By Joe Rennison",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:21:59-04:00",
+      "created_date": "2024-09-18T05:04:30-04:00",
+      "published_date": "2024-09-18T05:04:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Standard & Poor's 500-Stock Index",
+        "Nasdaq Composite Index",
+        "Interest Rates",
+        "United States Economy",
+        "Russell 2,000 Stock Index"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18stocks-promo/18stocks-promo-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "FactSet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18stocks-promo/18stocks-promo-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "FactSet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18stocks-promo/18stocks-promo-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "FactSet"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "A Fed Rate Cut Would Cap a Winning Streak for Biden and Harris on Prices",
+      "abstract": "Improved data on borrowing costs and price growth has buoyed consumers, but it might be coming too late to significantly affect the presidential race",
+      "url": "https://www.nytimes.com/2024/09/18/us/politics/fed-rate-cut-biden-harris.html",
+      "uri": "nyt://article/8b133a4a-b36f-50c6-8d35-ccdbeebdfebf",
+      "byline": "By Jim Tankersley",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:04:47-04:00",
+      "created_date": "2024-09-18T05:04:47-04:00",
+      "published_date": "2024-09-18T05:04:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Presidential Election of 2024",
+        "Prices (Fares, Fees and Rates)",
+        "Interest Rates",
+        "Mortgages",
+        "Inflation (Economics)"
+      ],
+      "org_facet": [
+        "Federal Reserve System",
+        "White House Council of Economic Advisers"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/DC-BIDEN-FED-01-pckz/DC-BIDEN-FED-01-pckz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Recent weeks have brought a run of good data on consumer prices and interest rates for the Biden-Harris administration.",
+          "copyright": "Eric Lee/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "An Interest Rate Cut",
+      "abstract": "We explore the politics of today’s Fed announcement.",
+      "url": "https://www.nytimes.com/2024/09/18/briefing/federal-reserve-interest-rate-cut-election.html",
+      "uri": "nyt://article/b0f6a067-a1d0-504e-a86e-30ec3d8a235b",
+      "byline": "By Jeanna Smialek",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T06:32:49-04:00",
+      "created_date": "2024-09-18T06:32:49-04:00",
+      "published_date": "2024-09-18T06:32:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "internal-storyline-no",
+        "Presidential Election of 2024",
+        "Banking and Financial Institutions"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18themorning-nl-TOP-01-vkjg/18themorning-nl-TOP-01-vkjg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Fed building in Washington.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18themorning-nl-TOP-01-vkjg/18themorning-nl-TOP-01-vkjg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Fed building in Washington.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18themorning-nl-TOP-01-vkjg/18themorning-nl-TOP-01-vkjg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Fed building in Washington.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Sean Combs’s New Home: A Troubled Brooklyn Jail",
+      "abstract": "The music mogul, who is charged with sex trafficking and racketeering conspiracy, was denied bail and ordered held at a federal detention center. His lawyers are appealing.",
+      "url": "https://www.nytimes.com/2024/09/18/arts/sean-combs-jail-brooklyn-mdc.html",
+      "uri": "nyt://article/bcd14dfd-f0a2-54d0-bc0a-9f9cf7eb3305",
+      "byline": "By Julia Jacobs and Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:26:58-04:00",
+      "created_date": "2024-09-18T05:05:25-04:00",
+      "published_date": "2024-09-18T05:05:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Human Trafficking",
+        "Prisons and Prisoners",
+        "Racketeering and Racketeers",
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        "Federal Bureau of Prisons",
+        "Metropolitan Detention Center (Brooklyn, NY)"
+      ],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Sean Combs Is Denied Bail on Sex Trafficking and Racketeering Charges",
+      "abstract": "A day after his arrest, the music mogul known as Diddy was accused of running a “criminal enterprise” that threatened and abused women. He pleaded not guilty.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/music/sean-combs-diddy-indicted.html",
+      "uri": "nyt://article/da212cdd-3d8a-5d7a-9d21-0238514a92f7",
+      "byline": "By Ben Sisario and Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:09:24-04:00",
+      "created_date": "2024-09-17T09:53:46-04:00",
+      "published_date": "2024-09-17T09:53:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "Sex Crimes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17combs-indictment-vwpq/17combs-indictment-vwpq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs was arrested in New York on Monday night, several months after federal agents raided his homes in Los Angeles and Miami Beach.",
+          "copyright": "Willy Sanjuan/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17combs-indictment-vwpq/17combs-indictment-vwpq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs was arrested in New York on Monday night, several months after federal agents raided his homes in Los Angeles and Miami Beach.",
+          "copyright": "Willy Sanjuan/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17combs-indictment-vwpq/17combs-indictment-vwpq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs was arrested in New York on Monday night, several months after federal agents raided his homes in Los Angeles and Miami Beach.",
+          "copyright": "Willy Sanjuan/Invision, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Far From Ohio, Haitian Americans Feel the Sting of Threats in Springfield",
+      "abstract": "They charged Donald J. Trump and JD Vance, who spread baseless rumors that Haitians in an Ohio city were eating pets, with imperiling their community for political gain.",
+      "url": "https://www.nytimes.com/2024/09/18/us/haitian-americans-springfield-ohio-reaction.html",
+      "uri": "nyt://article/c58df5d8-75e3-5843-a8f8-b916850ef45f",
+      "byline": "By Miriam Jordan",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:05:56-04:00",
+      "created_date": "2024-09-18T05:05:56-04:00",
+      "published_date": "2024-09-18T05:05:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Haitian-Americans",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Springfield (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17nat-springfield-diaspora-01-wmcl/17nat-springfield-diaspora-01-wmcl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“It may seem like just politics,” said Karl Racine, who served two terms as attorney general for the District of Columbia and immigrated to the United States from Haiti when he was 6. “But it’s serious business, with the real possibility of violence.”",
+          "copyright": "Alyssa Schukar for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "technology",
+      "subsection": "personaltech",
+      "title": "Foldables Are Becoming Good Enough to Be Your Next Smartphone",
+      "abstract": "New devices from Motorola and Google prove that phones with bendable screens keep getting better — and some are even becoming cheaper.",
+      "url": "https://www.nytimes.com/2024/09/18/technology/personaltech/foldable-smartphones.html",
+      "uri": "nyt://article/3a000154-50c9-50bb-90f6-8ce203dd5ede",
+      "byline": "By Brian X. Chen",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:36:28-04:00",
+      "created_date": "2024-09-18T05:05:15-04:00",
+      "published_date": "2024-09-18T05:05:15-04:00",
+      "material_type_facet": "",
+      "kicker": "TeCH Fix",
+      "des_facet": [
+        "Computers and the Internet",
+        "Smartphones",
+        "iPhone",
+        "iPad",
+        "Mobile Applications",
+        "Photography",
+        "Tablet Computers",
+        "Prices (Fares, Fees and Rates)",
+        "Content Type: Service",
+        "vis-photo",
+        "vis-video"
+      ],
+      "org_facet": [
+        "Google Inc",
+        "Apple Inc",
+        "Motorola Mobility LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18TECHFIX-VIDEO-both/18TECHFIX-VIDEO-COVER-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Google Pixel 9 Pro Fold, left, and the Motorola Razr.",
+          "copyright": "Kelsey McClellan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18TECHFIX-VIDEO-both/18TECHFIX-VIDEO-COVER-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Google Pixel 9 Pro Fold, left, and the Motorola Razr.",
+          "copyright": "Kelsey McClellan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/business/18TECHFIX-VIDEO-both/18TECHFIX-VIDEO-COVER-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Google Pixel 9 Pro Fold, left, and the Motorola Razr.",
+          "copyright": "Kelsey McClellan for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "What R.F.K. Jr.’s Alliance With Trump Could Mean for Public Health",
+      "abstract": "Robert F. Kennedy Jr., who has long voiced doubts about vaccine safety, has hopes of influencing federal health policy. Could he finally get the chance?",
+      "url": "https://www.nytimes.com/2024/09/18/health/rfk-trump-public-health.html",
+      "uri": "nyt://article/777a0327-2fb8-549e-baef-8865afc07cdc",
+      "byline": "By Emily Baumgaertner",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:02:17-04:00",
+      "created_date": "2024-09-18T05:02:17-04:00",
+      "published_date": "2024-09-18T05:02:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Vaccination and Immunization",
+        "Medicine and Health",
+        "Rumors and Misinformation",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Coronavirus (2019-nCoV)",
+        "Conspiracy Theories",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Children's Health Defense"
+      ],
+      "per_facet": [
+        "Kennedy, Robert F Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+          "copyright": "Rachel Woolf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+          "copyright": "Rachel Woolf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+          "copyright": "Rachel Woolf for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Trump, Hardly New York’s Favorite Son, Brings His Message to Long Island",
+      "abstract": "Donald J. Trump’s rally in Nassau County on Wednesday is another sign of the area’s shift to the right, but some question his choice to spend time in a non-battleground state.",
+      "url": "https://www.nytimes.com/2024/09/18/nyregion/trump-long-island-nassau.html",
+      "uri": "nyt://article/715f38b3-22f4-577a-9cdb-4b08b11f9955",
+      "byline": "By Nicholas Fandos",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:00:20-04:00",
+      "created_date": "2024-09-18T03:00:20-04:00",
+      "published_date": "2024-09-18T03:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Suburbs",
+        "Elections, House of Representatives"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Nassau Coliseum"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Nassau County (NY)",
+        "Long Island (NY)",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nassau-trump1-thmj/18nassau-trump1-thmj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump says he has a “real chance” of winning New York, even as recent polls show him no closer than 14 percentage points behind Vice President Kamala Harris.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nassau-trump1-thmj/18nassau-trump1-thmj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump says he has a “real chance” of winning New York, even as recent polls show him no closer than 14 percentage points behind Vice President Kamala Harris.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nassau-trump1-thmj/18nassau-trump1-thmj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump says he has a “real chance” of winning New York, even as recent polls show him no closer than 14 percentage points behind Vice President Kamala Harris.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Tries to Close Off a Chief Line of Attack: That He’s a Danger to Democracy",
+      "abstract": "Donald Trump has tried to link Democrats’ charge that he poses a “threat to democracy” to threats on his life. Meanwhile, he has heightened his own attacks on his rivals.",
+      "url": "https://www.nytimes.com/2024/09/18/us/politics/trump-democrats-rhetoric.html",
+      "uri": "nyt://article/74cecb13-3205-5492-b1c5-7e22946a172c",
+      "byline": "By Lisa Lerer",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:04:59-04:00",
+      "created_date": "2024-09-18T05:04:59-04:00",
+      "published_date": "2024-09-18T05:04:59-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Democracy (Theory and Philosophy)",
+        "Assassinations and Attempted Assassinations",
+        "Threats and Threatening Messages"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17pol-threats-chwz/17pol-threats-chwz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Their rhetoric is causing me to be shot at, when I am the one who is going to save the country,” Mr. Trump said in an interview with Fox News Digital. ",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "Second Apparent Assassination Attempt on Trump Prompts Alarm Abroad",
+      "abstract": "There is widespread concern that the November election will not end well and that American democracy has frayed to the breaking point.",
+      "url": "https://www.nytimes.com/2024/09/17/world/trump-assassination-attempt-world-reaction.html",
+      "uri": "nyt://article/b8e27ab6-c83a-5c19-baaa-56792468f280",
+      "byline": "By Roger Cohen",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T02:05:12-04:00",
+      "created_date": "2024-09-17T15:34:18-04:00",
+      "published_date": "2024-09-17T15:34:18-04:00",
+      "material_type_facet": "",
+      "kicker": "News analysis",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Politics and Government",
+        "Assassinations and Attempted Assassinations",
+        "Right-Wing Extremism and Alt-Right",
+        "Firearms"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Harris, Kamala D",
+        "Le Pen, Marine",
+        "Meloni, Giorgia (1977- )",
+        "Starmer, Keir"
+      ],
+      "geo_facet": [
+        "Europe",
+        "France",
+        "Germany",
+        "Hungary",
+        "Great Britain",
+        "Italy",
+        "Mexico",
+        "Nicaragua",
+        "South Africa",
+        "Russia",
+        "Slovakia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaking onstage during the Republican National Convention in Milwaukee in July as a photograph of the aftermath of an assassination attempt was emblazoned on a screen.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaking onstage during the Republican National Convention in Milwaukee in July as a photograph of the aftermath of an assassination attempt was emblazoned on a screen.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17trump-react-01-hfvl/17trump-react-01-hfvl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaking onstage during the Republican National Convention in Milwaukee in July as a photograph of the aftermath of an assassination attempt was emblazoned on a screen.",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Russia Seizes Eastern Town as Ukraine Says It Hit a Big Ammunition Depot",
+      "abstract": "The capture of Ukrainsk underscored Russia’s steady advances in the Donetsk region. Ukraine is trying to counter with strikes on Russian military infrastructure.",
+      "url": "https://www.nytimes.com/2024/09/18/world/europe/ukraine-russia-strikes.html",
+      "uri": "nyt://article/941fecd6-e3eb-5851-b78e-257c44807341",
+      "byline": "By Constant Méheut",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:34:41-04:00",
+      "created_date": "2024-09-18T05:53:26-04:00",
+      "published_date": "2024-09-18T05:53:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drones (Pilotless Planes)",
+        "Defense and Military Forces",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ukraine-russia-strike-01-lqhm/18ukraine-russia-strike-01-lqhm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of a special evacuation unit of Ukraine’s national police talking with residents of Myrnohrad, in the eastern Donetsk region, this month. Russia has a long-held goal of seizing all of Donetsk.",
+          "copyright": "Nicole Tung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ukraine-russia-strike-01-lqhm/18ukraine-russia-strike-01-lqhm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of a special evacuation unit of Ukraine’s national police talking with residents of Myrnohrad, in the eastern Donetsk region, this month. Russia has a long-held goal of seizing all of Donetsk.",
+          "copyright": "Nicole Tung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ukraine-russia-strike-01-lqhm/18ukraine-russia-strike-01-lqhm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of a special evacuation unit of Ukraine’s national police talking with residents of Myrnohrad, in the eastern Donetsk region, this month. Russia has a long-held goal of seizing all of Donetsk.",
+          "copyright": "Nicole Tung for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "He Had 5 Followers on YouTube. It Landed Him in Jail, Where He Died.",
+      "abstract": "Among the hundreds of Russians jailed for criticizing the war in Ukraine, the death of Pavel Kushnir in detention has transformed him into an antiwar symbol.",
+      "url": "https://www.nytimes.com/2024/09/18/world/europe/russia-political-expression-prisoners-pavel-kushnir.html",
+      "uri": "nyt://article/ba58a168-a78a-5135-9c76-1388cfedbd9d",
+      "byline": "By Neil MacFarquhar and Milana Mazaeva",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:02:30-04:00",
+      "created_date": "2024-09-18T05:02:30-04:00",
+      "published_date": "2024-09-18T05:02:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Political Prisoners"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Pavel Kushnir"
+      ],
+      "geo_facet": [
+        "Birobidzhan (Russia)",
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/Russia-pianist-05-cvqf/Russia-pianist-05-cvqf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1442,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An undated screen grab taken from a video of Pavel Kushnir performing at the annual Rachmaninoff festival in his hometown Tambov, Russia in 2010.",
+          "copyright": "YouTube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/Russia-pianist-05-cvqf/Russia-pianist-05-cvqf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An undated screen grab taken from a video of Pavel Kushnir performing at the annual Rachmaninoff festival in his hometown Tambov, Russia in 2010.",
+          "copyright": "YouTube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/Russia-pianist-05-cvqf/Russia-pianist-05-cvqf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An undated screen grab taken from a video of Pavel Kushnir performing at the annual Rachmaninoff festival in his hometown Tambov, Russia in 2010.",
+          "copyright": "YouTube"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Deep Links Between Alcohol and Cancer Are Described in New Report",
+      "abstract": "Scientists continue to rethink the idea that moderate drinking offers health benefits.",
+      "url": "https://www.nytimes.com/2024/09/18/health/alcohol-cancer-young-adults.html",
+      "uri": "nyt://article/d015e7af-2857-51d9-b63f-3a62777de3ca",
+      "byline": "By Roni Caryn Rabin",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:45:21-04:00",
+      "created_date": "2024-09-18T02:10:33-04:00",
+      "published_date": "2024-09-18T02:10:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Colon and Colorectal Cancer",
+        "Alcoholic Beverages",
+        "Deaths (Fatalities)",
+        "Breast Cancer",
+        "Cancer",
+        "Digestive Tract",
+        "Esophageal Cancer",
+        "Heart",
+        "Research",
+        "Wines",
+        "Head and Neck Cancer",
+        "Breasts",
+        "Estrogen",
+        "Colon"
+      ],
+      "org_facet": [
+        "American Assn for Cancer Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "well",
+      "subsection": "",
+      "title": "These Four Common Infections Can Cause Cancer",
+      "abstract": "A new report says that 13 percent of cancers are linked to bacteria or viruses. Vaccines and treatments offer powerful protection.",
+      "url": "https://www.nytimes.com/2024/09/18/well/cancer-infections-vaccines-treatments.html",
+      "uri": "nyt://article/4f7dd97f-7aff-53b3-a784-de92480bab97",
+      "byline": "By Nina Agrawal",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:12:13-04:00",
+      "created_date": "2024-09-18T00:01:06-04:00",
+      "published_date": "2024-09-18T00:01:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sexually Transmitted Diseases",
+        "Hepatitis",
+        "Vaccination and Immunization",
+        "Cancer",
+        "Digestive Tract",
+        "Bacteria",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Flooding in Central Europe a ‘Clear Reminder’ of the Threat of Extreme Weather",
+      "abstract": "Climate change is influencing extreme weather events like the flooding across six European countries that has led to mass evacuations of cities as the waters continue to rise.",
+      "url": "https://www.nytimes.com/2024/09/18/climate/central-europe-floods-global-warming.html",
+      "uri": "nyt://article/53220df1-5f7e-5866-9ce5-9b645a1d69a4",
+      "byline": "By Austyn Gaffney",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T00:01:06-04:00",
+      "created_date": "2024-09-18T00:01:06-04:00",
+      "published_date": "2024-09-18T00:01:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Floods",
+        "Rain",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Central Europe"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+          "copyright": "David W Cerny/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+          "copyright": "David W Cerny/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+          "copyright": "David W Cerny/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Alexandria Ocasio-Cortez and Tina Smith: Our Solution to the Housing Crisis",
+      "abstract": "Instead of treating real estate as a commodity, we can underwrite the construction of millions of permanently affordable homes and apartments.",
+      "url": "https://www.nytimes.com/2024/09/18/opinion/aoc-tina-smith-housing.html",
+      "uri": "nyt://article/52051ff9-a9f3-5ee9-ad40-dff550fe0c7c",
+      "byline": "By Alexandria Ocasio-Cortez and Tina Smith",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:05:46-04:00",
+      "created_date": "2024-09-18T05:05:46-04:00",
+      "published_date": "2024-09-18T05:05:46-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Zoning",
+        "Real Estate and Housing (Residential)",
+        "Renting and Leasing (Real Estate)",
+        "Public and Subsidized Housing",
+        "Affordable Housing",
+        "United States Politics and Government",
+        "Area Planning and Renewal",
+        "Building (Construction)",
+        "United States Economy"
+      ],
+      "org_facet": [
+        "Co-op City (Bronx, NY, Apartments)",
+        "Federal Home Loan Mortgage Corp (Freddie Mac)",
+        "Federal National Mortgage Assn (Fannie Mae)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bronx (NYC)",
+        "Queens (NYC)",
+        "Minnesota"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18smith-ocasio-cortez-mlkp/18smith-ocasio-cortez-mlkp-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1440,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18smith-ocasio-cortez-mlkp/18smith-ocasio-cortez-mlkp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18smith-ocasio-cortez-mlkp/18smith-ocasio-cortez-mlkp-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kyle Johnson for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Real Reason the Harris Twang Is Driving Republicans Crazy",
+      "abstract": "Here’s a hint: It’s not about linguistic purity.",
+      "url": "https://www.nytimes.com/2024/09/18/opinion/kamala-harris-accent-language.html",
+      "uri": "nyt://article/3a2229c2-5de0-5aa4-96cd-7c33be6494a7",
+      "byline": "By Elizabeth Spiers",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:04:39-04:00",
+      "created_date": "2024-09-18T05:04:39-04:00",
+      "published_date": "2024-09-18T05:04:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Voice and Speech",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18spiers-image/18spiers-image-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Brandon Celi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18spiers-image/18spiers-image-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Brandon Celi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18spiers-image/18spiers-image-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Brandon Celi"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What Happens in Springfield Won’t Stay in Springfield",
+      "abstract": "When you start talking about people “poisoning the blood of our country,” this is where you end up. And it’s not over.",
+      "url": "https://www.nytimes.com/2024/09/18/opinion/trump-vance-springfield-charlottesville-haitians.html",
+      "uri": "nyt://article/3783dc3d-9c16-5b96-8f98-d569c3cd6722",
+      "byline": "By Jamelle Bouie",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:05:56-04:00",
+      "created_date": "2024-09-18T05:05:56-04:00",
+      "published_date": "2024-09-18T05:05:56-04:00",
+      "material_type_facet": "",
+      "kicker": "Jamelle Bouie",
+      "des_facet": [
+        "Haitian-Americans",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Right-Wing Extremism and Alt-Right",
+        "Social Media",
+        "Threats and Threatening Messages",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Charlottesville (Va)",
+        "Springfield (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18bouie-qchk/18bouie-qchk-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18bouie-qchk/18bouie-qchk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18bouie-qchk/18bouie-qchk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Man Behind the End of Roe v. Wade Has Big Plans for America",
+      "abstract": "In the world of political fund-raising, there is hard money, soft money, dark money — and Leonard Leo money.",
+      "url": "https://www.nytimes.com/2024/09/18/opinion/leonard-leo-fundraising-supreme-court-irs.html",
+      "uri": "nyt://article/7c5d495c-307d-50da-a491-9fe2650fb280",
+      "byline": "By Thomas B. Edsall",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:06:07-04:00",
+      "created_date": "2024-09-18T05:06:07-04:00",
+      "published_date": "2024-09-18T05:06:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Philanthropy",
+        "Conservatism (US Politics)",
+        "Nonprofit Organizations",
+        "United States Politics and Government",
+        "Abortion",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Internal Revenue Service",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Leo, Leonard A"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18edsall/18edsall-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18edsall/18edsall-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/opinion/18edsall/18edsall-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson/Redux"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Late Night Calls Out Violence Against Trump",
+      "abstract": "“Not only is it morally wrong, but you’re also just giving him more things to brag about,” Ronny Chieng said on Tuesday’s “Daily Show.”",
+      "url": "https://www.nytimes.com/2024/09/18/arts/television/late-night-trump.html",
+      "uri": "nyt://article/57db1c5b-6911-54d0-80a4-91675161a2a5",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:01:36-04:00",
+      "created_date": "2024-09-18T01:43:36-04:00",
+      "published_date": "2024-09-18T01:43:36-04:00",
+      "material_type_facet": "",
+      "kicker": "Best of Late Night",
+      "des_facet": [
+        "Television",
+        "Jimmy Kimmel Live (TV Program)",
+        "The Tonight Show (TV Program)",
+        "Late Show with Stephen Colbert (TV Program)",
+        "The Daily Show with Trevor Noah (TV Program)",
+        "Late Night with Seth Meyers (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kimmel, Jimmy",
+        "Fallon, Jimmy",
+        "Colbert, Stephen",
+        "Meyers, Seth"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 972,
+          "width": 1735,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "How Colorado Cowboys and Conservationists Joined Forces to Stop Drilling",
+      "abstract": "The members of a self-described ragtag group had little in common, but their campaign could serve as model for future environmental efforts.",
+      "url": "https://www.nytimes.com/2024/09/18/climate/colorado-thompson-divide-oil-gas.html",
+      "uri": "nyt://article/35b1333d-1a31-5a1a-b9f2-c9f838704af2",
+      "byline": "By Zoë Rom and Eli Imadali",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:00:50-04:00",
+      "created_date": "2024-09-18T05:00:50-04:00",
+      "published_date": "2024-09-18T05:00:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Land Use Policies",
+        "Federal Lands",
+        "Forests and Forestry",
+        "Conservation of Resources",
+        "Drilling and Boring",
+        "Natural Gas",
+        "Oil (Petroleum) and Gasoline",
+        "Environment",
+        "Wilderness Areas",
+        "Cowboys and Cowgirls",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Colorado",
+        "White River National Forest (Colo)",
+        "Thompson Divide (Colo)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eli Imadali for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eli Imadali for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eli Imadali for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "The Police Called. He Checked the News, and His ‘Heart Dropped.’",
+      "abstract": "Gregory Delpeche, a bystander, is in critical condition after being shot by a police officer at a Brooklyn subway station. His friend of decades says it never should have happened.",
+      "url": "https://www.nytimes.com/2024/09/18/nyregion/nypd-shooting-brooklyn-subway-bystander.html",
+      "uri": "nyt://article/744a69e0-b96f-5138-92d5-df042270f0a2",
+      "byline": "By Hurubie Meko and Wesley Parnell",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:00:27-04:00",
+      "created_date": "2024-09-18T03:00:27-04:00",
+      "published_date": "2024-09-18T03:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assaults",
+        "Police Brutality, Misconduct and Shootings",
+        "Subways"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gregory Depelche"
+      ],
+      "geo_facet": [
+        "East New York (Brooklyn, NY)",
+        "Brownsville (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18FARE-EVASION-BYSTANDER-lfbj/18FARE-EVASION-BYSTANDER-lfbj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gregory Depelche, 49, was one of four people shot by police officers on Sunday afternoon during a confrontation between officers and a knife-wielding man who they believed had not paid his fare.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18FARE-EVASION-BYSTANDER-lfbj/18FARE-EVASION-BYSTANDER-lfbj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gregory Depelche, 49, was one of four people shot by police officers on Sunday afternoon during a confrontation between officers and a knife-wielding man who they believed had not paid his fare.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18FARE-EVASION-BYSTANDER-lfbj/18FARE-EVASION-BYSTANDER-lfbj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gregory Depelche, 49, was one of four people shot by police officers on Sunday afternoon during a confrontation between officers and a knife-wielding man who they believed had not paid his fare.",
+          "copyright": "Dave Sanders for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Kashmiris Are Voting Again. But Do They Have a Voice?",
+      "abstract": "An election that began on Wednesday will restore some of the self-rule India took away in 2019. But a lasting chill has fallen over Kashmir.",
+      "url": "https://www.nytimes.com/2024/09/18/world/asia/kashmir-election.html",
+      "uri": "nyt://article/62c9a164-ac0c-503a-b7bf-20a98e3b75b2",
+      "byline": "By Sameer Yasir and Showkat Nanda",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:45:12-04:00",
+      "created_date": "2024-09-18T05:44:57-04:00",
+      "published_date": "2024-09-18T05:44:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Muslims and Islam",
+        "Legislatures and Parliaments",
+        "Youth",
+        "Elections",
+        "Secession and Independence Movements",
+        "Freedom of Speech and Expression"
+      ],
+      "org_facet": [
+        "Bharatiya Janata Party"
+      ],
+      "per_facet": [
+        "Modi, Narendra"
+      ],
+      "geo_facet": [
+        "Kashmir and Jammu (India)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18kashmir-politics-fqlc/18kashmir-politics-fqlc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Kuglam, in southern Kashmir, lined up on Wednesday to vote in Kashmir’s first regional legislative election in a decade.",
+          "copyright": "Atul Loke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18kashmir-politics-fqlc/18kashmir-politics-fqlc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Kuglam, in southern Kashmir, lined up on Wednesday to vote in Kashmir’s first regional legislative election in a decade.",
+          "copyright": "Atul Loke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18kashmir-politics-fqlc/18kashmir-politics-fqlc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Kuglam, in southern Kashmir, lined up on Wednesday to vote in Kashmir’s first regional legislative election in a decade.",
+          "copyright": "Atul Loke for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tupperware, Food Container Pioneer, Files for Bankruptcy",
+      "abstract": "The once-mighty kitchenware company has struggled financially for years. It says the direct sales model that fueled its success has become a weakness.",
+      "url": "https://www.nytimes.com/2024/09/18/business/tupperware-bankruptcy.html",
+      "uri": "nyt://article/fb09fb51-01b5-588e-9f22-8f03258f0d9f",
+      "byline": "By John Yoon",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:25:35-04:00",
+      "created_date": "2024-09-18T04:21:55-04:00",
+      "published_date": "2024-09-18T04:21:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Bankruptcies",
+        "Kitchens",
+        "E-Commerce"
+      ],
+      "org_facet": [
+        "Tupperware Brands Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States",
+        "Delaware"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18xp-tupperware-cfqv/18xp-tupperware-cfqv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tupperware products, introduced in the 1940s, became synonymous with airtight, plastic food containers.",
+          "copyright": "Scott Olson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18xp-tupperware-cfqv/18xp-tupperware-cfqv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tupperware products, introduced in the 1940s, became synonymous with airtight, plastic food containers.",
+          "copyright": "Scott Olson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18xp-tupperware-cfqv/18xp-tupperware-cfqv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tupperware products, introduced in the 1940s, became synonymous with airtight, plastic food containers.",
+          "copyright": "Scott Olson/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Phaedra Parks’s Diamond Bracelet",
+      "abstract": "Currently in “Dancing With the Stars,” the reality television star wears an extravagant Mother’s Day gift — one she proudly helped pay for.",
+      "url": "https://www.nytimes.com/2024/09/17/style/phaedra-parkss-diamond-bracelet.html",
+      "uri": "nyt://article/ce9683ac-7f49-55af-b3e9-3e7f204f9384",
+      "byline": "By Amelia Diamond",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T09:57:35-04:00",
+      "created_date": "2024-09-17T05:03:03-04:00",
+      "published_date": "2024-09-17T05:03:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jewels and Jewelry",
+        "Mother's Day",
+        "Diamonds",
+        "Gifts"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16POM-PHAEDRAPARKS-03-btzc/16POM-PHAEDRAPARKS-03-btzc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I think it’s a 20-carat diamond bracelet, and my sons picked it out for me,” said Phaedra Parks. “They know I love diamonds. Well, I actually had to buy it.”",
+          "copyright": "Diwang Valdez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16POM-PHAEDRAPARKS-03-btzc/16POM-PHAEDRAPARKS-03-btzc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I think it’s a 20-carat diamond bracelet, and my sons picked it out for me,” said Phaedra Parks. “They know I love diamonds. Well, I actually had to buy it.”",
+          "copyright": "Diwang Valdez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16POM-PHAEDRAPARKS-03-btzc/16POM-PHAEDRAPARKS-03-btzc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I think it’s a 20-carat diamond bracelet, and my sons picked it out for me,” said Phaedra Parks. “They know I love diamonds. Well, I actually had to buy it.”",
+          "copyright": "Diwang Valdez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}

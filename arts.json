@@ -1,0 +1,2374 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2024-09-17T15:04:33-04:00",
+  "num_results": 39,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "New York Philharmonic Opens Its Season Amid Labor Talks and Troubles",
+      "abstract": "The orchestra is working to negotiate a new contract with musicians, resolve a misconduct inquiry and hire a new chief executive.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/music/new-york-philharmonic-labor-troubles.html",
+      "uri": "nyt://article/b52c08ab-6342-5735-b101-f4f7fa1a9fd5",
+      "byline": "By Javier C. Hernández",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T11:58:17-04:00",
+      "created_date": "2024-09-17T11:00:14-04:00",
+      "published_date": "2024-09-17T11:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Ethics and Official Misconduct",
+        "Appointments and Executive Changes",
+        "Wages and Salaries",
+        "Sexual Harassment"
+      ],
+      "org_facet": [
+        "American Federation of Musicians",
+        "New York Philharmonic"
+      ],
+      "per_facet": [
+        "Borda, Deborah",
+        "Dudamel, Gustavo",
+        "Ginstling, Gary"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17NYPHIL-mchz/17NYPHIL-mchz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As it approaches the official opening of its new season at David Geffen Hall, the New York Philharmonic is facing labor and other issues.",
+          "copyright": "Scott Heins for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17NYPHIL-mchz/17NYPHIL-mchz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As it approaches the official opening of its new season at David Geffen Hall, the New York Philharmonic is facing labor and other issues.",
+          "copyright": "Scott Heins for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17NYPHIL-mchz/17NYPHIL-mchz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As it approaches the official opening of its new season at David Geffen Hall, the New York Philharmonic is facing labor and other issues.",
+          "copyright": "Scott Heins for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "In ‘High Potential,’ Kaitlin Olson Gets Smart",
+      "abstract": "The longtime star of “It’s Always Sunny in Philadelphia” is a brilliant crime-solving maid in this new ABC procedural.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/television/high-potential-kaitlin-olson.html",
+      "uri": "nyt://article/37af5256-4d93-52ae-bc39-9501db2e5f48",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T13:01:58-04:00",
+      "created_date": "2024-09-17T05:04:05-04:00",
+      "published_date": "2024-09-17T05:04:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "It's Always Sunny in Philadelphia (TV Program)",
+        "High Potential (TV Program)",
+        "Content Type: Personal Profile",
+        "Actors and Actresses"
+      ],
+      "org_facet": [
+        "ABC Inc"
+      ],
+      "per_facet": [
+        "Olson, Kaitlin (1975- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17olson-02-lkvw/17olson-02-lkvw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1695,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kaitlin Olson has thrived in ensembles on “It’s Always Sunny in Philadelphia” and “Hacks.” Now she’s the lead of a new ABC series.",
+          "copyright": "Elizabeth Weinberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17olson-02-lkvw/17olson-02-lkvw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kaitlin Olson has thrived in ensembles on “It’s Always Sunny in Philadelphia” and “Hacks.” Now she’s the lead of a new ABC series.",
+          "copyright": "Elizabeth Weinberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17olson-02-lkvw/17olson-02-lkvw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kaitlin Olson has thrived in ensembles on “It’s Always Sunny in Philadelphia” and “Hacks.” Now she’s the lead of a new ABC series.",
+          "copyright": "Elizabeth Weinberg for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "A Wide-Open Oscar Season Begins to Narrow",
+      "abstract": "After film festivals in Venice, Telluride and Toronto, a slate of contenders has emerged. Still, there are few front-runners.",
+      "url": "https://www.nytimes.com/2024/09/17/movies/oscar-contenders-anora-emilia-perez-conclave.html",
+      "uri": "nyt://article/a38f2911-e504-5953-9f77-8a525a183168",
+      "byline": "By Kyle Buchanan",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:55:56-04:00",
+      "created_date": "2024-09-17T05:03:36-04:00",
+      "published_date": "2024-09-17T05:03:36-04:00",
+      "material_type_facet": "",
+      "kicker": "The Projectionist",
+      "des_facet": [
+        "Academy Awards (Oscars)",
+        "Movies",
+        "Anora (Movie)",
+        "Babygirl (Movie)",
+        "Conclave (Movie)",
+        "Emilia Perez (Movie)",
+        "Hard Truths (Movie)",
+        "Joker: Folie a Deux (Movie)",
+        "Maria (Movie)",
+        "Nickel Boys (Movie)",
+        "Nightbitch (Movie)",
+        "Queer (Movie)",
+        "The Brutalist (Movie)",
+        "The Life of Chuck (Movie)",
+        "The Piano Lesson (Movie)",
+        "The Room Next Door (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Adams, Amy",
+        "Brody, Adrien",
+        "Craig, Daniel",
+        "Deadwyler, Danielle",
+        "Jolie, Angelina",
+        "Kidman, Nicole",
+        "Moore, Julianne",
+        "Swinton, Tilda"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17festival-roundup-bqwt/17festival-roundup-bqwt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 965,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes as a cardinal overseeing the election of a new pope in “Conclave.”",
+          "copyright": "Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17festival-roundup-bqwt/17festival-roundup-bqwt-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 401,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes as a cardinal overseeing the election of a new pope in “Conclave.”",
+          "copyright": "Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17festival-roundup-bqwt/17festival-roundup-bqwt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes as a cardinal overseeing the election of a new pope in “Conclave.”",
+          "copyright": "Focus Features"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Nusrat Fateh Ali Khan’s Voice Stunned the World (and Will Again)",
+      "abstract": "“Chain of Light,” an album of four qawwalis the Pakistani singer recorded in 1990, are arriving after being discovered in the vaults of Peter Gabriel’s label.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/music/nusrat-fateh-ali-khan-chain-of-light-peter-gabriel.html",
+      "uri": "nyt://article/847bbea9-28a4-5474-b0a5-e4b46e7f954c",
+      "byline": "By Adwait Patil",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:57:31-04:00",
+      "created_date": "2024-09-17T05:01:28-04:00",
+      "published_date": "2024-09-17T05:01:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Music",
+        "Chain of Light (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gabriel, Peter",
+        "Fateh Ali Khan, Nusrat"
+      ],
+      "geo_facet": [
+        "Pakistan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17khan-hvjm/17khan-hvjm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nusrat Fateh Ali Khan, who died in 1997 at age 48, brought the magic of qawwalis — songs based on the devotional poetry of Sufism — to the world.",
+          "copyright": "Guido Harari"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17khan-hvjm/17khan-hvjm-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nusrat Fateh Ali Khan, who died in 1997 at age 48, brought the magic of qawwalis — songs based on the devotional poetry of Sufism — to the world.",
+          "copyright": "Guido Harari"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17khan-hvjm/17khan-hvjm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nusrat Fateh Ali Khan, who died in 1997 at age 48, brought the magic of qawwalis — songs based on the devotional poetry of Sufism — to the world.",
+          "copyright": "Guido Harari"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "‘A Face in the Crowd’ Isn’t About Trump. It Just Seems Like It.",
+      "abstract": "Elvis Costello and Sarah Ruhl’s musical adaptation of the 1957 film, a satire about a hustler turned power-hungry TV personality, hits the London stage.",
+      "url": "https://www.nytimes.com/2024/09/17/theater/a-face-in-the-crowd-elvis-costello.html",
+      "uri": "nyt://article/b1a594a3-ea32-5548-9dee-18f248ce1152",
+      "byline": "By Rob Weinert-Kendt",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T13:20:15-04:00",
+      "created_date": "2024-09-17T05:02:55-04:00",
+      "published_date": "2024-09-17T05:02:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "A Face in the Crowd (Play)"
+      ],
+      "org_facet": [
+        "Young Vic Theater Company"
+      ],
+      "per_facet": [
+        "Costello, Elvis",
+        "Ruhl, Sarah",
+        "Karimloo, Ramin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22FACE-IN-CROWD-02-bvcm/22FACE-IN-CROWD-02-bvcm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actors Ramin Karimloo, left, and Anoushka Lucas during rehearsals for “A Face in the Crowd,” a new musical opening Sept. 20 at the Young Vic in London.",
+          "copyright": "Ellie Kurtz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22FACE-IN-CROWD-02-bvcm/22FACE-IN-CROWD-02-bvcm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actors Ramin Karimloo, left, and Anoushka Lucas during rehearsals for “A Face in the Crowd,” a new musical opening Sept. 20 at the Young Vic in London.",
+          "copyright": "Ellie Kurtz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22FACE-IN-CROWD-02-bvcm/22FACE-IN-CROWD-02-bvcm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actors Ramin Karimloo, left, and Anoushka Lucas during rehearsals for “A Face in the Crowd,” a new musical opening Sept. 20 at the Young Vic in London.",
+          "copyright": "Ellie Kurtz"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "A (Very) Belated Donizetti Premiere in South Africa",
+      "abstract": "The 1838 score for “Dalinda,” which uses chunks of “Lucrezia Borgia,” was found in Naples in 2019. A student company in Cape Town just gave the first staged performance.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/donizetti-dalinda-south-africa.html",
+      "uri": "nyt://article/51961451-2371-5739-adef-5ce30ff886ce",
+      "byline": "By Roslyn Sulcas",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T13:17:12-04:00",
+      "created_date": "2024-09-17T05:02:30-04:00",
+      "published_date": "2024-09-17T05:02:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Dalinda (Opera)",
+        "Lucrezia Borgia (Opera)"
+      ],
+      "org_facet": [
+        "University of Cape Town"
+      ],
+      "per_facet": [
+        "Donizetti, Gaetano"
+      ],
+      "geo_facet": [
+        "Cape Town (South Africa)",
+        "Naples (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22DONIZETTI-DALINDA-correctcast-01-pqlt/22DONIZETTI-DALINDA-correctcast-01-pqlt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Molly Dzangare and Luvo Maranti in the world premiere staging of Donizetti’s “Dalinda.” Dzangare sang the title role and Maranti played her son, Ildemaro.",
+          "copyright": "Lerato Maduna"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22DONIZETTI-DALINDA-correctcast-01-pqlt/22DONIZETTI-DALINDA-correctcast-01-pqlt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Molly Dzangare and Luvo Maranti in the world premiere staging of Donizetti’s “Dalinda.” Dzangare sang the title role and Maranti played her son, Ildemaro.",
+          "copyright": "Lerato Maduna"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22DONIZETTI-DALINDA-correctcast-01-pqlt/22DONIZETTI-DALINDA-correctcast-01-pqlt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Molly Dzangare and Luvo Maranti in the world premiere staging of Donizetti’s “Dalinda.” Dzangare sang the title role and Maranti played her son, Ildemaro.",
+          "copyright": "Lerato Maduna"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "‘American Crime Story’ Turns to Sports With Aaron Hernandez Saga",
+      "abstract": "The buzzy FX series delves into the N.F.L. star who murdered a friend less than a year after playing in the Super Bowl.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/television/aaron-hernandez-american-sports-story.html",
+      "uri": "nyt://article/234c4ccf-b2f6-54fc-85ec-e116a6538451",
+      "byline": "By Emmanuel Morgan",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T13:04:41-04:00",
+      "created_date": "2024-09-17T11:00:15-04:00",
+      "published_date": "2024-09-17T11:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Football",
+        "Television",
+        "Murders, Attempted Murders and Homicides",
+        "Gladiator: Aaron Hernandez and Football Inc (Radio Program)",
+        "American Sports Story: Aaron Hernandez (TV Program)"
+      ],
+      "org_facet": [
+        "National Football League",
+        "FX (TV Network)"
+      ],
+      "per_facet": [
+        "Hernandez, Aaron (1989- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17hernandez-tv-02-kqgt/17hernandez-tv-02-kqgt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1583,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aaron Hernandez has been the subject of multiple books, true crime podcasts and documentaries. But now his story is getting the Ryan Murphy treatment.",
+          "copyright": "Pool photo by Steven Senne"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17hernandez-tv-02-kqgt/17hernandez-tv-02-kqgt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aaron Hernandez has been the subject of multiple books, true crime podcasts and documentaries. But now his story is getting the Ryan Murphy treatment.",
+          "copyright": "Pool photo by Steven Senne"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17hernandez-tv-02-kqgt/17hernandez-tv-02-kqgt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aaron Hernandez has been the subject of multiple books, true crime podcasts and documentaries. But now his story is getting the Ryan Murphy treatment.",
+          "copyright": "Pool photo by Steven Senne"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Bad Bunny and Karol G Are Most Nominated Artists for Latin Grammys",
+      "abstract": "These streaming titans earned eight nods apiece for the 25th annual awards, although the Mexican American songwriter and producer Edgar Barrera received the most nominations overall, with nine.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/music/latin-grammy-nominations-2024.html",
+      "uri": "nyt://article/e03b31f3-2a73-5b96-9164-f1be7aa16a87",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T00:00:38-04:00",
+      "created_date": "2024-09-17T09:30:07-04:00",
+      "published_date": "2024-09-17T09:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Latin Music",
+        "Latin Grammy Awards"
+      ],
+      "org_facet": [
+        "Latin Academy of Recording Arts and Sciences"
+      ],
+      "per_facet": [
+        "Bad Bunny (Singer)",
+        "Barrera, Edgar (1990- )",
+        "Karol G (Singer)",
+        "Kali Uchis (Singer)",
+        "Garcia, Kany (1982- )",
+        "Guerra, Juan Luis",
+        "Leon, Carin (1989- )",
+        "Feid (1992- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17latin-grammy-noms-1-mbtg/17latin-grammy-noms-1-mbtg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1502,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Monaco” by Bad Bunny, left, and “Mi Ex Tenía Razón” by Karol G are among the nominees for record of the year at the Latin Grammys.",
+          "copyright": "Enid M Salgado Mercado/EPA, via Shutterstock and Nina Westervelt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17latin-grammy-noms-1-mbtg/17latin-grammy-noms-1-mbtg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Monaco” by Bad Bunny, left, and “Mi Ex Tenía Razón” by Karol G are among the nominees for record of the year at the Latin Grammys.",
+          "copyright": "Enid M Salgado Mercado/EPA, via Shutterstock and Nina Westervelt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17latin-grammy-noms-1-mbtg/17latin-grammy-noms-1-mbtg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Monaco” by Bad Bunny, left, and “Mi Ex Tenía Razón” by Karol G are among the nominees for record of the year at the Latin Grammys.",
+          "copyright": "Enid M Salgado Mercado/EPA, via Shutterstock and Nina Westervelt for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "How a Video Game Shows the Imaginative Potential of Picture Books",
+      "abstract": "In the Plucky Squire, a young hero fights a villainous wizard to become “the master of his storybook,” says Jamie Turner, the co-director of the game.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/the-plucky-squire-book-game.html",
+      "uri": "nyt://article/e687b142-b764-5e20-829c-94240f522d53",
+      "byline": "By Sam Machkovech",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:59:47-04:00",
+      "created_date": "2024-09-17T12:01:14-04:00",
+      "published_date": "2024-09-17T12:01:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer and Video Games",
+        "The Plucky Squire (Video Game)",
+        "Books and Literature",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Blackall, Sophie",
+        "Jamie Turner",
+        "Jonathan Biddle"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17plucky-squire1-bkfh/17plucky-squire1-bkfh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Plucky Squire exploits its book-within-a-game conceit to joyous extremes. ",
+          "copyright": "All Possible Futures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17plucky-squire1-bkfh/17plucky-squire1-bkfh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Plucky Squire exploits its book-within-a-game conceit to joyous extremes. ",
+          "copyright": "All Possible Futures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/17plucky-squire1-bkfh/17plucky-squire1-bkfh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Plucky Squire exploits its book-within-a-game conceit to joyous extremes. ",
+          "copyright": "All Possible Futures"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "After ‘a Treasure Hunt,’ a Cut-Up Masterpiece Returns to Venice",
+      "abstract": "More than 200 years after a ceiling painted by the Tuscan artist Vasari was dismembered and sold on the antiquarian market, it is (almost) whole again.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/design/vasari-ceiling-gallerie-dell-accademica.html",
+      "uri": "nyt://article/3c6f28f2-babe-5b93-9485-bf00b68cb715",
+      "byline": "By Elisabetta Povoledo",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T08:45:54-04:00",
+      "created_date": "2024-09-17T08:45:54-04:00",
+      "published_date": "2024-09-17T08:45:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Art"
+      ],
+      "org_facet": [
+        "Galleria dell'Accademia (Venice, Italy)"
+      ],
+      "per_facet": [
+        "Vasari, Giorgio"
+      ],
+      "geo_facet": [
+        "Venice (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17venice-vasari/17venice-vasari-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1364,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The reconstruction of Giorgio Vasari’s ceiling panels, at the Gallerie dell’Accademia in Venice.",
+          "copyright": "Roberto Serra/Iguana Press, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17venice-vasari/17venice-vasari-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The reconstruction of Giorgio Vasari’s ceiling panels, at the Gallerie dell’Accademia in Venice.",
+          "copyright": "Roberto Serra/Iguana Press, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17venice-vasari/17venice-vasari-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The reconstruction of Giorgio Vasari’s ceiling panels, at the Gallerie dell’Accademia in Venice.",
+          "copyright": "Roberto Serra/Iguana Press, via Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Common Ground, and Conflict, Between 2 Stars of Land Art",
+      "abstract": "A retrospective pairing Teresita Fernández and Robert Smithson shows they share sympathetic, deep engagement with geology and civilization.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/design/fernandez-smithson-site-santa-fe.html",
+      "uri": "nyt://article/486a6064-c6fa-5a28-8af8-4c814e5139c8",
+      "byline": "By Travis Diehl",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T05:01:31-04:00",
+      "created_date": "2024-09-17T05:01:31-04:00",
+      "published_date": "2024-09-17T05:01:31-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s Notebook",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [
+        "SITE Santa Fe"
+      ],
+      "per_facet": [
+        "Fernandez, Teresita",
+        "Smithson, Robert"
+      ],
+      "geo_facet": [
+        "Santa Fe (NM)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12fernandez-smithson-notebook-01-blhv/12fernandez-smithson-notebook-01-blhv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Smithson and Teresita Fernández share billing at Site Santa Fe, a survey in New Mexico. From left, Smithson’s “A Nonsite (Franklin, New Jersey),” 1968; Fernández, “Viñales (Plateau),” 2019; Fernández, “Viñales (Reclining Nude),” 2015; and Smithson, “Road to Crater,” 1969.",
+          "copyright": "Zach Chambers"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12fernandez-smithson-notebook-01-blhv/12fernandez-smithson-notebook-01-blhv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Smithson and Teresita Fernández share billing at Site Santa Fe, a survey in New Mexico. From left, Smithson’s “A Nonsite (Franklin, New Jersey),” 1968; Fernández, “Viñales (Plateau),” 2019; Fernández, “Viñales (Reclining Nude),” 2015; and Smithson, “Road to Crater,” 1969.",
+          "copyright": "Zach Chambers"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/12fernandez-smithson-notebook-01-blhv/12fernandez-smithson-notebook-01-blhv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Smithson and Teresita Fernández share billing at Site Santa Fe, a survey in New Mexico. From left, Smithson’s “A Nonsite (Franklin, New Jersey),” 1968; Fernández, “Viñales (Plateau),” 2019; Fernández, “Viñales (Reclining Nude),” 2015; and Smithson, “Road to Crater,” 1969.",
+          "copyright": "Zach Chambers"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "‘Sirocco and the Kingdom of Winds’ Review: Flights of Fantasy",
+      "abstract": "Two sisters get transported to a new world and transformed into cats in this whimsical and thoughtful animated feature.",
+      "url": "https://www.nytimes.com/2024/09/17/movies/sirocco-and-the-kingdom-of-winds-review.html",
+      "uri": "nyt://article/556780e3-7580-52a1-84fe-78495a3d9b9d",
+      "byline": "By Maya Phillips",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T12:16:23-04:00",
+      "created_date": "2024-09-17T11:14:44-04:00",
+      "published_date": "2024-09-17T11:14:44-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s Pick",
+      "des_facet": [
+        "Animated Films",
+        "Sirocco and the Kingdom of the Winds (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chieux, Benoit"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/sirocco1-lgcv/sirocco1-lgcv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1154,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from “Sirocco and the Kingdom of the Winds.”",
+          "copyright": "Gkids"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/sirocco1-lgcv/sirocco1-lgcv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from “Sirocco and the Kingdom of the Winds.”",
+          "copyright": "Gkids"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/sirocco1-lgcv/sirocco1-lgcv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from “Sirocco and the Kingdom of the Winds.”",
+          "copyright": "Gkids"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Best and Worst Moments From the 2024 Emmys",
+      "abstract": "It was a good night for diversity and kilts, but one also marked by shameless ads and … humidity? (Why was everyone so shiny?)",
+      "url": "https://www.nytimes.com/2024/09/16/arts/television/emmys-best-worst-moments.html",
+      "uri": "nyt://article/bf6280bf-f2cd-5608-bfd5-3dd0270db08d",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T00:06:18-04:00",
+      "created_date": "2024-09-16T05:02:59-04:00",
+      "published_date": "2024-09-16T05:02:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Emmy Awards"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/16emmys-best-worst-lfwk/16emmys-best-worst-lfwk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Emmy for shameless product placement goes to Ebon Moss-Bachrach, left, and Taylor Zakhar Perez, for an awkward scotch promotion.",
+          "copyright": "Dan Steinberg/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/16emmys-best-worst-lfwk/16emmys-best-worst-lfwk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Emmy for shameless product placement goes to Ebon Moss-Bachrach, left, and Taylor Zakhar Perez, for an awkward scotch promotion.",
+          "copyright": "Dan Steinberg/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/16emmys-best-worst-lfwk/16emmys-best-worst-lfwk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Emmy for shameless product placement goes to Ebon Moss-Bachrach, left, and Taylor Zakhar Perez, for an awkward scotch promotion.",
+          "copyright": "Dan Steinberg/Invision, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Is the Comedy-Club Booking Process Broken?",
+      "abstract": "The owners of a new spot say hiring comics based on referrals from other stand-ups is no guarantee the acts will be funny. Others say it’s all more nuanced.",
+      "url": "https://www.nytimes.com/2024/09/18/arts/television/comedy-club-booking.html",
+      "uri": "nyt://article/c7023013-85da-5097-9d20-ae518412992a",
+      "byline": "By Jason Zinoman",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:05:36-04:00",
+      "created_date": "2024-09-18T05:05:36-04:00",
+      "published_date": "2024-09-18T05:05:36-04:00",
+      "material_type_facet": "",
+      "kicker": "On Comedy",
+      "des_facet": [
+        "Comedy and Humor"
+      ],
+      "org_facet": [
+        "Comedy Cellar",
+        "New York Comedy Club",
+        "West Side Comedy Club (Manhattan, NY)",
+        "Bushwick Comedy Club"
+      ],
+      "per_facet": [
+        "Dworman, Noam",
+        "Jad Sleiman",
+        "Kyle Gillis",
+        "Brooks Tawil"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18comedy-club-whbv/18comedy-club-whbv-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jad Sleiman at the club that he and his partners plan to book via tape submissions rather than referrals. ",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18comedy-club-whbv/18comedy-club-whbv-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jad Sleiman at the club that he and his partners plan to book via tape submissions rather than referrals. ",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18comedy-club-whbv/18comedy-club-whbv-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jad Sleiman at the club that he and his partners plan to book via tape submissions rather than referrals. ",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Sean Combs’s New Home: A Troubled Brooklyn Jail",
+      "abstract": "The music mogul, who is charged with sex trafficking and racketeering conspiracy, was denied bail and ordered held at a federal detention center. His lawyers are appealing.",
+      "url": "https://www.nytimes.com/2024/09/18/arts/sean-combs-jail-brooklyn-mdc.html",
+      "uri": "nyt://article/bcd14dfd-f0a2-54d0-bc0a-9f9cf7eb3305",
+      "byline": "By Julia Jacobs and Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T07:26:58-04:00",
+      "created_date": "2024-09-18T05:05:25-04:00",
+      "published_date": "2024-09-18T05:05:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Human Trafficking",
+        "Prisons and Prisoners",
+        "Racketeering and Racketeers",
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        "Federal Bureau of Prisons",
+        "Metropolitan Detention Center (Brooklyn, NY)"
+      ],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18combs-jail-building/18combs-jail-building-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jailed defendants like Sean Combs who are awaiting trial on federal charges are typically housed at the Metropolitan Detention Center in Brooklyn, which has been criticized for poor conditions. ",
+          "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "Gillian Anderson Wants to Hear Your Sexiest Fantasies",
+      "abstract": "The actor’s new book shares sexual fantasies from anonymous women around the world.",
+      "url": "https://www.nytimes.com/2024/09/18/podcasts/gillian-anderson-sexiest-fantasies.html",
+      "uri": "nyt://article/58eb2fba-0f4b-53e5-a7bf-41db7391e20b",
+      "byline": "By Anna Martin, Reva Goldberg, Emily Lang, Davis Land, Christina Djossa, Amy Pearl, Jen Poyant, Lynn Levy, Daniel Ramirez, Aman Sahota, Marion Lozano, Pat McCusker and Dan Powell",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:03:46-04:00",
+      "created_date": "2024-09-18T05:03:46-04:00",
+      "published_date": "2024-09-18T05:03:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Love (Emotion)",
+        "Dating and Relationships",
+        "Books and Literature",
+        "Actors and Actresses",
+        "Vagina",
+        "Golden Globes (Awards)",
+        "Yoga",
+        "The X-Files (TV Program)",
+        "Sex Education (TV Program)",
+        "The Crown (TV Program)",
+        "The Fall (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Anderson, Gillian"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/podcasts/18modernlove-gillian-anderson/18modernlove-gillian-anderson-superJumbo-v4.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/podcasts/18modernlove-gillian-anderson/18modernlove-gillian-anderson-threeByTwoSmallAt2X-v4.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/podcasts/18modernlove-gillian-anderson/18modernlove-gillian-anderson-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "A Cape Cod Beach Shack Where Charm Takes Priority Over Air Conditioning",
+      "abstract": "A minimalist Manhattan architect gets fresh air — and fresh eyes — at his family’s cluttered cabin.",
+      "url": "https://www.nytimes.com/2024/09/18/t-magazine/cape-cod-beach-cabin.html",
+      "uri": "nyt://article/2a066b28-b8a0-54aa-91f7-b9a8d62d1ea3",
+      "byline": "By Kurt Soller and Chris Mottalini",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:03:20-04:00",
+      "created_date": "2024-09-18T05:03:20-04:00",
+      "published_date": "2024-09-18T05:03:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Interior Design and Furnishings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Robert Finger",
+        "Adelaide Newhall"
+      ],
+      "geo_facet": [
+        "Cape Cod (Mass)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/t-magazine/18tmag-wellfleet-slide-PU8Y-copy/18tmag-wellfleet-slide-PU8Y-copy-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, a pine cube table by Finger and, beside the original fireplace with 19th-century andirons, vintage corduroy pillows from the ’70s on a CH163 sofa by Hans Wegner for Carl Hansen & Son upholstered in Lontano outdoor fabric by Élitis. The carpet is Persian.",
+          "copyright": "Chris Mottalini"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/t-magazine/18tmag-wellfleet-slide-PU8Y-copy/18tmag-wellfleet-slide-PU8Y-copy-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, a pine cube table by Finger and, beside the original fireplace with 19th-century andirons, vintage corduroy pillows from the ’70s on a CH163 sofa by Hans Wegner for Carl Hansen & Son upholstered in Lontano outdoor fabric by Élitis. The carpet is Persian.",
+          "copyright": "Chris Mottalini"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/t-magazine/18tmag-wellfleet-slide-PU8Y-copy/18tmag-wellfleet-slide-PU8Y-copy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, a pine cube table by Finger and, beside the original fireplace with 19th-century andirons, vintage corduroy pillows from the ’70s on a CH163 sofa by Hans Wegner for Carl Hansen & Son upholstered in Lontano outdoor fabric by Élitis. The carpet is Persian.",
+          "copyright": "Chris Mottalini"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Making ‘The Wild Robot’ Even Wilder",
+      "abstract": "Roz, the beloved protagonist of Peter Brown’s popular children’s book, gets a glow-up for the big-screen adaptation.",
+      "url": "https://www.nytimes.com/2024/09/18/movies/the-wild-robot-design.html",
+      "uri": "nyt://article/73d9416a-0a43-539f-8f47-e1cf4a650d4b",
+      "byline": "By Robert Ito",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:02:16-04:00",
+      "created_date": "2024-09-18T05:02:16-04:00",
+      "published_date": "2024-09-18T05:02:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Animated Films",
+        "The Wild Robot (Movie)",
+        "The Wild Robot (Book)",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sanders, Chris (Film Director)",
+        "Nyong'o, Lupita",
+        "Brown, Peter (1979- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22WILD-ROBOT-DESIGN-kgcj/22WILD-ROBOT-DESIGN-kgcj-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dreamworks Animation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22WILD-ROBOT-DESIGN-kgcj/22WILD-ROBOT-DESIGN-kgcj-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dreamworks Animation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/22/multimedia/22WILD-ROBOT-DESIGN-kgcj/22WILD-ROBOT-DESIGN-kgcj-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dreamworks Animation"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The Menendez Brothers: What to Know Ahead of the New Netflix Series",
+      "abstract": "“Monsters: The Lyle and Erik Menendez Story” chronicles the trials of two brothers who killed their parents in 1989, and their aftermath. Much has changed since then.",
+      "url": "https://www.nytimes.com/2024/09/18/arts/television/menendez-brothers-netflix-monsters.html",
+      "uri": "nyt://article/0b93b72a-76e6-51bf-abe1-2c35aa976044",
+      "byline": "By Shivani Gonzalez",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:01:37-04:00",
+      "created_date": "2024-09-18T05:01:37-04:00",
+      "published_date": "2024-09-18T05:01:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Monsters: The Lyle and Erik Menendez Story (TV Program)",
+        "Television"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Murphy, Ryan",
+        "Menendez, Jose (1944-89)",
+        "Menendez, Lyle",
+        "Menendez, Erik",
+        "Brennan, Ian"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/18menendez-explainer-courtroom-02-wtgz/17monsters-primer-courtroom-02-wtgz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1358,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lyle, left, and Erik Menendez in 1990. The brothers were portrayed by prosecutors and in many media accounts during their court trials as opportunists, impatient for their inheritance.",
+          "copyright": "Nick Ut/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/18menendez-explainer-courtroom-02-wtgz/17monsters-primer-courtroom-02-wtgz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lyle, left, and Erik Menendez in 1990. The brothers were portrayed by prosecutors and in many media accounts during their court trials as opportunists, impatient for their inheritance.",
+          "copyright": "Nick Ut/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/18menendez-explainer-courtroom-02-wtgz/17monsters-primer-courtroom-02-wtgz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lyle, left, and Erik Menendez in 1990. The brothers were portrayed by prosecutors and in many media accounts during their court trials as opportunists, impatient for their inheritance.",
+          "copyright": "Nick Ut/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "How the Mystery of Freeware Inspired the Kaleidoscopic UFO 50",
+      "abstract": "Figuring out the controls, objectives and how to win is part of the fun when players load games from a fictional 1980s company.",
+      "url": "https://www.nytimes.com/2024/09/18/arts/ufo-50-designers.html",
+      "uri": "nyt://article/4c4f0d77-3ccc-534b-ae79-eb31b1217ed1",
+      "byline": "By Brian Feldman",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T05:00:22-04:00",
+      "created_date": "2024-09-18T05:00:22-04:00",
+      "published_date": "2024-09-18T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer and Video Games",
+        "UFO 50 (Video Game)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ufo-50-01-jvwp/18ufo-50-01-jvwp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The dozens of games within UFO 50 fit into all sorts of genres, including the beat-’em-up Fist Hell.",
+          "copyright": "Mossmouth"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ufo-50-01-jvwp/18ufo-50-01-jvwp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The dozens of games within UFO 50 fit into all sorts of genres, including the beat-’em-up Fist Hell.",
+          "copyright": "Mossmouth"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18ufo-50-01-jvwp/18ufo-50-01-jvwp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The dozens of games within UFO 50 fit into all sorts of genres, including the beat-’em-up Fist Hell.",
+          "copyright": "Mossmouth"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "A $336 Million Plan to Build Housing, Retail and an Arts Hub in Newark",
+      "abstract": "NJPAC in Newark is building apartments, retail space and a huge community center. It sees the project as key to its mission — and its future.",
+      "url": "https://www.nytimes.com/2024/09/18/nyregion/performing-arts-real-estate-nj.html",
+      "uri": "nyt://article/5ff760bd-96f4-5a33-8c43-11d3c96a2fb4",
+      "byline": "By Tracey Tully",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:00:15-04:00",
+      "created_date": "2024-09-18T03:00:15-04:00",
+      "published_date": "2024-09-18T03:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Real Estate (Commercial)",
+        "Real Estate and Housing (Residential)",
+        "Shopping and Retail",
+        "Affordable Housing",
+        "Area Planning and Renewal",
+        "Tax Credits, Deductions and Exemptions",
+        "Culture (Arts)"
+      ],
+      "org_facet": [
+        "New Jersey Performing Arts Center"
+      ],
+      "per_facet": [
+        "Baraka, Ras"
+      ],
+      "geo_facet": [
+        "Newark (NJ)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nj-arts-01-pgbl/18nj-arts-01-pgbl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Schreiber is the president of the New Jersey Performing Arts Center in Newark. ",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nj-arts-01-pgbl/18nj-arts-01-pgbl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Schreiber is the president of the New Jersey Performing Arts Center in Newark. ",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18nj-arts-01-pgbl/18nj-arts-01-pgbl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Schreiber is the president of the New Jersey Performing Arts Center in Newark. ",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Late Night Calls Out Violence Against Trump",
+      "abstract": "“Not only is it morally wrong, but you’re also just giving him more things to brag about,” Ronny Chieng said on Tuesday’s “Daily Show.”",
+      "url": "https://www.nytimes.com/2024/09/18/arts/television/late-night-trump.html",
+      "uri": "nyt://article/57db1c5b-6911-54d0-80a4-91675161a2a5",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T03:01:36-04:00",
+      "created_date": "2024-09-18T01:43:36-04:00",
+      "published_date": "2024-09-18T01:43:36-04:00",
+      "material_type_facet": "",
+      "kicker": "Best of Late Night",
+      "des_facet": [
+        "Television",
+        "Jimmy Kimmel Live (TV Program)",
+        "The Tonight Show (TV Program)",
+        "Late Show with Stephen Colbert (TV Program)",
+        "The Daily Show with Trevor Noah (TV Program)",
+        "Late Night with Seth Meyers (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kimmel, Jimmy",
+        "Fallon, Jimmy",
+        "Colbert, Stephen",
+        "Meyers, Seth"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 972,
+          "width": 1735,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/arts/18latenight/18latenight-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This guy managed to walk into Trump’s golf course and stay there undetected for 12 hours,” Ronny Chieng said Tuesday, adding “Maybe you should consider building, like, a wall?” ",
+          "copyright": "Comedy Central"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Derek Boshier, British Pop Artist and Bowie Collaborator, Dies at 87",
+      "abstract": "Starting in the early 1960s, he set himself apart from his contemporaries with paintings that critiqued the cultural dominance of the United States.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/derek-boshier-dead.html",
+      "uri": "nyt://article/de210375-19a6-5337-a834-916b5486477d",
+      "byline": "By Alex Williams",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T17:48:41-04:00",
+      "created_date": "2024-09-17T17:48:41-04:00",
+      "published_date": "2024-09-17T17:48:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Art"
+      ],
+      "org_facet": [
+        "Clash, The"
+      ],
+      "per_facet": [
+        "Boshier, Derek",
+        "Bowie, David"
+      ],
+      "geo_facet": [
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17Boshier-tgqc/17Boshier-tgqc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Boshier in 2021. In the 1960s, he was at the vanguard of the Pop Art movement in Britain.",
+          "copyright": "Dhiren Dasu"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17Boshier-tgqc/17Boshier-tgqc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Boshier in 2021. In the 1960s, he was at the vanguard of the Pop Art movement in Britain.",
+          "copyright": "Dhiren Dasu"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17Boshier-tgqc/17Boshier-tgqc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Boshier in 2021. In the 1960s, he was at the vanguard of the Pop Art movement in Britain.",
+          "copyright": "Dhiren Dasu"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "7 New Songs You Should Hear Now",
+      "abstract": "Listen to tracks from FKA twigs, Soccer Mommy, Mustafa and more.",
+      "url": "https://www.nytimes.com/2024/09/17/arts/music/amplifier-newsletter-fka-twigs-soccer-mommy.html",
+      "uri": "nyt://article/2f9dd834-08c4-5a80-82b7-8f302d0d14c9",
+      "byline": "By Lindsay Zoladz",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T14:00:04-04:00",
+      "created_date": "2024-09-17T14:00:04-04:00",
+      "published_date": "2024-09-17T14:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Allison, Sophie (Soccer Mommy)",
+        "FKA twigs",
+        "Mustafa (1996- )",
+        "Price, Margo",
+        "Queen Naija (Singer)",
+        "Shelley, Joan",
+        "Strings, Billy (1992- )",
+        "Paris Paloma"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17amplifier1-mbqf/17amplifier1-mbqf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "FKA twigs",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17amplifier1-mbqf/17amplifier1-mbqf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "FKA twigs",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17amplifier1-mbqf/17amplifier1-mbqf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "FKA twigs",
+          "copyright": "Andrew Kelly/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Read the Indictment in the Sex Trafficking Case Against Sean Combs",
+      "abstract": "Federal prosecutors issued an indictment against Sean Combs that accused the music mogul known as Diddy and Puff Daddy of running a criminal enterprise that included sex trafficking, forced labor and coercion and enticement to engage in prostitution.",
+      "url": "https://www.nytimes.com/interactive/2024/09/17/arts/music/sean-combs-diddy-indictment.html",
+      "uri": "nyt://interactive/a0344c08-b01b-582e-8f7d-a1c4dee60421",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2024-09-17T12:43:55-04:00",
+      "created_date": "2024-09-17T12:43:55-04:00",
+      "published_date": "2024-09-17T12:43:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Human Trafficking",
+        "Sex Crimes",
+        "Prostitution",
+        "Bribery and Kickbacks",
+        "Racketeering and Racketeers",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/doc-5706d37d-49b7-4e05-a9dc-3-promo/doc-5706d37d-49b7-4e05-a9dc-3-promo-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1584,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/doc-5706d37d-49b7-4e05-a9dc-3-promo/doc-5706d37d-49b7-4e05-a9dc-3-promo-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/doc-5706d37d-49b7-4e05-a9dc-3-promo/doc-5706d37d-49b7-4e05-a9dc-3-promo-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Junk Food, High Art",
+      "abstract": "Noah Verrier’s oil painting of an Uncrustables sandwich sold for $4,999. It looks delicious.",
+      "url": "https://www.nytimes.com/2024/09/17/style/uncrustables-painting-noah-verrier.html",
+      "uri": "nyt://article/41a6857d-6fc7-5be6-b3db-8c9a74b8ea87",
+      "byline": "By Callie Holtermann",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T16:30:12-04:00",
+      "created_date": "2024-09-17T11:30:24-04:00",
+      "published_date": "2024-09-17T11:30:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Fast Food Industry",
+        "Content Type: Personal Profile",
+        "Social Media"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Verrier, Noah"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspiration struck for Noah Verrier in the form of an Uncrustables sandwich. His painting sold on eBay for $4,999.",
+          "copyright": "Noah Verrier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspiration struck for Noah Verrier in the form of an Uncrustables sandwich. His painting sold on eBay for $4,999.",
+          "copyright": "Noah Verrier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz/17UNCRUSTABLES-OIL-PAINTINGS-01-mwvz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Inspiration struck for Noah Verrier in the form of an Uncrustables sandwich. His painting sold on eBay for $4,999.",
+          "copyright": "Noah Verrier"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "A Derelict Townhouse Becomes a D.I.Y. Wonderland",
+      "abstract": "How a collective of artists turned a crumbling Brussels building into their own creative playground.",
+      "url": "https://www.nytimes.com/2024/09/17/t-magazine/espace-aygo-house.html",
+      "uri": "nyt://article/1e40ff20-3a4b-58e9-9719-ebd96162a35f",
+      "byline": "By Ellie Pithers and Philippe Braquenier",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T11:57:40-04:00",
+      "created_date": "2024-09-17T05:02:19-04:00",
+      "published_date": "2024-09-17T05:02:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fires and Firefighters",
+        "Interior Design and Furnishings",
+        "Restoration and Renovation"
+      ],
+      "org_facet": [
+        "Espace Aygo (Artist Collective)"
+      ],
+      "per_facet": [
+        "Sperling, Salome",
+        "le Bleu, Jaime",
+        "Mangindaan, Ale",
+        "Murken, Line",
+        "Vellekoop, Sijmen"
+      ],
+      "geo_facet": [
+        "Brussels (Belgium)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-espace-aygo-copy/16tmag-espace-aygo-copy-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mimesis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-espace-aygo-copy/16tmag-espace-aygo-copy-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mimesis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-espace-aygo-copy/16tmag-espace-aygo-copy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mimesis"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "Design Doesn’t Have to Be Polite",
+      "abstract": "Sometimes homes are best when you can see the rough edges.",
+      "url": "https://www.nytimes.com/2024/09/17/t-magazine/design-hand-made-house.html",
+      "uri": "nyt://article/e8c8ac11-26e3-551c-992f-105bb2f1ee97",
+      "byline": "By Hanya Yanagihara",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T17:44:27-04:00",
+      "created_date": "2024-09-17T05:01:43-04:00",
+      "published_date": "2024-09-17T05:01:43-04:00",
+      "material_type_facet": "",
+      "kicker": "Letter from the Editor",
+      "des_facet": [
+        "Interior Design and Furnishings"
+      ],
+      "org_facet": [
+        "Espace Aygo"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-aygo-slide-BQDF-copy/16tmag-aygo-slide-BQDF-copy-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sperling and le Bleu designed and built virtually everything in the room they share, including a bed wrapped in strips of stainless steel; a hand-cut mattress with patchwork bedsheets; a pair of hemp fiber, oak and textile bedside lamps; and 12 paintings mounted to the ceiling.",
+          "copyright": "Philippe Braquenier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-aygo-slide-BQDF-copy/16tmag-aygo-slide-BQDF-copy-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sperling and le Bleu designed and built virtually everything in the room they share, including a bed wrapped in strips of stainless steel; a hand-cut mattress with patchwork bedsheets; a pair of hemp fiber, oak and textile bedside lamps; and 12 paintings mounted to the ceiling.",
+          "copyright": "Philippe Braquenier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/t-magazine/16tmag-aygo-slide-BQDF-copy/16tmag-aygo-slide-BQDF-copy-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sperling and le Bleu designed and built virtually everything in the room they share, including a bed wrapped in strips of stainless steel; a hand-cut mattress with patchwork bedsheets; a pair of hemp fiber, oak and textile bedside lamps; and 12 paintings mounted to the ceiling.",
+          "copyright": "Philippe Braquenier"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Kimmel Takes Stock of Trump’s Rhetoric After Suspect’s Arrest",
+      "abstract": "Jimmy Kimmel said the former president, who blamed Democrats for “highly inflammatory language,” was himself “not a calming influence.”",
+      "url": "https://www.nytimes.com/2024/09/17/arts/television/jimmy-kimmel-trump.html",
+      "uri": "nyt://article/8230bb78-ca03-5a3b-8220-08ba0df56ae1",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T01:34:16-04:00",
+      "created_date": "2024-09-17T01:34:16-04:00",
+      "published_date": "2024-09-17T01:34:16-04:00",
+      "material_type_facet": "",
+      "kicker": "Best of Late Night",
+      "des_facet": [
+        "Television",
+        "Jimmy Kimmel Live (TV Program)",
+        "The Tonight Show (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kimmel, Jimmy",
+        "Fallon, Jimmy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17latenight/17latenight-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1074,
+          "width": 1818,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Trump, of course, is blaming Kamala Harris and President Biden for this,” Jimmy Kimmel said, after a man with a gun was found near the former president as he golfed Sunday.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17latenight/17latenight-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Trump, of course, is blaming Kamala Harris and President Biden for this,” Jimmy Kimmel said, after a man with a gun was found near the former president as he golfed Sunday.",
+          "copyright": "ABC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/17latenight/17latenight-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Trump, of course, is blaming Kamala Harris and President Biden for this,” Jimmy Kimmel said, after a man with a gun was found near the former president as he golfed Sunday.",
+          "copyright": "ABC"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Sean Combs Arrested in Manhattan After Grand Jury Indictment",
+      "abstract": "The music mogul has been under mounting scrutiny since a 2023 lawsuit by his former girlfriend, Cassie, accused him of sex trafficking and years of abuse. Mr. Combs’s representatives called him an “innocent man.”",
+      "url": "https://www.nytimes.com/2024/09/16/arts/music/sean-combs-diddy-indicted.html",
+      "uri": "nyt://article/cc725f64-fa8f-5832-8e23-46bafb74c9ae",
+      "byline": "By Ben Sisario and Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T18:23:42-04:00",
+      "created_date": "2024-09-16T21:45:06-04:00",
+      "published_date": "2024-09-16T21:45:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sex Crimes",
+        "Human Trafficking",
+        "Rap and Hip-Hop",
+        "Rhythm and Blues (Music)",
+        "#MeToo Movement"
+      ],
+      "org_facet": [
+        "Bad Boy Entertainment"
+      ],
+      "per_facet": [
+        "Combs, Sean"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1706,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs helped bring hip-hop to the masses as an executive and artist.",
+          "copyright": "Doug Peters/STAR MAX, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs helped bring hip-hop to the masses as an executive and artist.",
+          "copyright": "Doug Peters/STAR MAX, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00diddy-arrest-tfhc/00diddy-arrest-tfhc-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean Combs helped bring hip-hop to the masses as an executive and artist.",
+          "copyright": "Doug Peters/STAR MAX, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "With ‘No Ordinary’ Fans, Sade Night Turns 10",
+      "abstract": "Fans of all ages slow-danced and lip-synced deep into the night, united by their shared love for Sade, an R&B star who has expanded her audience through social media.",
+      "url": "https://www.nytimes.com/2024/09/16/style/sade-night.html",
+      "uri": "nyt://article/bec62709-ad12-504b-ac5b-2264cf3b3b3b",
+      "byline": "By Rachel Sherman",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T16:51:22-04:00",
+      "created_date": "2024-09-16T16:55:24-04:00",
+      "published_date": "2024-09-16T16:55:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Parties (Social)",
+        "Fans (Persons)",
+        "Dancing",
+        "Rhythm and Blues (Music)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sade"
+      ],
+      "geo_facet": [
+        "Bushwick (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/16PARTYREPORT-SADENIGHT-01-wkhl/16PARTYREPORT-SADENIGHT-01-wkhl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sade Night, a party dedicated to the R&B artist Sade and her band, celebrated its 10th anniversary with an event at the Sultan Room in Bushwick on Saturday.",
+          "copyright": "Amir Hamja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/16PARTYREPORT-SADENIGHT-01-wkhl/16PARTYREPORT-SADENIGHT-01-wkhl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sade Night, a party dedicated to the R&B artist Sade and her band, celebrated its 10th anniversary with an event at the Sultan Room in Bushwick on Saturday.",
+          "copyright": "Amir Hamja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/16PARTYREPORT-SADENIGHT-01-wkhl/16PARTYREPORT-SADENIGHT-01-wkhl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sade Night, a party dedicated to the R&B artist Sade and her band, celebrated its 10th anniversary with an event at the Sultan Room in Bushwick on Saturday.",
+          "copyright": "Amir Hamja for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Jane’s Addiction to Cancel Tour After Onstage Fight",
+      "abstract": "In a social media post, the rock band said it was halting its reunion tour after the group’s singer, Perry Farrell, hit its guitarist at a Boston show.",
+      "url": "https://www.nytimes.com/2024/09/16/arts/music/janes-addiction-tour-canceled.html",
+      "uri": "nyt://article/fdb45773-76a1-5f09-a9fc-95bf8c6fffa7",
+      "byline": "By Annie Correal",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T00:01:13-04:00",
+      "created_date": "2024-09-16T15:59:51-04:00",
+      "published_date": "2024-09-16T15:59:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Assaults"
+      ],
+      "org_facet": [
+        "Jane's Addiction"
+      ],
+      "per_facet": [
+        "Navarro, Dave",
+        "Farrell, Perry"
+      ],
+      "geo_facet": [
+        "Boston (Mass)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16xp-janesaddiction-mfcb/16xp-janesaddiction-mfcb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1843,
+          "width": 1228,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Whitaker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16xp-janesaddiction-mfcb/16xp-janesaddiction-mfcb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Whitaker"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16xp-janesaddiction-mfcb/16xp-janesaddiction-mfcb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rich Whitaker"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Gallery Owner Sentenced in Fine Art Photography Swindle",
+      "abstract": "Wendy Halsted Beard, 59, agreed to sell photography prints on behalf of older collectors. She kept the profits for herself.",
+      "url": "https://www.nytimes.com/2024/09/16/arts/design/wendy-halsted-beard-fraud-sentencing.html",
+      "uri": "nyt://article/78573c4a-7986-5057-bc43-db214b594b98",
+      "byline": "By Annie Aguiar",
+      "item_type": "Article",
+      "updated_date": "2024-09-18T00:01:45-04:00",
+      "created_date": "2024-09-16T14:58:30-04:00",
+      "published_date": "2024-09-16T14:58:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Photography",
+        "Frauds and Swindling",
+        "Collectors and Collections"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Beard, Wendy Halsted",
+        "Baughman, J Ross"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/12detroit-photo-fraud3-hzcv-copy/12detroit-photo-fraud3-hzcv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wendy Halsted Beard, who ran a gallery out of her home in Franklin, Mich., has been sentenced to over five years in prison for defrauding collectors. ",
+          "copyright": "Brittany Greeson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/12detroit-photo-fraud3-hzcv-copy/12detroit-photo-fraud3-hzcv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wendy Halsted Beard, who ran a gallery out of her home in Franklin, Mich., has been sentenced to over five years in prison for defrauding collectors. ",
+          "copyright": "Brittany Greeson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/12detroit-photo-fraud3-hzcv-copy/12detroit-photo-fraud3-hzcv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wendy Halsted Beard, who ran a gallery out of her home in Franklin, Mich., has been sentenced to over five years in prison for defrauding collectors. ",
+          "copyright": "Brittany Greeson for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "UFO 50 Is an Ingeniously Retro Advent Calendar",
+      "abstract": "This compilation from a fictional ’80s video game company is constantly clever. By comparison, Atari’s latest resurrection effort, Yars Rising, is frustratingly banal.",
+      "url": "https://www.nytimes.com/2024/09/16/arts/ufo-50-yars-rising-review.html",
+      "uri": "nyt://article/023fe5a9-5430-539c-a264-9353f66f245f",
+      "byline": "By Harold Goldberg",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T14:48:25-04:00",
+      "created_date": "2024-09-16T14:48:25-04:00",
+      "published_date": "2024-09-16T14:48:25-04:00",
+      "material_type_facet": "",
+      "kicker": "Video Game Reviews",
+      "des_facet": [
+        "Computer and Video Games",
+        "UFO 50 (Video Game)",
+        "Yars Rising (Video Game)"
+      ],
+      "org_facet": [
+        "Atari"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17indiegame-reviews-thjv/17indiegame-reviews-thjv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UFO 50’s graphics are decidedly old school and the artists have done an admirable job with the meager 32 colors at their disposal.",
+          "copyright": "Mossmouth"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17indiegame-reviews-thjv/17indiegame-reviews-thjv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UFO 50’s graphics are decidedly old school and the artists have done an admirable job with the meager 32 colors at their disposal.",
+          "copyright": "Mossmouth"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17indiegame-reviews-thjv/17indiegame-reviews-thjv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "UFO 50’s graphics are decidedly old school and the artists have done an admirable job with the meager 32 colors at their disposal.",
+          "copyright": "Mossmouth"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Academic Plagiarism Complaint Against the Author of ‘White Fragility’ Dismissed",
+      "abstract": "In a letter, the University of Washington stated that the evidence presented in the confidential complaint failed to meet the institution’s criteria for plagiarism.",
+      "url": "https://www.nytimes.com/2024/09/16/books/robin-diangelo-plagiarism-charge-dismissed.html",
+      "uri": "nyt://article/6ef73ddb-c6ee-57b2-b8af-7d08576a4889",
+      "byline": "By Alexandra Alter",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:59:28-04:00",
+      "created_date": "2024-09-16T14:38:34-04:00",
+      "published_date": "2024-09-16T14:38:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Plagiarism",
+        "Colleges and Universities",
+        "Minorities",
+        "Race and Ethnicity",
+        "White Fragility: Why It's So Hard for White People to Talk about Racism (Book)"
+      ],
+      "org_facet": [
+        "University of Washington"
+      ],
+      "per_facet": [
+        "DiAngelo, Robin (Author)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/16diangelo-wjcv/16diangelo-wjcv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The University of Washington found there was no basis for conducting an investigation into Robin DiAngelo’s thesis, and dismissed the complaint that raised questions about her writing.",
+          "copyright": "Stuart Isett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/16diangelo-wjcv/16diangelo-wjcv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The University of Washington found there was no basis for conducting an investigation into Robin DiAngelo’s thesis, and dismissed the complaint that raised questions about her writing.",
+          "copyright": "Stuart Isett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/16diangelo-wjcv/16diangelo-wjcv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The University of Washington found there was no basis for conducting an investigation into Robin DiAngelo’s thesis, and dismissed the complaint that raised questions about her writing.",
+          "copyright": "Stuart Isett"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Books by Rachel Kushner and Percival Everett Make Booker Prize Shortlist",
+      "abstract": "For the first time in the award’s 55-year history, five of the six nominated titles are by female authors.",
+      "url": "https://www.nytimes.com/2024/09/16/books/booker-prize-2024-shortlist.html",
+      "uri": "nyt://article/05d02ace-f7c5-59d5-a201-e1581c9afe7d",
+      "byline": "By Alex Marshall",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:46:46-04:00",
+      "created_date": "2024-09-16T14:30:23-04:00",
+      "published_date": "2024-09-16T14:30:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Man Booker Prize",
+        "Creation Lake: A Novel (Book)",
+        "Held (Book)",
+        "James (Book)",
+        "Orbital (Book)",
+        "The Safekeep (Book)",
+        "Stone Yard Devotional (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Everett, Percival",
+        "Harvey, Samantha",
+        "Kushner, Rachel",
+        "Michaels, Anne (1958- )",
+        "van der Wouden, Yael",
+        "Wood, Charlotte (1965- )"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/16booker-shortlist-grid/16booker-shortlist-grid-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/16booker-shortlist-grid/16booker-shortlist-grid-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/arts/16booker-shortlist-grid/16booker-shortlist-grid-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "‘Shogun’: Here’s What to Know About the Record-Breaking Emmy Hit",
+      "abstract": "The FX epic ruled TV’s top honors, racking up 18 Emmys for its first season. Here is a brief guide to this saga of samurai warriors and star-crossed lovers.",
+      "url": "https://www.nytimes.com/2024/09/16/arts/television/shogun-fx-streaming-guide.html",
+      "uri": "nyt://article/ae635afb-2a6b-5604-a7c9-c581ed57e41a",
+      "byline": "By Sean T. Collins",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T10:04:01-04:00",
+      "created_date": "2024-09-16T13:01:24-04:00",
+      "published_date": "2024-09-16T13:01:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Emmy Awards",
+        "Shogun (TV Program)"
+      ],
+      "org_facet": [
+        "FX (TV Network)"
+      ],
+      "per_facet": [
+        "Jarvis, Cosmo",
+        "Marks, Justin (Screenwriter)",
+        "Sanada, Hiroyuki",
+        "Sawai, Anna",
+        "Kondo, Rachel"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16shogun-zmcf/16shogun-zmcf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Shogun,” with Hiroyuki Sanada, won 18 Emmy Awards, the most any show has ever won for a single season.",
+          "copyright": "Katie Yu/FX, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16shogun-zmcf/16shogun-zmcf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Shogun,” with Hiroyuki Sanada, won 18 Emmy Awards, the most any show has ever won for a single season.",
+          "copyright": "Katie Yu/FX, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16shogun-zmcf/16shogun-zmcf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Shogun,” with Hiroyuki Sanada, won 18 Emmy Awards, the most any show has ever won for a single season.",
+          "copyright": "Katie Yu/FX, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "In ‘Agatha All Along,’ Joe Locke Works Like a Charm",
+      "abstract": "A star of the Netflix hit “Heartstopper,” this actor is now joining the Marvel universe.",
+      "url": "https://www.nytimes.com/2024/09/16/arts/television/agatha-all-along-joe-locke.html",
+      "uri": "nyt://article/2d54ea4b-e840-5c1c-80c9-62ba76cc785e",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T23:57:18-04:00",
+      "created_date": "2024-09-16T12:27:33-04:00",
+      "published_date": "2024-09-16T12:27:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Heartstopper (TV Program)",
+        "Agatha All Along (TV Program)"
+      ],
+      "org_facet": [
+        "Disney Plus"
+      ],
+      "per_facet": [
+        "Locke, Joe (Actor)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/LOCKE-07-zlbj/LOCKE-07-zlbj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Locke became a breakout star with “Heartstopper.” Next up is the Marvel spinoff “Agatha All Along.”",
+          "copyright": "Kalpesh Lathigra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/LOCKE-07-zlbj/LOCKE-07-zlbj-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Locke became a breakout star with “Heartstopper.” Next up is the Marvel spinoff “Agatha All Along.”",
+          "copyright": "Kalpesh Lathigra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/18/multimedia/LOCKE-07-zlbj/LOCKE-07-zlbj-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Locke became a breakout star with “Heartstopper.” Next up is the Marvel spinoff “Agatha All Along.”",
+          "copyright": "Kalpesh Lathigra for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}
