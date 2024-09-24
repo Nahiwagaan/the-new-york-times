@@ -4,13 +4,20 @@ document.addEventListener('DOMContentLoaded', () => {
     if (path.includes('index.html')) {
         loadContent('home.json', 'home-section');
         loadContent('arts.json', 'arts-section');
-    } else if (path.includes('science.html')) {
+    } else if (path.includes('us&science.html')) {
         loadContent('science.json', 'science-section');
         loadContent('us.json', 'us-section');
-    } else if (path.includes('world.html')) {
-        loadContent('world.json', 'world-section')
+    } else if (path.includes('books&world.html')) {
+        loadContent('world.json', 'world-section');
         loadContent('books.json', 'books-section');
     }
+
+    const hamburger = document.querySelector('.hamburger');
+    const nav = document.querySelector('nav');
+
+    hamburger.addEventListener('click', () => {
+        nav.classList.toggle('nav-active');
+    });
     
     updateDate();
 });
@@ -79,7 +86,7 @@ function loadContent(apiUrl, sectionId) {
 
                         linkElement.onmouseover = () => {
                             linkElement.style.backgroundColor = 'black';
-                            linkElement.style.transform = 'scale(1.05)'; 
+                            linkElement.style.transform = 'scale(1.05)';
                         };
                         linkElement.onmouseout = () => {
                             linkElement.style.backgroundColor = 'black';
