@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const path = window.location.pathname;
 
-    if (path.includes('index.html')) {
+    if (path.includes('/')) {
         loadContent('home.json', 'home-section');
         loadContent('arts.json', 'arts-section');
     } else if (path.includes('us&science.html')) {
