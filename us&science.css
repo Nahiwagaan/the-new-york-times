@@ -48,6 +48,8 @@ nav a:hover {
 #content-layout {
     display: flex;
     flex: 1;
+    margin: 0 auto;
+    max-width: 1500px;
 }
 
 .us-header {

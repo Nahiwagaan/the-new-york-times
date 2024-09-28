@@ -48,6 +48,8 @@ nav a:hover {
 #content-layout {
     display: flex;
     flex: 1;
+    margin: 0 auto;
+    max-width: 1500px;
 }
 
 .books-header {
@@ -93,6 +95,7 @@ nav a:hover {
 img {
     max-width: 100%;
     height: auto;
+    margin-bottom: 10px;
 }
 
 .media-container {
